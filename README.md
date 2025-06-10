@@ -1,33 +1,19 @@
 # PF_GM_aid
 A tool to help Game Masters run Pathfinder 2e by processing and analyzing rulebook content.
 
-## Project Structure
-```
-PF_GM_aid/
-├── pdf/                    # Directory for original PDF files
-│   └── .gitkeep
-├── splitPDF/              # Directory for split PDF files
-│   └── .gitkeep
-├── data/                  # Directory for processed data
-│   └── .gitkeep
-├── parsePDF.ipynb         # Jupyter notebook for PDF processing
-└── README.md             # This file
-```
-
 ## Setup Instructions
 
-1. Create the required directory structure:
-   ```bash
-   mkdir -p pdf splitPDF data
-   touch pdf/.gitkeep splitPDF/.gitkeep data/.gitkeep
-   ```
-
-2. Install required Python packages:
+1. Install required Python packages:
    ```bash
    pip install PyPDF2 agentic-doc jupyter
    ```
 
-3. Place your Pathfinder 2e PDF files in the `pdf/` directory.
+2. Place your Pathfinder 2e PDF files in the `pdf/` directory.
+
+3. Make .env and add LandingAI API key
+   ```bash
+   export VISION_AGENT_API_KEY=<your_api_key>
+   ```
 
 ## Using parsePDF.ipynb
 
