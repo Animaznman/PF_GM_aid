@@ -1,9 +1,3 @@
-data/Legends/*.md
-data/Legends/*.json
-
-pdf/
-splitPDF/
-
 .DS_Store
 __pycache__/
 *.pyc
