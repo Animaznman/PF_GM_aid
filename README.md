@@ -10,6 +10,8 @@ A tool to help Game Masters run Pathfinder 2e by processing and analyzing rulebo
 
 2. Place your Pathfinder 2e PDF files in the `pdf/` directory.
 
+3. Visit [LandingAI](https://landing.ai/) and create account and get API Key
+
 3. Make .env and add LandingAI API key
    ```bash
    export VISION_AGENT_API_KEY=<your_api_key>
