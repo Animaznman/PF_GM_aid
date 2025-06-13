@@ -1,0 +1,27 @@
+[
+  {
+    "source_file": "licktoad_goblins.md",
+    "question": "What is the Licktoad Goblin's atomizer and how does it work?",
+    "answer": "Khismar developed an atomizer that distributes elixirs, oils, and potions as a fine spray or mist. It holds one consumable at a time and has 10 uses before requiring reagent replacement. Activating it via an Interact action allows you to spray the contents on yourself, an ally, or an unattended object, granting the target the consumable's effects. Another activation method allows you to fire the held consumable at a square within 30 feet, creating a cloud that affects the first valid target to enter."
+  },
+  {
+    "source_file": "licktoad_goblins.md",
+    "question": "What are the effects of Diluted Hype and what are its stages?",
+    "answer": "Diluted Hype is a synthetic adrenaline supplement that increases awareness and reaction time. Stage 1 grants quickened and an additional action to Step for 1 round; Stage 2 imposes stupefied 1 for 1 round; Stage 3 causes drained 1 and stupefied 1 for 1 round. The saving throw is DC 21 Fortitude with a maximum duration of 1 minute."
+  },
+  {
+    "source_file": "licktoad_goblins.md",
+    "question": "How does Plasma Hype differ from regular Hype?",
+    "answer": "Plasma Hype is infused with Numerian fluids and alchemical reagents to improve on the original Hype formula. It has a higher price (400 gp vs 100 gp), a higher item level (12 vs 8), and a higher saving throw DC (30 vs 25). Its Stage 1 effect includes a +10-foot status bonus to speed and allows using the additional action to Step, Stride, Climb, or Swim."
+  },
+  {
+    "source_file": "licktoad_goblins.md",
+    "question": "What was the purpose of the Corpse Heart, and what side effect led to the creation of the deadbomb serum?",
+    "answer": "The Corpse Heart was intended as a container for storage within a zombie, designed to break on impact. A side effect where a fire ray caused a subject's \"flaming guts\" to damage nearby targets led to the development of the deadbomb serum, aimed at recreating this effect."
+  },
+  {
+    "source_file": "licktoad_goblins.md",
+    "question": "Describe Chuffy Lickwound, Mogmurch, and Poog of Zarongel.",
+    "answer": "Chuffy Lickwound is a neutral evil goblin rogue with a face covered in pustules, a pet spider named Stankrush, and a penchant for stealth, stabbing, fire, and deadly pranks. Mogmurch is a neutral evil goblin alchemist with a butterfly-shaped birthmark on his forehead, a strong alchemical aroma, a pet toad named Amfibier, and a deceased mate named Rempty; he enjoys throwing bombs and experimenting with elixirs on himself and Chuffy. Poog of Zarongel is a neutral evil goblin cleric, the smallest of the four, who carries a pet toad (currently Nosquish) on his head, channels magic from Zarongel, is confident in combat, and terrible at riding animals. "
+  }
+]

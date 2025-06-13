@@ -1,0 +1,27 @@
+[
+  {
+    "source_file": "entwined_destinies.md",
+    "question": "What are the elemental traits associated with each type of genie for genie-touched companions?",
+    "answer": "Djinni (air), efreeti (fire), marid (water), and shaitan (earth)."
+  },
+  {
+    "source_file": "entwined_destinies.md",
+    "question": "How do genie-touched companions differ from savage or nimble animal companions?",
+    "answer": "Instead of choosing a savage or nimble animal companion, a character can choose a genie-touched companion. Genie-touched companions gain specific elemental traits and abilities based on the genie type chosen (djinni, efreeti, marid, or shaitan), which provides specific bonuses to stats, damage, resistances, and skills."
+  },
+  {
+    "source_file": "entwined_destinies.md",
+    "question": "What is the effect of being a Wildfire Scorcher as an efreeti-touched companion?",
+    "answer": "The companion gains resistance to fire equal to the character's level. Any creature that attempts to Grapple or Grab the companion, hits the companion with a melee unarmed attack, or hits the companion with a melee weapon Strike while adjacent to the companion takes 2d6 fire damage. The companion also gets an increased Dexterity modifier, legendary proficiency in Reflex saves, and expert proficiency in unarmored defense."
+  },
+  {
+    "source_file": "entwined_destinies.md",
+    "question": "Who are some of the key figures in the fight for abolition?",
+    "answer": "Key figures in the fight for abolition include Wynsal Starborn, Avarneus, Shimali Manux, Deena al-Parishat, Xerbytes II, Andira Marusek, Hashim ibn Sayyid, Abrogail Thrune II, Magdalena and Martum Fallows, and Toulon Vidoc."
+  },
+  {
+    "source_file": "entwined_destinies.md",
+    "question": "Explain the conflict involving Andira Marusek, Hashim ibn Sayyid, and Abrogail Thrune II.",
+    "answer": "Andira Marusek is attacking slaver ships from ports overseen by Hashim ibn Sayyid. In response, Hashim is sending aid to Queen Abrogail Thrune II, who is also involved in enslaving refugees. Abrogail Thrune II has ordered the deaths of Farmers Magdalena and Martum Fallows for helping slaves escape, but the Farmers are unknowingly compromised due to Toulon Vidoc."
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source_file": "kassi_aziril.md",
+    "question": "What is Kassi Aziril's stance on science and alchemy versus magical healing?",
+    "answer": "Kassi Aziril emphasizes science and alchemy over magical care for the sick and injured, leading to major discoveries, especially crucial in places like Rahadoum where faith and divine healing are less accessible."
+  },
+  {
+    "source_file": "kassi_aziril.md",
+    "question": "What are vaccines, according to the text, and how do they work?",
+    "answer": "Vaccines are specialized variants of antiplague that provide complete immunity to a specific strain of a single illness. They also provide a +2 item bonus on saving throws against other strains of the same disease."
+  },
+  {
+    "source_file": "kassi_aziril.md",
+    "question": "How does an addiction suppressant work, and what is unique about creating one?",
+    "answer": "An addiction suppressant suppresses the effects of an addiction for 1 day without the drug's effects and provides an item bonus against the addiction's save. Each drug requires a specific suppressant, and the suppressant must be a higher level than the drug it is meant to suppress."
+  },
+  {
+    "source_file": "kassi_aziril.md",
+    "question": "What benefit does the Medical Researcher skill feat provide?",
+    "answer": "The Medical Researcher skill feat allows you to use Medicine instead of Crafting when crafting healer's kits, vaccines, addiction suppressants, antidotes, antiplagues, elixirs of life, or other non-magical medical or healing items."
+  },
+  {
+    "source_file": "kassi_aziril.md",
+    "question": "According to the text, what does the Paragon Battle Medicine feat allow?",
+    "answer": "If you successfully use Battle Medicine, you can also reduce the target's sickened, enfeebled, or clumsy condition by 1. At higher Medicine skill levels, you can reduce frightened, stunned, stupefied, or drained conditions instead, or even all available conditions for a target who hasn't benefited from positive or healing magic recently."
+  }
+]
