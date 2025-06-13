@@ -1,0 +1,29 @@
+# JANATIMO
+
+SECRETS OF THE CITADEL None outside the Red Mantis know for certain what lies below the Crimson Citadel. Documents, rumors, and other sources allow for educated guesses, but it's certain that more complexes exist beyond those summarized here.
+
+A ODALIS, THE LAVISH HEART Living quarters, meeting halls, workshops, and other public-facing chambers can be found above ground.
+
+RUVARI, THE RUBY HALLS The uppermost levels of the Citadel's dungeons form a deadly maze of traps and terrors meant to provide protection to the lower levels and challenge lower-ranking assassins who seek to join the Vernai.
+
+SIVLAMLİK, THE HONEYED GARDENS Here, the leaders of the Red Mantis—and a rare few of their most important allies—keep their own quarters, pleasure halls, trophy collections, and more, along with deep prisons where those they choose to keep alive are kept under lock and key.
+
+SARZARI, THE GRAND LIBRARY Said to be one of the largest collections of lost knowledge in all Garund, the Sarzari Library also contains meticulous records of all contracts carried out by the assassins, along with an astounding array of rare, magical, and dangerous tomes.
+
+FAYNAS, THE IRON HEART The deepest reaches of the citadel harbor crypts for the Red Mantis assassins' honored dead, the greatest temple to Achaekek on Golarion, the personal quarters of the Blood Mistress, and several well-stocked and well-guarded treasuries.
+
+LEGENDS INTRODUCTION A–G H–M N–Z ENTWINED DESTINIES GLOSSARY AND INDEX
+
+UZUNJATI The Uzunjati are those among the Magaambya who learn and speak tales, from and to all peoples we encounter. Though our stories are a quieter magic than the strength of the trees or wrath of the storms, they have the power to teach, to shape our view of the world, and to keep us alive when all else has failed us.
+
+# JANATIMO SPEAKER OF THE WORLD'S TALES CG MALE HALF-ELF BARD My tale is intertwined with millions of othe spiders' web is built, but I shall do what I ca of the Uzunjati, the Learned One of the Mag Tales, and I remember everything. Being bo of the Magaambya, my destiny was alway being born with the gift of perfect recollect a normal childhood. I was tutored from infa archive for as much knowledge as possible.
+
+My tale is intertwined with millions of others, like the first strand atop which a spiders' web is built, but I shall do what I can to recount it. I am Janatimo, head of the Uzunjati, the Learned One of the Magaambya, Speaker of All the World's Tales, and I remember everything. Being born from the union of two scholars of the Magaambya, my destiny was always to follow in their footsteps, but being born with the gift of perfect recollection meant that I would never know a normal childhood. I was tutored from infancy so that I might serve as a living archive for as much knowledge as possible.
+
+The role I fill within the Magaambya now is quite unique. I am a teacher of our collected knowledge, but I also serve as a guide for how best to wield newfound understandings from the stories I tell. I give students lessons on magic in the form of tales of humility. I teach them history by speaking of long dead heroes from ages past. My lessons are those of context and perspective, not simply cold facts. To recite a tale is to offer all the truths contained within, not simply those that I see or choose to acknowledge.
+
+My purpose, and by extension the purpose of the Uzunjati, is to preserve stories. Stories provide context for our histories so that we are not just beholden to our past, but that we might learn from our memories. From the folklore of the long dead to the bedtime stories told by a loving father so that his child might grow up to be kind and wise, every tale is precious. Bitter enemies can become treasured friends with the right story of compassion and forgiveness to bridge the gap. Stories are the lifeblood that flows through our world. Each and every tale has a lesson to be learned, a warning to be heeded, something of value to be gained for all those that choose to perk their ears and listen. To forget a story and all of the gifts it bears is a tragedy, like forgetting the face of a once-cherished lover.
+
+To that end, I have brought the Uzunjati to Avistan. We cannot simply sit by in our libraries, hoarding our knowledge and only sharing it with those who seek us out. There are magics stirring in Avistan the likes of which have not been seen since the time of Old- Mage Jatembe himself. The people of Thassilon once again walk among the living, long after most of the waking world forgot them; their stories must be recovered and recounted so that they are not forgotten again. And who else better suited to ease them peacefully into their current circumstances than those that can recount all their lost years for them? The Whispering Tyrant's attempt to ascend to godhood has meant the loss of thousands, which is unthinkable from a moral perspective alone, but also consider the potential loss of generations of knowledge along with them. This atrocity has convinced even the most conservative among my order to agree that we must act. None are more suited to understand and help deal with such magical threats as the Magaambya. It is our duty as scholars, teachers, and storytellers to put our knowledge to the protection and betterment of the world we all share.
+
+# TALES OF THE NORTH Magaambya was originally founded so that Old-Mage Jatembe's teachings of magic could be spread to all that wished to learn them. While this is still a noble goal and one I personally take great pride in pursuing, there is so much more for us to do in Avistan. After all my studies of the Old-Mage's works, I've come to see magic as a living thing; if not used, it stagnates and withers within us.

@@ -1,0 +1,39 @@
+# SHIMALI MANUX
+
+halfling information broker), who provided the Ravens with a safe house. The Sapphire Butterfly continues to work with the Bellflower Network, particularly with Kintargo's **Nolly Peltry** (CG female halfling abolitionist) and Farmers Magdelena and Martum Fallows, in their efforts to liberate halflings and eliminate slavery in Cheliax and beyond.
+
+During her time as a Silver Raven, Vyvienne came to know **Lady Mialari Docur** (CN female elf spy), founder and headmistress of Lady Docur's School for Girls, and learned her secret: Lady Docur is also the founder and head of the Lacunafex, a spy network that operates throughout Cheliax. While the forlorn elf and the tiefling have little in common, they share knowledge and strategy in the fight against House Thrune. Docur has proved a pivotal ally in Vyvienne's endeavors, helping her keep up to date with the machinations of House Thrune to stay one step ahead of dottari and Hellknights while in Cheliax.
+
+While she has constant clashes with Hellknights, Vyvienne has established a cautious yet promising relationship with Lictor Toulon Vidoc of the Order of the Scourge, though he is not quite aware of it yet. Using her connections with both the Bellflower Network and the Lacunafex, Vyvienne places strategic bread crumbs for Vidoc and his Hellknights to find, providing them with additional evidence in their investigation of Queen Abrogail II. Vidoc finds the ease of acquiring evidence to be unusually convenient and has since begun an investigation of the Order itself to determine the origin of this evidence.
+
+From almost the moment that she sailed into Kintargo's harbor, Shimali Manux and Vyvienne have been close allies. Recognizing the similarities between the rebellions in Vidrian and Ravounel, Vyvienne embraced Shimali's cause, and the two women were instrumental in the birth of the international band of showboating rebels known as the Firebrands. Although they are seldom in the same place at the same time, they manage to work closely together. The Sapphire Butterfly has even been known to call on Manux's fleet for transportation to lands in need of Firebrand assistance.
+
+The Sapphire Butterfly's relationship with Hurricane Queen Tessa Fairwind, leader of the Free Captains of the Shackles, is much more complicated, in part because of the role of the Free Captains who served as mercenaries for Sargava (now Vidrian). A philosophical gulf exists between the Firebrands, who tend to be idealistic and see themselves as serving the greater good, and the Free Captains, who prize freedom as it suits and serves themselves. This fundamentally mercenary creed is not necessarily shared by Tessa, but it colors the extent to which Vyvienne is willing to trust or ally with the Free Captains. For her part, Tessa grudgingly admires the work of some notable Firebrands and is willing to ally with them when they ask for aid, though such alliances are never public.
+
+The Sapphire Butterfly's ultimate dream is a free Cheliax. Fueling that dream, deep in her soul, is a hatred of House Thrune. If she had the opportunity—even half of an opportunity—she would not hesitate to kill Queen Abrogail II. The feeling is mutual, with Queen Abrogail openly declaring the Sapphire Butterfly an enemy of Cheliax. The bounty on the Sapphire Butterfly's head has only made her efforts within Cheliax much more difficult, and exciting, as a result.
+
+PEOPLE OF NOTE Abrogail Thrune II (page 8), Magdelena and Martum Fallows (page 84), Shimali Manux (page 96), Tessa Fairwind (page 108), Toulon Vidoc (page 112)
+
+LEGENDS INTRODUCTION A–G H–M N–Z
+
+ENTWINED DESTINIES GLOSSARY AND INDEX
+
+# MISSION OF MERCY Shimali has recently received a plea directly from Farmers Magdelena and Martum Fallows. Nestled just inside the Ravounel border, the village of Sember Cove has been struck with scarlet leprosy. A Chelaxian frigate volunteered to coordinate aid efforts, but in truth the captain is attempting to starve the town as punishment for harboring Bellflower Network sympathizers. Shimali now plots to run the blockade and deliver clerical aid.
+
+SHIMALI MANUX
+
+ADMIRAL OF VIDRIAN'S NAVY NG FEMALE HALF-ELF SWASHBUCKLER *With my errand complete, I took stock of my situation. I was in Eleder on the eve of revolution. I had not a dagger to my name. Night was falling, and the local marines were combing the docks for drunkards to press into service. I decided to quit the city posthaste, under any captain who would have me.*
+
+_Said captain was Shimali Manux. My first assignment was to steal her a ship. That should give you a flavor of those wild days. Unlike today's Firebrands, Shimali was no showboater. She was daring because she had literally nothing to lose. The moonlit cutting-out expeditions? The mad duels in the ratlines? These were born of desperation and simple math: to free her country, she needed frigates. Turns out if you steal enough leaky tubs, they make you a legend._
+
+—Excerpt from the letters of Seimon Candelar, Gray Corsair Shimali Manux's Sargavan father was a spice trader, her elven Ekujae mother his guide and translator. They had two children, Shimali and **Vulmia** (NG female half-elf navigator). The girls, fraternal twins, spent their long childhoods in both parents' spheres, learning tables and tide charts one season and jungle lore the next. But the ocean pulled at Shimali, and when they were old enough, the sisters went to sea.
+
+Tragedy struck while they were away. Their father was blamed for missing funds and hanged, while Aspis Consortium loggers demolished their mother's village and the government stood by. Even as the sisters learned of these horrors, the sloop they served on was burned to the waterline for failing to pay a Free Captain a bribe.
+
+Prejudice and greed had left the girls orphaned and adrift. So Shimali and Vulumia went to war.
+
+The sisters fell in with a young Avarneus, who was equally desperate to shake off the Sargavan colonial yoke. While Avarneus remained on land, scheming from inside the government, the sisters assembled a ragtag crew of rebels, misfits, and hard-up adventurers. With Shimali taking the lead and Vulmia watching her back, they boarded ship after ship and commandeered them, striking at multiple ports simultaneously to keep harbormasters guessing. If luck turned against them, they hid in the jungle, recuperating with the Ekujae only to strike again.
+
+Soon, the rebellion in Vidrian brought down the barony and drove the Sargavan rulers from their shores. Only at that point did the struggle at sea begin in earnest. Outraged at the loss of Sargava's tribute, the Free Captains tried to sack the new nation in recompense. Shimali had been preparing for this, and she met them with her makeshift fleet, trading blow for blow until the decks were stained with blood. But Shimali's tenacity won out, and the ragtag alliance of Senghor's navy and Shimali's stolen ships drove the Free Captains from Desolation Bay. With that triumph, Vidrian was born.
+
+Desolation Bay. With that triumph, Vidrian was born. Since then, Shimali has been gathering allies for her fledgling country. She has made stops in every port she can, seeking introductions and promises of aid. To her relief, Absalom, Andoran, and Osirion responded positively. But her visit to Ravounel bore the most fruit. There she found a warm welcome among her fellow revolutionaries, the Silver Ravens. What began as an official pledge of mutual aid blossomed behind closed doors into a new network of freedom fighters, dedicated to fighting oppression and slavery wherever it may be found. True to their name, these Firebrands have sparked good deeds and feats of bravery across the continent, their progress aided by Shimali's swift fleet.
