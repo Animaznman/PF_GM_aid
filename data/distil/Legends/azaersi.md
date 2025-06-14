@@ -1,15 +1,5 @@
 # AZAERSI
 
-PALM CROSSBOW RARE Price 60 gp Usage worn; Bulk L This thick, elegant bracelet conceals a specialized firing mechanism that can hold a single blowgun dart. You can fire the dart normally from the bracelet. Recognizing the bracelet's nature requires a successful DC 25 Perception check. Activate Interact; Effect You expand the bracelet into a hand crossbow. The bracelet has enough pieces to assemble up to three bolts, but the bolts contain necessary components for the bracelet. Without all of the bolt pieces, you cannot collapse the crossbow back into a bracelet.
-
-"The most innocuous things oft make the best tools." —a
-
-VESTIGE LENSES RARE ALCHEMICAL ITEM 3 Price 40 gp Usage worn eyepiece; Bulk L These simple lenses are alchemically treated to detect the faint smoke trail from a piece of specially formulated sandalwood incense. This incense has an odor undetectable by most people and a long burn time, making it perfect for discreetly tracking individuals. A stick of this incense costs 1 sp and can safely burn for up to 8 hours. While wearing the lenses, you see alchemical fumes in a distinct green tint, granting you a +1 item bonus to Survival checks to Track a creature marked with the incense and to Perception checks to Seek any alchemical vapors. If the smoke is fresh, Tracking via the incense's fumes might use a lower DC than normal for tracking a creature walking on firm surfaces.
-
-"Inoffensive scents work best for tracking, though what that means often varies." –a
-
-LEGENDS INTRODUCTION A–G H–M N–Z ENTWINED DESTINIES GLOSSARY AND INDEX
-
 # FAMILIAR FACES General Azaersi served as the final villain of the Ironfang Invasion Adventure Path. Though she's a brutal tactician and a peerless warrior, _Legends_ assumes that Azaersi met her match in the commanders of the Nirmathas militia, as played by the PCs—not only did the militia rout Azaersi's Ironfang Legion, but its commanders likewise achieved the impossible, and convinced Azaersi to end her conquest of her own volition.
 
 AZAERSI
@@ -83,3 +73,9 @@ Activate ![inline figure: black diamond with white exclamation mark] command; **
 **Activate** ![inline figure: two black chevrons pointing right] command, Interact; **Frequency** once per day; **Effect** You cast 4th-level _darkness_. You can see clearly in this darkness.
 
 FLAMBOYANT CRUELTY FEAT 8 RARE SWASHBUCKLER You love to kick your enemies when they're down, and you look fabulous when you do. When you make a melee weapon Strike against a foe that has at least two of the following conditions, you gain a circumstance bonus to your damage roll equal to the number of these conditions the foe has. The qualifying conditions are clumsy, drained, enfeebled, frightened, sickened, and stupefied. If you hit such a foe, you gain a +1 circumstance bonus to skill checks to Tumble Through and to perform your style's panache-granting actions until the end of your turn.
+
+IRONFANG RECRUIT MANUAL Peacetime Policies Keep your unit badge and travel papers on you at all times. These papers identify you as a citizen of Oprak entitled to full legal rights. They must be displayed to border guards when entering non-hobgoblin lands and in case of questioning by authorities. Failure to carry identification papers will be punished by ten lashes and half rations for a week. Stay with your unit at all times unless instructed otherwise by your commanding officer. Do not wander alone in non-hobgoblin lands. Do not seize or kill things, regardless of whether they are guarded or offer insult. Report challenges and insults to your commanding officer. Do not take direct action. Your commanding officer will be given a copy of local laws upon entering a new region. You are responsible for obeying these laws.
+
+INTERACTION WITH HUMANS Humans value displays of generosity toward weak creatures, such as: small humans, old humans, and dogs of useless types. You may offer food and assistance to such creatures to win favor with their masters. For best results, the food should be mushy and no longer alive. Humans also value complimentary words said about the diversion of resources to useless purposes. For example, humans enjoy wasting water and arable land on inedible flowers, and often walk in circles among such flowers for hours. Express approval of such activities and participate in them as directed by your commanding officer.
+
+**Remember!** Failure to adhere to the Peacetime Policies will result in flogging, branding, and the crushing of both arms, followed by permanent exile from Ōprak!

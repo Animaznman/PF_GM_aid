@@ -1,23 +1,5 @@
 # HAO JIN
 
-Arazni's defection as a cue to turn upon each other in efforts to gain Geb's favor. His greatest difficulty comes from the very magic that reanimated him, however, as Geb's spirit is bound to the soil of Mechitar, the capital city where his palace rests. Until he can deal with these obstacles, Geb won't be truly ready for Nex's return.
-
-# MARCH TO WAR For the first time in thousands of years, Geb is truly taking stock of his country. In doing so, he discovered that at least three cities, including a necropolis that once held the greatest school of necromancy in all of Geb, have been completely wiped from the map. Some of his more astute subjects have deduced that these locations were taken into the Hao Jin Tapestry but were not restored with the return of the Ruby Phoenix. Geb has sent a small group of ambassadors to the city of Goka to negotiate the return of the necropolis or, failing this, demand the aid of Hao Jin herself as compensation for its loss.
-
-Far to the north, Camilia Drannoch of Galt has been in secret negotiations to rid her country of their *final blades* once and for all. While many have expressed interest in destroying the blades to free the souls trapped within, Geb is more interested in reforging the blades themselves into horrific cleavers to arm his graveknight generals. Since the country of Geb grows far more food than its few living citizens need, it is in an excellent position to bargain with the starving rebels of Galt.
-
-While the dwarven Sky Citadel of Dongun Hold was little more than a footnote in the first war with Nex, this time Geb has been forced to take notice of the dwarven kingdom and the thriving city-state growing in its shadow. With the firearms of Alkenstar and the technological secrets of Dongun Hold, an alliance with High King Anong Arunak is something Geb now sees as in his best interests. Even if the dwarves ultimately prove of little use, snatching away one of Nex's presumed allies would be an amusing preamble to the coming war.
-
-In a desperate bid to free himself of whatever power keeps him trapped in Mechitar, Geb has invited necromancers, clerics of death, mediums, and all manner of occultists to the capital in hopes that one of them will be able to solve the mystery of his curse. Despite his mastery of necromancy, he seems unable to recognize his own nature as a ghost as the culprit of his imprisonment; his suicide and subsequent revival are scars on his memory that he struggles to piece together. He has offered all manner of rewards for anyone who can aid him or, for the more reluctant, a cell in his dungeon until a solution has been found.
-
-While some scramble to choose a side in the looming war, many more wish to stop it before it can even begin, including ambitious liches and vampires who have no desire to play pawns in a ghost king's war games, arclords who will lose all status and authority if Nex returns, and thousands of innocent bystanders who would be caught in the crossfire. Adventurers, pathfinders, and mercenaries all across the Impossible Lands have been hired in secret to find some way to preserve peace. Some of Geb's more traitorous governors plot the ghost king's assassination, ready to claim the throne for themselves, while others seek heroes who can find a way to prevent Nex from ever returning at all. Yet these agents must act with care: there will be no mercy for anyone who denies Geb his chance to face his old foe once again.
-
-PEOPLE OF NOTE Anong Arunak (page 14), Arazni (*Pathfinder Lost Omens Gods and Magic* 54), Camilia Drannoch (page 38), Hao Jin (page 46), Nex (page 90), Tar-Baphon (page 104)
-
-# ACADEMIC PRESSURE Geb seeks new weapons, advantages, and allies to prepare himself for the impending war, especially any that might have extraplanar magic or abilities. He has pushed for greater arcane developments from the various necromantic colleges throughout Geb, such as the Mortuarium in the city of Yled.
-
-- LEGENDS - INTRODUCTION - A–G - H–M - N–Z - ENTWINED DESTINIES - GLOSSARY AND INDEX 45
-
 # FAMILIAR FACES Hao Jin and her tapestry have played a prominent role in the Pathfinder Society organized play campaign over the past decade, with players from around the world deciding the ultimate fate of the sorceress and her magical creation. To help shape the world of Golarion through organized play, visit pathfindersociety.club and join the community!
 
 HAO JIN
@@ -75,3 +57,15 @@ STARSHOT ARROW ITEM 7+ RARE CONJURATION CONSUMABLE MAGICAL Ammunition arrow Acti
 Type lesser; Level 7; Price 55 gp The target must be within the maximum range of your weapon.
 
 Type greater; Level 14; Price 800 gp You can fire at any creature you can detect, regardless of range. The arrow travels instantly, hitting your target as soon as you fire the arrow. This is a teleportation effect.
+
+TAPESTRY SITES The following notable sites once dwelt within the famed Hao Jin Tapestry. ONHAE Home to the descendants of the Sunsu Godae people of the Chung Liao jungle, this humble village contained the last vestiges, traditions, and religion of this culture, as well as stories that have otherwise been entirely lost from Golarion.
+
+TAIKAGA TEMPLE One of the first locations that Hao Jin sought to preserve, this temple and its nearby lake were guarded by sovereign dragons who swore an oath that they and all their descendants would help to maintain balance within the tapestry.
+
+THE TEMPLE OF EMPYREAL ENLIGHTENMENT The hilltop Temple of Empyreal Enlightenment was originally from Tianjing, a nation of aasimars. Hao Jin was gifted it so that its beauty and the teachings of Empyreal Lord Korada could be preserved within the tapestry for all time.
+
+MOUNTAIN OF CHAINS The dwarves of this mountain, descendants of the last survivors from the Sky Citadel of Jormundun, lived peacefully until Hao Jin vanished and the magic of her tapestry began to fail, prompting the community to accept aid from the god Droskar.
+
+THE SUNDERED CITY Hao Jin claimed this crumbling ziggurat, part of a massive complex of serpentfolk ruins, to preserve the site and contain the undead serpentfolk still within, though she also accidentally pulled the Muckmouth lizardfolk into her tapestry in the process.
+
+LEGENDS INTRODUCTION A–G H–M N–Z ENTWINED DESTINIES GLOSSARY AND INDEX 49

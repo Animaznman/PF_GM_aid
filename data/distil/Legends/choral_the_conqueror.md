@@ -1,21 +1,5 @@
 # CHORAL THE CONQUEROR
 
-# THE FACE OF THE REVOLUTION Camilia cares desperately for the souls locked away in the _final blades_ and has turned to Geb as an unlikely ally, where death has revolutionized what it means to live. She sent envoys to the undead country seeking to foster an alliance with the grand necromancer, offering intelligence on both the nation and Spire of Nex in exchange for Geb freeing the stored souls of her fellow citizens. This is an ideal solution for Camilia, as the souls can either exist freely in Geb or pass onto their final judgment as they choose—and while Geb is a difficult ruler to reason with for both the living and the dead, his obsession with the archmage Nex and his lack of living spies to infiltrate his rival's nation has left him considering the offer.
-
-Though Camilia has done her best to improve foreign relations after the damage done by her predecessor, Galt's notorious instability has made this an uphill battle. Though Grand Princess Eutropia has offered Taldor's friendship to the Revolutionary Council, the recent Taldan civil war has left her wary of anything resembling revolution. Camilia believes Eutropia is holding herself back from realizing Taldor's true potential; she wants to push Eutropia further and radicalize the new grand princess.
-
-Camilia has diligently pursued an alliance with Andira Marusek of Andoran, in part to contrast herself publicly with Citizen Korran Goss, but also because Andira shares her wish to see the end of the *final blades*. Camilia knows that Andira would balk at some of the more violent things she's done to secure Galt's future, so she has thus far limited the information Andira receives to what she wants Andira to hear.
-
-Though Camilia spent her childhood in Kyonin, she never fell in love with the country. Queen Telandia Edasseril ruled as monarch and yet was reluctant to rally the elves toward any cause, leaving Kyonin seemingly adrift between the worst aspects of freedom and autocracy. Though Camilia has so far been diplomatic to the elven queen, she ultimately sees Telandia as an obstacle. The outward appearance of a close relationship between Camilia and the female rulers of Galt's neighboring nations has not gone unnoticed, however; some of Camilia's detractors have begun to refer to them collectively as the "Four Queens," which only fuels Camilia's discontent.
-
-# THE WEIGHT OF LOSS Though she has learned to keep her dissent against the Grey Gardeners from becoming public, Camilia is never seen without a pair of striking accessories. She wears a polished steel choker and a red scarf around her neck at all times, a reminder of the weight of Galt's troubles and the bloody price her family paid because of it.
-
-LEGENDS INTRODUCTION A–G H–M N–Z ENTWINED DESTINIES GLOSSARY AND INDEX
-
-# A WEB OF INTRIGUE Camilia is determined to prove that Galt is a player on the world's stage. Its prestigious universities may be destroyed, its people starving, its once-idyllic countryside now teeming with brigands—but none of that can hold back the Galtan spirit. Another revolution would hurt her goals; she instead takes on spies and agents, sending them across Galt to seek out information on the Gray Gardeners and others who would undermine Camilia's position. Only Camilia's most trusted agents know of her efforts to destroy the final blades and the Gray Gardeners. The people of Galt would doubtless reject her should they learn of her plan to end the blades' hold on the country, and all of Camilia's careful work will have been for naught. When she does strike against the Gardeners, it must be quick, and it must be final.
-
-PEOPLE OF NOTE Andira Marusek (page 12), Eutropia Stavian (page 42), Geb (page 44), Nex (page 90), Telandia Edasseril (page 106)
-
 Choral the Conqueror
 
 FIRST RULER OF BREVOY CE MALE HUMAN TYRANT Over two hundred years ago, the warlord Choral Rogarvia swept out from obscurity to conquer the northern nations of Issia and Rostland. With two red dragons leading his forces, the so-called Choral the Conqueror was nigh unstoppable and, in less than a year, he united the two rival nations under his double-headed dragon banner as the new nation of Brevoy.
@@ -33,3 +17,37 @@ Expecting more of the same, Nephaira unwrapped the water-stained burlap. Inside 
 Nephaira's heart quickened at the sight. That crest— Her pulse racing, she wiped the lock with a damp cloth, forcing herself to remain calm until she could be sure. The cloth was soaked in alchemical solvents that melted away decades of mud and neglect. Bit by bit, it revealed the red and gold dragon crest of House Rogarvia.
 
 The emblem was authentic. The red dragon scales were shimmering enamel edged in real gold, too costly and finely wrought to be an imitation. The golden shield behind it bore a unique greenish tint. Electrum, a signature limited to Brevoy's royal jewelers.
+
+"It's real," she told the fisherman. At first, he blinked, taken utterly by surprise. He'd not expected this either, but Nephaira saw hope rekindled in his eyes.
+
+"Is it valuable?" Desperation strained his voice. "My nets are old. My boat leaks. My children shiver for cold, day and night, and we have not enough bread. Can I sell this... this dragon box?"
+
+"The box itself is worth... two and a half weights in gold. Anyone who offers less is trying to cheat you." Privately, Nephaira thought the fisherman would be lucky to get half that sum—his desperation was too obvious, and the nobles' agents didn't get paid for being soft-hearted—but she could at least tell him its true value. Honesty was her watchword.
+
+"I'd like to see what's in it, though," she said.
+
+When the fisherman nodded, Nephaira took out her tools and began cleaning out years of mud and corrosion. Slow going, but eventually she managed.
+
+Inside were... papers. Nephaira removed them one by one, baffled. A hodgepodge of village records, letters from the hinterlands, and other miscellany. The box had been well sealed, and none of the documents evinced water damage, but she couldn't fathom why they would have warranted such protection.
+
+The fisherman waited, fidgeting. "What are they?" Puzzled, Nephaira began reading more carefully. Midway through the fourth letter, it dawned on her. Dragons. The documents were all about dragons. Aggrieved knights seeking recompense for burned lands. Village elders recording the deaths of devoured peasants. Astrologers noting incidental sightings in the sky; physicians requesting burn ointments to treat survivors. Some of the documents were dated. Others referenced contemporaneous events, setting signposts in time. Nephaira searched her memory, measuring what she knew against what she read.
+
+All the sightings matched times when Choral the Conqueror, first king of Brevoy, was known to be in that area—and when the royal red dragons were known to be elsewhere. Each letter was a brick in a wall of proof that Choral was not the human warlord that official historians had always claimed, but was himself a red dragon.
+
+It couldn't be true. It *had* to be true. That ridiculous rumor, so long dismissed as the wild-eyed fancy of amateur cranks, was in fact a truth that Brevoy's early government had gone to great lengths to suppress.
+
+She pushed her chair back, rubbing her eyes again. Outside, the sky had grown dark. She hadn't even noticed the night falling.
+
+The fisherman, who'd dozed off, stirred. "Is it valuable?" Nephaira hesitated. The documents had been hidden, not destroyed, which suggested that someone had seen value in them centuries ago. To blackmail Choral's descendants, perhaps. But now House Rogarvia was vanished without a single survivor, and she couldn't imagine how revealing Choral's true nature would help any of the noble houses maneuvering for Brevoy's throne. The only value she could see was in completing the historical record.
+
+"I don't think so," she answered. "But I'll buy them for a fair price." It was the wrong thing to say. Nephaira saw the fisherman's face harden. Her heart sank as he reached for the papers and swept them back into the box. "I will sell them myself," he said, firmly, and left.
+
+Nephaira sank back into her chair. She didn't see the dark figure that peeled off the hut's shadowed wall to follow the fisherman, and she never learned what happened to the man. All she knew, then and there, was that the box with the dragon seal had been full. Too full to have held everything.
+
+Which meant there were more documents out there, somewhere. And she would find them.
+
+PEOPLE OF NOTE Irahai (page 54), Khismar Crookchar (page 78), Nephaira (N female half-elf archivist)
+
+WITH SWORD AND FLAME For ten years, Choral sat on the Dragonscale Throne as the first king of Brevoy, but in all that time, he did little to unite the Issians and Rostlanders as a single people, leaving old divisions to fester while he amassed wealth in his Ruby Fortress. As king, Choral was a remote and terrifying figure, little seen by his people and less loved. Except for his rare, unpredictable tours across Brevoy—tours that he used primarily to visit terrible retribution on wayward vassals, to remind them of the price of disloyalty—Choral rarely left his seat of power in New Stetven. Without Choral or his heirs to maintain unity, the nation of Brevoy has remained split at the seams. Old rivalries and new grudges have pushed the Issians and Rostlanders to the brink of civil war. Yet some few still fear this political infighting will only attract the return and wrath of House Rogarvia, and that those who fight for the right of rule will pay the price for presuming to lay claim to King Choral's crown.
+
+LEGENDS INTRODUCTION A–G H–M N–Z ENTWINED DESTINIES GLOSSARY AND INDEX

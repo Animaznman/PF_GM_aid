@@ -1,27 +1,5 @@
 # Toulon Vidoc
 
-White Estrid's accomplishments and rise to power, Thira had come to respect the other woman as a ruler and as an accomplished leader, but Thira could already see the ugly comparisons that would be drawn between the two of them. And so, Thira had chosen White Estrid as the target of her message to the world of her own power and strength.
-
-Knowing White Estrid's attachment to her crag linnorm and her controversial choice of keeping it as a pet rather than killing it, Thira had spent a great deal of time and effort hunting another of its kind. The crag linnorm Thira had tracked and found months ago was asleep when she arrived at its lair. The temptation to cut its head off in its sleep was strong, but she was well aware she couldn't do that. It would have to be an honest, one-on-one fight. Thira closed her eyes, going through the magic she had at hand and keeping her plan in mind. With a deep breath, she jumped down, sword at the ready, the runes on her face glowing bright. The linnorm's orange eyes opened and quickly focused on her.
-
-"Do you have a name?" Thira shouted, her voice echoing in the cavern. The linnorm rose, its head reaching up high and looking down at Thira. "Zahasha," it said with a hiss, letting the sound drag on. "I am Thira Ash-Eyes, and I will kill you for my right to rule."
-
-The linnorm seemed amused as it lunged for her. Thira dodged aside and let a bright green ray of light fly off her sword to strike the linnorm. Panic quickly set in behind Zahasha's eyes as smoke rose from the horrific wound left by the spell. The linnorm's stance changed, from a hunter toying with its food to prey fighting for survival. It rushed her again, and this time Thira let her guard down, letting the claws rake across her body. She could feel the bright burn as it ripped open wounds upon her arm, yet the creature was weaker than she had expected. Thira conjured another spell and then faltered for a moment; she couldn't risk destroying the linnorm's head. In that moment of hesitation, the linnorm rounded on her, its tail wrapping around her and pulling her toward its venomous teeth.
-
-Thira took the risk, channeling powerful life-draining magic through her sword. As soon as the sword hit the linnorm's neck, the spell took effect, nearly jerking the blade from her grasp as it sank deeper. The horrified linnorm clawed at her, to no avail, as Thira pushed on. The tail let go just as the creature's head fell to the ground.
-
-**RETURN** When she walked through the gates of Kalsgard several days later, her arms numb from the linnorm's claws and from dragging the beast's heavy head behind her, she was surrounded by whispers of doubt and disbelief. The shock and confusion that started at the gate turned to shouts of cheating and witchcraft by the time she had reached the keep. She heard her siblings' voices, Birgun Whale-Eater and Yngvilda the Bold, those who had squabbled for power when their father departed. By the time she arrived at the castle doors, one voice was loudest above all. Uldren Orcsbane, her eldest brother and the most ambitious of her siblings, who had always been among the first to discredit her. She slowly turned to face him, and the crowd quieted down.
-
-"If you don't believe me, bring a priest to the throne room, and I will recount the whole fight before the judgment of the gods. "After that, however, you will apologize to your king."
-
-PEOPLE OF NOTE Baba Yaga (page 30), Birgun Whale-Eater (CN human male bard), Nankou (page 88), Sveinn Blood-Eagle (CN male human barbarian), Uldren Orcsbane (CN human male barbarian), White Estrid (page 116), Yngvilda the Bold (LN female human fighter)
-
-# UNFINISHED BUSINESS For years Thira's father, Sveinn Blood-Eagle, plotted to strike out against the nation of Irrisen and reclaim the land Baba Yaga had taken from the linnorm kings. Knowing his years were growing short, Sveinn had recently been increasing his preparations, spurred on by news of the fall of the winter queen and the change in rulership. Yet Sveinn abandoned his plan and sailed across
-
-the sea to the land of Valenhall, leaving his grand mission unfulfilled. His actions sent a ripple of confusion through the Thanelands, with many wondering aloud what reasons could have caused Sveinn to so depart. Some blame underhanded tactics from Baba Yaga and her daughters or treachery
-
-from Sveinn's heirs; others quietly suggest an unromantic villain such as a stroke or heart attack finally laid the old warrior low. Thira Ash-Eyes might know, but that would require her peers to ask her opinion, and to thereby accept that Sveinn considered her worthy of keeping his counsel where others were not.
-
 # MISSING IN ACTION Lictor Vidoc has pressed his agents to determine whether there are any survivors of the Order of the Coil in Vidrian who might be debriefed about that Order's fate. The Order of the Scourge suspects that the Coil may have overstepped its bounds, and thus their interest is not to visit retribution on Vidrian's revolutionaries. However, because of the Coil's past abuses, Hellknights are unwelcome in Vidrian. Accordingly, Lictor Vidoc has been forced to work through intermediaries.
 
 TOULON VIDOC
@@ -39,3 +17,21 @@ Before Vidoc could finish his investigation, it was shut down unceremoniously. E
 # THE ROAD TO HELL Frustrated, Vidoc left the dottari and joined the Order of the Scourge. Here, his lack of noble ancestry posed no obstacle, and he rose quickly through the ranks. Toulon Vidoc rapidly developed a reputation for precise thinking, dogged determination, and tremendous personal courage. His years navigating Egorian's politics also left him far more adept at manipulating the levers of power than most Hellknights could ever be.
 
 Within less than a decade, Vidoc rose from a rank-and-file Hellknight to lictor. He shaped the Hellknights under his command in his own image, constantly exhorting them to develop new policing strategies, build up informant
+
+networks, earn the trust of the populace, and never flinch from bringing wrongdoers to justice. At the same time, he cultivated grateful nobles throughout Chelaxian society, ensuring a certain level of autonomy and protection for his investigators.
+
+His career has been burnished by his Order's successes. Five years ago, Vidoc secretly captured the Bellflower Network's previous leader, Farmer **Hannelore Fallows** (NG female halfling abolitionist). The hellspawn Hellknight **Jheraal** (LN female tiefling^APG human hellknight) solved a series of unsettling murders in Westcrown, ultimately tracing them to agents of the graveknight Order of the Crux. Master of Blades **Uldrannas Haelcant** (LG male human hellknight) continues to pursue a 40-year-old ring of necromantically influenced organ harvesters and kidnappers. Though he has not succeeded in apprehending its ringleaders, he has greatly diminished its activity.
+
+The Order of the Scourge, under Lictor Vidoc's guidance, has also taken a passing interest in the disappearance of Absalom's primarch, Lord **Gyr of Gixx** (N male human rogue), and the appointment of Wynsal Starborn as acting primarch in Gyr's place. The Hellknights' interest is to ensure that Absalom continues to run smoothly, as the city-state is too important a trading power to be allowed to slip into chaos.
+
+Vidoc's accomplishments unsurprisingly drew the attention of Queen Abrogail II of Cheliax. While Vidoc had so far managed to maneuver around Abrogail's interest in him—an interest he believes may have bordered on the romantic more so than the political—he recently earned her scrutiny due to Order of the Scourge's investigation into the queen herself. The Order posits that Abrogail may have had a hand in Cheliax's recent turmoil for political or financial gain. News of Abrogail's attempts to hire Blood Mistress Jakalyn to dispatch the queen's enemies, potentially including members of the Order of the Scourge, have only pushed this investigation to the Order's highest priority. Vidoc has halted the investigation for the moment as he considers his strategy, but stirrings throughout the Order of the Scourge suggest that the Hellknights will not be daunted by Abrogail and the investigation will be moving forward. A conflict between these powers seems near inevitable.
+
+PEOPLE OF NOTE Abrogail Thrune II (page 8), Avarneus (page 22), Jakalyn (page 56), Magdelena and Martum Fallows (page 84), Wynsal Starborn (page 118)
+
+# OLD FAVORS A peculiarity of Toulon Vidoc's early career was his lack of interest in claiming credit for his successes. It was the work itself that absorbed him, not the acclaim that followed. While Vidoc was quick to volunteer for the hardest cases, he was also happy to let other dottari claim credit for the apprehensions. These
+
+traits made him invaluable to many of Egorian's ambitious young officers, who lacked his skills but had the right names for promotion. To this day, many senior officers in Egorian's dottari owe their positions
+
+to Toulon Vidoc, who earned the laurels that they've been resting on ever since. While Vidoc has never actually threatened to expose such
+
+frauds, these senior dottari are acutely aware that he could, and as such, they have a strong interest in accommodating Vidoc's requests.

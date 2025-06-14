@@ -1,23 +1,5 @@
 # SAPPHIRE BUTTERFLY
 
-# FRIENDS AND FOES OF THE FAITH As the head of his own religion, Razmir has few friends. His foes weigh far more heavily on the Living God's mind.
-
-Artokus Kirran, the Thuvian alchemist, has long been brewing a precious sun orchid elixir that can return any imbiber to youth. After Razmir's winning bid on the elixir was fraudulently rejected—at least, in his own mind—rumors hold that Razmir has sent a number of agents of Thuvia to either steal the recipe for the elixir or perhaps even kidnap the alchemist.
-
-Razmir technically remains at war with the elven nation of Kyonin, though the ruler seems to have little interest in actually pursuing any battles with his neighbors. Yet Queen Telandia Edasseril's policy of allowing fleeing citizens of Razmiran into Kyonin, so long as they aren't Razmir's priests, has recently resulted in turmoil along the two nations' shared borders. In addition to refugees being attacked by cultists intent upon showing defectors the error of their ways, Queen Telandia suspects that Razmir may have sent infiltrators to weaken Kyonin for some unknown purpose—or simply out of spite.
-
-No one is a bigger threat to Razmir's rule than the Whispering Tyrant. Freed from his prison under Gallowspire, Tar-Baphon is now rebuilding his fortress on the Isle of Terror, making his return an existential threat to all those who border Lake Encarthan. Not long after the Tyrant's return, Razmir sent a herald to the Isle with an offer of nonaggression. The herald returned, now a wraith wearing the mask of Razmir's faith, accepting the offer with one condition: Razmiran would tithe its dead to the Tyrant, at least 1,000 bodies per month, to maintain the peace. No one knows if the Living God accepted these terms, but as of yet there has been no fighting between the two. The Pale Mask, as the herald has come to be known, still resides in Thronestep and can be found wandering the city at night. Yet Blood Mistress Jakalyn of the Red Mantis Assassins recently announced that someone had paid for a contract to be placed on Tar-Baphon, and discovered that the messenger hailed from Razmiran. It's uncertain whether the missive was from Razmir himself, an acolyte who overstepped, or an enemy hoping to gain Razmir the wrong sort of attention, and just as uncertain is what might result from a clash between any of these three powers.
-
-PEOPLE OF NOTE Artokus Kirran (page 18), Jakalyn (page 56), Tar-Baphon (page 104), Telandia Edasseril (page 106)
-
-# THE UNMASKED SERVANT Countless servants and sycophants are found among the ranks of Razmir's priesthood, and many of these are important to the operation of his kingdom and religion. Most of Razmir's
-
-faithful prefer to maintain their anonymity behind the masks that they wear, but not **Vilnaria Tyn**, the Red Coin (LE female human cultist). Her mask is cracked down one side, missing from the nose down, revealing
-
-part of her face. Vilnaria serves as Razmir's personal enforcer, rooting out the unfaithful and punishing any who dare to displease the god. Anyone unfortunate enough to receive her red
-
-coin has 1 day to make amends for their transgressions or face her wrath. On more than one occasion, Vilnaria has left the remains of those who failed to appease her out in public for all to see, as a warning to those who would dare to defy Razmir.
-
 # HELLSPAWN IN CHELIAX Tieflings can face prejudice from many sources due to their association with fiends, but ironically, one of the places they are most despised is the devil-worshipping nation of Cheliax. Though citizens pay homage to the devil Asmodeus, society believes any relations with lesser devils should be one with the mortal firmly in command–tieflings are seen as a sign of a lapse in judgment and a corruption of a mortal bloodline.
 
 SAPPHIRE BUTTERFLY
@@ -33,3 +15,21 @@ When the Vidric rebels sailed into Kintargo's harbor, the Sapphire Butterfly was
 Vyvienne remains close to her sister, **Emylne** (NG female tiefling^APG human seamstress), who brims with courageous loyalty and offers her support whenever possible. But Emylne is happy to make costumes for Kintargo's operas and to contemplate bringing children into an improving world. Vyvienne has no such dreams for herself, no desire to settle down or to complicate the freedom that allows her to be where she is needed, whenever she is needed. In truth, she has never allowed herself to fall in love. She has never been willing to be that vulnerable—not even when romantic entanglements were in vogue among her acting friends, in those long-ago days before the Night of Ashes.
 
 DRAMATIS PERSONAE When Vyvienne joined the Silver Ravens and their rebellion, she became familiar with the Bellflower Network, thanks to operative Laria Longroad (CG female
+
+halfling information broker), who provided the Ravens with a safe house. The Sapphire Butterfly continues to work with the Bellflower Network, particularly with Kintargo's **Nolly Peltry** (CG female halfling abolitionist) and Farmers Magdelena and Martum Fallows, in their efforts to liberate halflings and eliminate slavery in Cheliax and beyond.
+
+During her time as a Silver Raven, Vyvienne came to know **Lady Mialari Docur** (CN female elf spy), founder and headmistress of Lady Docur's School for Girls, and learned her secret: Lady Docur is also the founder and head of the Lacunafex, a spy network that operates throughout Cheliax. While the forlorn elf and the tiefling have little in common, they share knowledge and strategy in the fight against House Thrune. Docur has proved a pivotal ally in Vyvienne's endeavors, helping her keep up to date with the machinations of House Thrune to stay one step ahead of dottari and Hellknights while in Cheliax.
+
+While she has constant clashes with Hellknights, Vyvienne has established a cautious yet promising relationship with Lictor Toulon Vidoc of the Order of the Scourge, though he is not quite aware of it yet. Using her connections with both the Bellflower Network and the Lacunafex, Vyvienne places strategic bread crumbs for Vidoc and his Hellknights to find, providing them with additional evidence in their investigation of Queen Abrogail II. Vidoc finds the ease of acquiring evidence to be unusually convenient and has since begun an investigation of the Order itself to determine the origin of this evidence.
+
+From almost the moment that she sailed into Kintargo's harbor, Shimali Manux and Vyvienne have been close allies. Recognizing the similarities between the rebellions in Vidrian and Ravounel, Vyvienne embraced Shimali's cause, and the two women were instrumental in the birth of the international band of showboating rebels known as the Firebrands. Although they are seldom in the same place at the same time, they manage to work closely together. The Sapphire Butterfly has even been known to call on Manux's fleet for transportation to lands in need of Firebrand assistance.
+
+The Sapphire Butterfly's relationship with Hurricane Queen Tessa Fairwind, leader of the Free Captains of the Shackles, is much more complicated, in part because of the role of the Free Captains who served as mercenaries for Sargava (now Vidrian). A philosophical gulf exists between the Firebrands, who tend to be idealistic and see themselves as serving the greater good, and the Free Captains, who prize freedom as it suits and serves themselves. This fundamentally mercenary creed is not necessarily shared by Tessa, but it colors the extent to which Vyvienne is willing to trust or ally with the Free Captains. For her part, Tessa grudgingly admires the work of some notable Firebrands and is willing to ally with them when they ask for aid, though such alliances are never public.
+
+The Sapphire Butterfly's ultimate dream is a free Cheliax. Fueling that dream, deep in her soul, is a hatred of House Thrune. If she had the opportunity—even half of an opportunity—she would not hesitate to kill Queen Abrogail II. The feeling is mutual, with Queen Abrogail openly declaring the Sapphire Butterfly an enemy of Cheliax. The bounty on the Sapphire Butterfly's head has only made her efforts within Cheliax much more difficult, and exciting, as a result.
+
+PEOPLE OF NOTE Abrogail Thrune II (page 8), Magdelena and Martum Fallows (page 84), Shimali Manux (page 96), Tessa Fairwind (page 108), Toulon Vidoc (page 112)
+
+LEGENDS INTRODUCTION A–G H–M N–Z
+
+ENTWINED DESTINIES GLOSSARY AND INDEX

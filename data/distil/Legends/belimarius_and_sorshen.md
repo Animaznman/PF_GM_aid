@@ -1,9 +1,5 @@
 # BELIMARIUS AND SORSHEN
 
-LEGENDS INTRODUCTION A–G H–M N–Z ENTWINED DESTINIES GLOSSARY AND INDEX
-
-On the throne of Irrisen sits a murdered princess, pulled back to life from down among the earth around her family's bones. With no place left to her in a nation that rejected kings and queens, she traveled instead to a land of fairy tales, where her royal blood was not so threatening. A crown of ice now adorns her head, placed there by her grandmother Baba Yaga. The Winter Queen Anastasia rules with what small joys she can offer and what little skill she has. She never expected to rule, but she never expected to die, and the cold of her kingdom is nothing to the chill of her grave.
-
 # FAMILIAR FACES Belimarius and Sorshen both returned to modern-day Golarion in the Return of the Runelords Adventure Path. _Legends_ assumes that when the heroes who defeated Runelord Karzoug mysteriously went missing, Sorshen aided a new group of adventurers—as played by the PCs—against her former colleagues. While trying to right a rewritten timeline, the PCs freed Belimarius and the city of Xin-Edasseril from stasis and returned it to the land of Varisia.
 
 # BELIMARIUS AND Sorshen
@@ -61,3 +57,27 @@ Queen Sorshen has renounced her claim to her ancient seat of power, the Grand Ma
 Growing numbers of orcs have fled war with the Whispering Tyrant and entered Eurythnia as refugees, though this has done little to strain relations with the Hold's leader, Overlord Ardax. On the contrary, Ardax seems unconcerned over these defectors and has recently formed a nonaggression accord with the new monarch. The pair have met a dozen times in the last year, causing many to gossip over the purpose of these continued meetings and whether Sorshen continues her use of plying enchantments in secret.
 
 Despite Queen Sorshen's efforts to initiate diplomatic relations with Queen **Anastasia of Irrisen** (LN female human winter queen), Baba Yaga is proving a constant thorn in her side. Though the old crone is rumored to be banished from
+
+Golarion, Sorshen is convinced at least some of the cursed items and unseasonable blizzards that stray into Eurythnia are the deliberate work of the cackling witch. Sorshen's poorest relations are with her counterpart in New Thassilon, and she knows it's only a matter of time before she's forced to interfere with Belimarius's expansionist regime. Although she'd prefer to avoid killing the sadistic old woman, she worries any nonlethal outcome will leave Belimarius nursing a grudge. For now, Sorshen has decided to leave Belimarius to her own devices, hoping local heroes will topple the tyrant for her.
+
+Scholars and spellcasters have journeyed to Eurythnia in droves, seeking wisdom from the past. Sorshen welcomes these visitors with open arms. That few of these intellectuals decide to return home has caused some to accuse Sorshen of magically charming them to empower her nation. Queen Sorshen has responded to such accusations with a dimpled smile.
+
+# MAGIC OF NEW THASSILON The runelords of ancient Thassilon pushed the boundaries of magic, creating new spells and school specializations. Though many of their discoveries are common knowledge, others remain lost to the ravages of time or are closely guarded by select practitioners. Below are two spells the rulers of New Thassilon can teach to casters, as a reward for service or a lesson for aspiring apprentices.
+
+AROMATIC LURE SPELL 4 RARE EMOTION ENCHANTMENT INCAPACITATION MENTAL Traditions arcane, occult Cast somatic, verbal Range 60 feet; Targets 1 creature Saving Throw Will; Duration varies You override a target's olfactory senses, luring them to a specific location through tantalizing false scents. Select a single square within range that is not hazardous or occupied by a creature. The target is drawn to the selected location, becoming euphoric upon arrival. The target must attempt a Will save.
+
+Critical Success The target is unaffected. Success The target is distracted by the tantalizing scents, becoming stupefied 1 for 1 round.
+
+**Failure** The target is stupefied 2 and moves toward the selected location via the most direct route possible for 1 round, bypassing any obvious hazards and enemies in the way.
+
+**Critical Failure** The target is stupefied 4 and moves to the selected location via the most direct route possible for 1 round, bypassing any obvious hazards and enemies in the way. If the creature reaches the destination, it must remain in that location for 1d4 rounds but can otherwise act normally.
+
+**Heightened (+2)** You target 1 additional creature, selecting a different square within range as their destination.
+
+REBOUNDING BARRIER SPELL 4 RARE ABJURATION Traditions arcane, occult Cast verbal; Trigger You are hit by a physical Strike. You swiftly raise a reflective barrier, reducing physical damage and rebounding it onto your attacker. You gain resistance 10 against one physical damage type the triggering attack deals. Your attacker takes 5 damage of the same type.
+
+**Heightened (+1)** The resistance increases by 2. Damage dealt to your attacker increases by 1.
+
+OLD HOBBIES, NEW MARKETS In her free time, the former Runelord Sorshen has taken to creating perfumes, both of old formulas and new scents. Though she hasn't gone out of her way to sell her creations, her reputation has seen the fragrances slowly make their way to exclusive collectors at high prices.
+
+LEGENDS INTRODUCTION A–G H–M N–Z ENTWINED DESTINIES GLOSSARY AND INDEX

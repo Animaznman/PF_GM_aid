@@ -1,27 +1,27 @@
 [
   {
     "source_file": "abrogail_thrune_ii.md",
-    "question": "Who are Abrogail Thrune II's closest advisors and what are they?",
-    "answer": "Abrogail Thrune II's closest advisors are Contessa Lrilatha (a female erinys) who was her former tutor, and Gorthoklek (a male pit fiend) who served her great-grandmother. These powerful fiends counsel her, but Abrogail remains firmly in control of Cheliax."
+    "question": "Who are Abrogail Thrune II's closest advisors?",
+    "answer": "Abrogail Thrune II's closest advisors are Contessa Lrilatha, her former tutor, and Gorthoklek, a pit fiend who served her great-grandmother."
   },
   {
     "source_file": "abrogail_thrune_ii.md",
-    "question": "What is a Thrune Contract and what are its effects?",
-    "answer": "A Thrune contract is a diabolically binding magical contract that Abrogail Thrune II, empowered by Asmodeus, can enter into with other mortals. It provides specific benefits and drawbacks. The contract functions like a magic item with the contract trait, is automatically invested, and consigns the signer's soul to Hell upon death unless freed. The contract cannot be dispelled, altered, or destroyed, except by destroying both copies."
+    "question": "What are some consequences of signing a Thrune contract?",
+    "answer": "Signing a Thrune contract provides specific magical benefits and drawbacks. It counts towards the character's limit of invested items, and if the creature dies while the contract is invested, their soul is consigned to Hell. Abrogail can also invoke clauses within the contract to control or hinder the signatory."
   },
   {
     "source_file": "abrogail_thrune_ii.md",
-    "question": "How does Abrogail Thrune II use her image to maintain power?",
-    "answer": "Abrogail uses her reputation as being immature, capricious, and demanding to keep those who underestimate her off-balance. She controls the fractious noble houses and byzantine bureaucracy of Cheliax predominantly through fear, and punishes those who offend her personally by petrifying them."
+    "question": "Explain why Abrogail Thrune II issued an excruciation order against Kassi Aziril.",
+    "answer": "Abrogail issued the excruciation order because she was deeply offended by Kassi Aziril's godless philosophies and concerned that they would attract adherents in Cheliax. She declared Kassi blasphemous against Iomedae and Asmodeus and, after Jakalyn of the Red Mantis voided the contract to eliminate Kassi, Abrogail took matters into her own hands."
   },
   {
     "source_file": "abrogail_thrune_ii.md",
-    "question": "What are some examples of Abrogail Thrune II's failures and how does she react to them?",
-    "answer": "Abrogail was forced to cede independence to Ravounel and has failed to reclaim the former colony of Vidrian (Sargava). These defeats are a still-festering wound, and she ceaselessly contemplates how to extend her influence in the Inner Sea region to compensate for them."
+    "question": "How does Abrogail Thrune II use her reputation to her advantage?",
+    "answer": "Abrogail Thrune II cleverly uses her reputation as being immature, capricious, and demanding to keep those who underestimate her off-balance, which helps her to control the fractious noble houses and byzantine bureaucracy of Cheliax."
   },
   {
     "source_file": "abrogail_thrune_ii.md",
-    "question": "What are some of Abrogail Thrune II's recent actions against religious groups and how does she justify them?",
-    "answer": "Abrogail seized the opportunity to massacre the church of Iomedae in Egorian for \"seditious activity\", using the sword *Heart's Edge* as a trap to trick the faithful into treason. She also issued a public excruciation order against Kassi Aziril, a Rahadoumi healer, for her godless philosophies, which Abrogail declared blasphemous against Iomedae and Asmodeus."
+    "question": "What is Heart's Edge, and how did Abrogail Thrune II acquire it?",
+    "answer": "Heart's Edge is the sword that Iomedae wielded before ascending to godhood. Abrogail claimed it as spoils of war from the Glorious Reclamation in Westcrown. She then used it as a trap to massacre the church of Iomedae in Egorian, tricking them into breaking an agreement and slaughtering them with their own goddess's sword."
   }
 ]

@@ -1,23 +1,5 @@
 # SIHAR
 
-Today, Shimali commands Vidrian's navy. She is bemused that her reputation makes her seem a dashing figure, but she recognizes the value her legend serves Firebrand recruiters. Fortunately, legend and reality are not far apart: Shimali is a kind-hearted woman who goes out of her way to help others, and with an armada and the Firebrands at her back, she does more good than most.
-
-# A GROWING LEGACY Shimali Manux's closest ally is her sister, Vulpia. Content to avoid politics, Vulpia serves on the Firebrand ship *Nightwave*, ensuring her twin's former rival—and current paramour—Captain **Devrin Arlos** (CG male human free captain) returns from his madcap adventures. No one knows Shimali's mind like Vulpia, which has led to trouble in recent times. Spymasters up and down the coast would pay dearly to question either sister about the other, and to date there have been two kidnapping attempts on Vulpia by enemies of Vidrian. The Firebrands dealt with these plots handily, and both Vulpia and Shimali have publicly laughed them off for the time being. Recently, the siblings have been working to stop Chelaxian ships from polluting nearby merfolk realms.
-
-Shimali's other comrade-in-arms, Avarneus, is a member of Vidrian's ruling council. While they remain close, Avarneus sometimes frets that Shimali is still too idealistic, and that her good nature and thrill for adventure will prove her downfall. The two maintain frequent communication over Vidrian's affairs. New nations crave legitimacy, and Shimali works hard to lay the groundwork for future Vidric embassies, as well as seeking allies and fixers in foreign courts—particularly in older realms like Taldor and Qadira that are suspicious of revolutionaries.
-
-When Shimali came petitioning Absalom for aid, she left with both diplomatic acknowledgment and a strong admiration for Wynsal Starborn. The two share a love of justice and the discomfort of being thrust into statecraft under extreme circumstances. Shimali is grateful for Starborn's advocacy when Vidrian was most vulnerable and keeps an eye out for opportunities to repay him in kind.
-
-Nearly every Firebrand looks up to Shimali as the group's co-founder and dashing figurehead, and she counts the Silver Ravens' **Shensen** (CG female half-elf celebrity) as a dear friend. Shimali's fleet keeps the Sapphire Butterfly flitting from crisis point to crisis point—most recently smuggling escaped slaves for the Bellflower Network.
-
-If Shimali fears anyone, it is Queen Abrogail Thrune II. To Thrune, Sargava was an upstart colony needing to be brought to heel, and Vidrian is merely a fiction. Cheliax's own revolutions have kept the monarch diverted, but it's only a matter of time before she aims her dread navy southward. Shimali is constantly looking for new maritime allies as a bulwark against this inevitability. Meanwhile, her support of the Firebrands, Ravounel, and the Bellflower Network helps keep House Thrune off balance—for now.
-
-Yet not all of Shimali's enemies are so obvious. Two of her captains have recently been assassinated in Anthusis, Vidrian's capital. Worse yet, a broken thistle arrow shaft suggests the killer is Ekujae. Shimali refuses to believe the elves would strike out at her allies in such a way, leaving her to find investigators to unravel the mystery—and render the impartial verdict that she cannot.
-
-PEOPLE OF NOTE Abrogail Thrune II (page 8), Avarneus (page 22), Magdelena and Martum Fallows (page 84), Sapphire Butterfly (page 94), Seimon Candelar (NG male human Gray Corsair), Tessa Fairwind (page 108), Wynsal Starborn (page 118)
-
-# HONOR AMONG THIEVES Tessa Fairwind and Shimali have run afoul of each other numerous times—ever since Shimali nicked the Hurricane Queen's future flagship, the _Umbral Spark_, out from under one of Fairwind's lieutenants. They have had several engagements since, and each time the tides, misfortune, or magical chicanery have prevented a reckoning. Rumor has it that their antipathy has softened into grudging respect, especially as many Free Captains have found fortune and fame aiding Firebrand exploits.
-
 # OLD FRIENDS During her time outside Mzali, Sihar spent several years at the Magaambya Academy. There she studied under the storyteller Janatimo, while also making allies of her fellow students. She was happy to know there were Emerald Boughs already in Mzali monitoring things–these were later indispensable in getting the Bright Lions off the ground. Thanks to the connections she made with the Rain-Scribes, she was able to set up a communication network to find allies and resources outside the city.
 
 SHAR
@@ -83,3 +65,23 @@ Devotee Benefits Divine Font harm Divine Ability Dexterity or Wisdom Divine Skil
 Tlehar, the Sun Goddess of Dawn [NG] The Lioness Goddess of iron, love, and rebirth. She is most commonly depicted as human but with the head of a lioness, her fur a dull gray and her eyes black as night. Edicts give yourself fully to everything you attempt, always maintain hope that tomorrow will be a better day, treasure every gift you are given by those who matter to you Anathema lose your motivation to your regrets, spread despair, treat a loved one poorly Follower Alignments LG, NG, CG
 
 Devotee Benefits Divine Font heal Divine Ability Intelligence or Charisma Divine Skill Crafting Favored Weapon morningstar Domains cities, healing, passion, sun Alternate Domains change, creation, vigil, zeal Cleric Spells 1st: soothe, 3rd: enthrall, 5th: dreaming potential
+
+**BRIGHT LION ARCHETYPE** You are one of the Bright Lions, part revolutionary warrior, part undercover spy.
+
+BRIGHT LION DEDICATION FEAT 2 UNCOMMON ARCHETYPE DEDICATION Prerequisites member of the Bright Lions, not a worshipper of Walkena, trained in Stealth; Access Bright Lion background (Lost Omens World Guide 95) You become trained in your choice of Deception or Diplomacy and in Mzali Lore; if you were already trained, you become an expert instead. You incorporate enough worship of Walkena in your daily life to avoid suspicion. You typically don't need to Lie or Impersonate to pass yourself off as a worshipper of Walkena. Against careful inspection, you gain a +4 circumstance bonus to Deception checks specifically to pass yourself off as a version of yourself faithful to Walkena.
+
+**Special** You can't select another dedication feat until you have gained two other feats from the Bright Lion archetype.
+
+WARDING LIGHT FEAT 4 ARCHETYPE Prerequisites Bright Lion Dedication You gain a tattoo that serves as a special ward to defend you against Walkena's forces. The tattoo allows you to cast the light cantrip as a divine innate spell at will. The cantrip is heightened to a spell level equal to half your level rounded up. If you die, the tattoo immediately casts gentle repose on your corpse, heightened to the same spell level.
+
+SUN'S FURY FEAT 6 ARCHETYPE Prerequisites Bright Lion Dedication The Old Sun Gods have granted you a gift in your fight against Walkena. You gain the sun's fury focus spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can regain using the Refocus activity to pray to the Old Sun Gods; if you already have a focus pool, increase the number of Focus Points in your focus pool by 1. Your Bright Lion focus spells are divine spells; when you gain this feat, if you aren't already, you become trained in divine spell attacks and spell DCs, using Charisma as your spellcasting ability score.
+
+ELUDE THE DIVINE FEAT 8 ARCHETYPE Prerequisites Bright Lion Dedication You are able to escape inquisitions involving divine magic, allowing you to blend in well in Mzali but also to avoid unwanted attention in other oppressive theocracies. You gain the Slippery Secrets skill feat, and its benefits also apply against divination effects that attempt to discern your deity. When using Slippery Secrets against a divine divination, you gain a +2 circumstance bonus, and on a critical success, the divination reveals false information appropriate to your false persona, rather than nothing.
+
+BRIGHT LION FOCUS SPELL SUN'S FURY FOCUS 3
+
+UNCOMMON EVOCATION FIRE GOOD Cast somatic, verbal Range touch; Targets 1 weapon without an unholy rune that is unattended or wielded by you or a willing ally
+
+Duration 1 minute The target weapon becomes wreathed in a glowing flame. The weapon deals an additional 1d4 fire and 1 good damage on a successful Strike. In addition, the flame causes the weapon to glow as bright as a torch. You can Dismiss the spell.
+
+# WALKENA'S SHADOW A Bright Lion's job is to blend in but be ready to damage Walkena's forces as much as possible at a moment's notice. While the Bright Lions are focused on overthrowing Walkena, he is not the enemy they face most often. **Themba Sufu** (LE male human rogue), the commander of Walkena's secret police, prowls the night searching for dissidents and insurrectionists–a description the Bright Lions fit in every aspect.

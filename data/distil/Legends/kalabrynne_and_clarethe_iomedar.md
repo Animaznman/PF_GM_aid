@@ -1,15 +1,5 @@
 # KALABRYNNE AND CLARETHE IOMEDAR
 
-**WISDOM OF JATEMBE** Though his legacy is so ancient that many view him as a distant and inaccessible figure, Jatembe's notes and knowledge are available to anyone who attends his school. Jatembe left all of his writings behind when he vanished from Golarion, and countless versions of
-
-libraries, each annotated and collated by different practitioners over the centuries. These tomes are collectively known as the *Wisdom of Jatembe*, and they contain spells penned by the Old-Mage himself, alongside the multiple refinements, variants, and related breakthroughs that have since been added by Magaambyan students.
-
-positions of any number of targets with the positions of other targets. Additionally, you can modulate the share of vital essence to share the burden of pain. Distribute the Hit Points of all targets however you choose, except that no target can receive fewer than 1 Hit Point or more than their maximum Hit Points.
-
-HALCYON INFUSION RARE DIVINATION MENTAL Traditions arcane, primal Cast 10 minutes (material, somatic, verbal) Range touch; Targets one willing creature of lower level than you Duration until your next daily preparations You infuse magical energy into your target, opening up their mind to the pathways of magic and granting them the ability to use magic to affect the world around them. Choose a 1st-level spell you prepared today or that's in your repertoire, of the same tradition you used to cast halcyon infusion. The spell must be one that has a listed range. If the target is at least 3rd level, you can choose a 2nd-level spell instead of a 1st-level spell; and if the target is at least 5th level, you can choose a 3rd-level spell. The target can Cast the Spell once per day as an innate spell of the tradition you used to cast halcyon infusion. If they are untrained in the appropriate magical tradition, their spell attack bonus is 2 + their level + their highest mental ability modifier, and their spell DC is 12 + their level + their highest mental ability modifier. Unlike most abilities that can only be used once per day, the target refreshes their use of the granted innate spell each day only after you make your daily preparations and choose to extend halcyon infusion's duration by either refraining from preparing a spell in the slot (if you're a prepared spellcaster) or expending another spell slot (if you're a spontaneous spellcaster).
-
-**Heightened (8th)** If the target is at least 7th level, you can choose a 4th-level spell. **Heightened (10th)** As 8th, and if the target is at least 9th level, you can choose a 5th-level spell.
-
 # KNIGHTLY IDOLS While no knight of Lastwall has rank above another, Kalabrynne and Clarethe Iomedar, nicknamed the Lion of Iomedae and the Sunset Angel, respectively, are looked up to by those who serve in the field. Especially among women, the pair have inspired many aspirations toward chivalry and heroism and more than their fair share of amorous crushes—the latter of which is a source of mild embarrassment for both of them.
 
 Kalabrynne and Clarethe Iomedar
@@ -77,3 +67,19 @@ These are the Iomedars, mother and child. If they are not the leaders of the Kni
 RESCUER'S PRESS FEAT 4 RARE ARCHETYPE Prerequisites Lastwall Sentry Dedication (Lost Omens World Guide 47)
 
 Any shield you wield gains the shove trait. When you Shove using a shield and Stride as part of that action, you can move an additional 5 feet to either side of the creature you Shoved. In addition, if you are in the Everstand Stance (*Lost Omens Character Guide* 90) and successfully Shove a creature using a shield that you wield two-handed, you can increase the distance of your Shove to 10 feet.
+
+SHALL NOT FALTER, SHALL NOT ROUT FEAT 10 RARE ARCHETYPE Prerequisites Knight Reclaimant Dedication (Lost Omens Character Guide 95) You gain the shall not falter, shall not rout focus spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can regain using the Refocus activity to recite the Crimson Oath and meditate on its teachings. If you already have a focus pool, increase the number of Focus Points in your focus pool by 1. Your knight reclaimant focus spells are divine spells; when you gain this feat, you become trained in divine spell attacks and spell DCs and your spellcasting ability is Charisma.
+
+VIGIL'S WALLS RISE ANEW! ![figure: double chevron icon] FEAT 10 ![figure: blue rectangle with "RARE"] ![figure: red rectangle with "ARCHETYPE"] Prerequisites Knight Vigilant Dedication (Lost Omens Character Guide 94), Shield Block As part of daily preparation, you can drill with a number of allies up to your Charisma modifier. These allies must be present and listening during this time, but this does not otherwise impede their own preparation. When you use this feat's benefit, you and all drilled companions within 30 feet who are wielding shields Raise a Shield. Allies who Raise their Shields keep them raised until the start of their next turn, as normal.
+
+New Focus Spells SHALL NOT FALTER, SHALL NOT ROUT FOCUS 5 RARE HEALING NECROMANCY Cast verbal
+
+Duration 1 minute Calling out the fifth line of the Crimson Oath, you seal your most grievous injuries with a stroke of your blade. The first time each round that you Strike with your weapon and deal damage to a foe, you recover a number of HP equal to twice *shall not falter, shall not rout*'s level. This healing can't raise your current HP above half of your maximum HP.
+
+# FAMILY STORIES While Kalabrynne and Clarethe's relationship is no longer antagonistic, the two often cannot resist teasing each other. When doing so, they often reference these stories from their days before Lastwall fell.
+
+**Clarethe's Wolf:** Kalabrynne is fond of telling overly enthusiastic or impetuous squires the tale of how Clarethe, as a youthful squire of Lastwall, once tore bloody hell through the local garrison screaming for aid against a "werewolf," which turned out to be one of the local rangers' tame wolfhounds. Clarethe still has not lived the experience down.
+
+Mother Hen: Perhaps as revenge for her mother Kalabrynne favorite story (never mind that she's been telling this one longer), Clarethe takes every opportunity to tell overly cautious companions the long list of rules and warnings she had to endure from Kalabrynne during her childhood—a list which seems to grow with each new telling.
+
+LEGENDS INTRODUCTION A–G H–M N–Z ENTWINED DESTINIES GLOSSARY AND INDEX

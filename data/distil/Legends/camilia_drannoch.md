@@ -1,29 +1,5 @@
 # CAMILIA DRANNOCH
 
-Golarion, Sorshen is convinced at least some of the cursed items and unseasonable blizzards that stray into Eurythnia are the deliberate work of the cackling witch. Sorshen's poorest relations are with her counterpart in New Thassilon, and she knows it's only a matter of time before she's forced to interfere with Belimarius's expansionist regime. Although she'd prefer to avoid killing the sadistic old woman, she worries any nonlethal outcome will leave Belimarius nursing a grudge. For now, Sorshen has decided to leave Belimarius to her own devices, hoping local heroes will topple the tyrant for her.
-
-Scholars and spellcasters have journeyed to Eurythnia in droves, seeking wisdom from the past. Sorshen welcomes these visitors with open arms. That few of these intellectuals decide to return home has caused some to accuse Sorshen of magically charming them to empower her nation. Queen Sorshen has responded to such accusations with a dimpled smile.
-
-# MAGIC OF NEW THASSILON The runelords of ancient Thassilon pushed the boundaries of magic, creating new spells and school specializations. Though many of their discoveries are common knowledge, others remain lost to the ravages of time or are closely guarded by select practitioners. Below are two spells the rulers of New Thassilon can teach to casters, as a reward for service or a lesson for aspiring apprentices.
-
-AROMATIC LURE SPELL 4 RARE EMOTION ENCHANTMENT INCAPACITATION MENTAL Traditions arcane, occult Cast somatic, verbal Range 60 feet; Targets 1 creature Saving Throw Will; Duration varies You override a target's olfactory senses, luring them to a specific location through tantalizing false scents. Select a single square within range that is not hazardous or occupied by a creature. The target is drawn to the selected location, becoming euphoric upon arrival. The target must attempt a Will save.
-
-Critical Success The target is unaffected. Success The target is distracted by the tantalizing scents, becoming stupefied 1 for 1 round.
-
-**Failure** The target is stupefied 2 and moves toward the selected location via the most direct route possible for 1 round, bypassing any obvious hazards and enemies in the way.
-
-**Critical Failure** The target is stupefied 4 and moves to the selected location via the most direct route possible for 1 round, bypassing any obvious hazards and enemies in the way. If the creature reaches the destination, it must remain in that location for 1d4 rounds but can otherwise act normally.
-
-**Heightened (+2)** You target 1 additional creature, selecting a different square within range as their destination.
-
-REBOUNDING BARRIER SPELL 4 RARE ABJURATION Traditions arcane, occult Cast verbal; Trigger You are hit by a physical Strike. You swiftly raise a reflective barrier, reducing physical damage and rebounding it onto your attacker. You gain resistance 10 against one physical damage type the triggering attack deals. Your attacker takes 5 damage of the same type.
-
-**Heightened (+1)** The resistance increases by 2. Damage dealt to your attacker increases by 1.
-
-OLD HOBBIES, NEW MARKETS In her free time, the former Runelord Sorshen has taken to creating perfumes, both of old formulas and new scents. Though she hasn't gone out of her way to sell her creations, her reputation has seen the fragrances slowly make their way to exclusive collectors at high prices.
-
-LEGENDS INTRODUCTION A–G H–M N–Z ENTWINED DESTINIES GLOSSARY AND INDEX
-
 She is passionate, compelling, and brilliant, from ever since she was a child. And this world has no shortage of graves filled with the passionate, the compelling, and the brilliant–and most of all the young, all of whom were destined for great things. —Queen Telandia Edasseril
 
 # CAMILIA DRANNOCH ## TENACIOUS REVOLUTIONARY POLITICIAN CN FEMALE HUMAN BARD A cunning and clever figure, Chairwoman Camilia Drannoch of the Revolutionary Council is currently one of the few politicians widely respected throughout Galt. Her dedication to the ideals of revolution and her widely espoused patriotism drove her popularity among revolutionaries and common citizenry.
@@ -39,3 +15,19 @@ Camilia has since survived multiple regime changes, making her one of the few po
 Camilia sees the Red Revolution as part of a rising tide of change, mirrored by the earth-shattering events taking place across the continent. In her mind, all of Golarion is primed to overthrow its outdated modes of thinking, as evidenced by recent uprisings and successful abolition efforts. She openly supports the rebels of Vidrian and Kintargo while also planting her own agents to speed such efforts along.
 
 Breaking the cycle of death that is the Red Revolution has proven to be Camilia's greatest challenge. She knows the country will never realize its full potential while the _final blades_ contribute to its cultural decline. Camilia has been building toward this moment for decades, since her own mother lost her life to the wicked devices, and she hopes that the removal of Galt's _final blades_ and dissolution of the Gray Gardeners will be her legacy.
+
+# THE FACE OF THE REVOLUTION Camilia cares desperately for the souls locked away in the _final blades_ and has turned to Geb as an unlikely ally, where death has revolutionized what it means to live. She sent envoys to the undead country seeking to foster an alliance with the grand necromancer, offering intelligence on both the nation and Spire of Nex in exchange for Geb freeing the stored souls of her fellow citizens. This is an ideal solution for Camilia, as the souls can either exist freely in Geb or pass onto their final judgment as they choose—and while Geb is a difficult ruler to reason with for both the living and the dead, his obsession with the archmage Nex and his lack of living spies to infiltrate his rival's nation has left him considering the offer.
+
+Though Camilia has done her best to improve foreign relations after the damage done by her predecessor, Galt's notorious instability has made this an uphill battle. Though Grand Princess Eutropia has offered Taldor's friendship to the Revolutionary Council, the recent Taldan civil war has left her wary of anything resembling revolution. Camilia believes Eutropia is holding herself back from realizing Taldor's true potential; she wants to push Eutropia further and radicalize the new grand princess.
+
+Camilia has diligently pursued an alliance with Andira Marusek of Andoran, in part to contrast herself publicly with Citizen Korran Goss, but also because Andira shares her wish to see the end of the *final blades*. Camilia knows that Andira would balk at some of the more violent things she's done to secure Galt's future, so she has thus far limited the information Andira receives to what she wants Andira to hear.
+
+Though Camilia spent her childhood in Kyonin, she never fell in love with the country. Queen Telandia Edasseril ruled as monarch and yet was reluctant to rally the elves toward any cause, leaving Kyonin seemingly adrift between the worst aspects of freedom and autocracy. Though Camilia has so far been diplomatic to the elven queen, she ultimately sees Telandia as an obstacle. The outward appearance of a close relationship between Camilia and the female rulers of Galt's neighboring nations has not gone unnoticed, however; some of Camilia's detractors have begun to refer to them collectively as the "Four Queens," which only fuels Camilia's discontent.
+
+# THE WEIGHT OF LOSS Though she has learned to keep her dissent against the Grey Gardeners from becoming public, Camilia is never seen without a pair of striking accessories. She wears a polished steel choker and a red scarf around her neck at all times, a reminder of the weight of Galt's troubles and the bloody price her family paid because of it.
+
+LEGENDS INTRODUCTION A–G H–M N–Z ENTWINED DESTINIES GLOSSARY AND INDEX
+
+# A WEB OF INTRIGUE Camilia is determined to prove that Galt is a player on the world's stage. Its prestigious universities may be destroyed, its people starving, its once-idyllic countryside now teeming with brigands—but none of that can hold back the Galtan spirit. Another revolution would hurt her goals; she instead takes on spies and agents, sending them across Galt to seek out information on the Gray Gardeners and others who would undermine Camilia's position. Only Camilia's most trusted agents know of her efforts to destroy the final blades and the Gray Gardeners. The people of Galt would doubtless reject her should they learn of her plan to end the blades' hold on the country, and all of Camilia's careful work will have been for naught. When she does strike against the Gardeners, it must be quick, and it must be final.
+
+PEOPLE OF NOTE Andira Marusek (page 12), Eutropia Stavian (page 42), Geb (page 44), Nex (page 90), Telandia Edasseril (page 106)
