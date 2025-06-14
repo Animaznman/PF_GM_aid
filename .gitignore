@@ -1,6 +1,7 @@
 .DS_Store
 __pycache__/
 *.pyc
+unsloth*
 
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
