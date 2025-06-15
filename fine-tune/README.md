@@ -56,3 +56,13 @@ sudo cp build/bin/llama-quantize .
 scp -r ubuntu@104.171.202.44:/home/ubuntu/PF_GM_aid/fine-tune/ollama_model ./
 scp -r ubuntu@104.171.202.44:/home/ubuntu/PF_GM_aid/fine-tune/Modelfile ./
 ```
+
+## Set up Ollama Locally
+
+Navigate where the files were downloaded to, and move the Modelfile into the ollama_model folder
+
+```bash
+cd ollama_model
+ollama create pathfinder-gm -f Modelfile
+ollama run pathfinder-gm                
+```
