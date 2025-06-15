@@ -7,3 +7,7 @@ unsloth*
 .ipynb_checkpoints/
 
 .env
+*_model
+outputs
+llama.cpp
+_unsloth*
