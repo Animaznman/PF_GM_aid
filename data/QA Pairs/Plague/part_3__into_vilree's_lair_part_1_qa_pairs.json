@@ -1,0 +1,42 @@
+[
+  {
+    "source_file": "part_3:_into_vilree's_lair_part_1.md",
+    "question": "Who is Vilree?",
+    "answer": "Vilree is responsible for ordering Bort's poisoning, causing the blights near Etran's Folly, and creating the mutated monsters there. She is the antagonist the PCs must bring to justice."
+  },
+  {
+    "source_file": "part_3:_into_vilree's_lair_part_1.md",
+    "question": "What is Spite's Cradle?",
+    "answer": "Spite's Cradle is Vilree's fortress located about twenty miles west of Etran's Folly, nestled in the foothills at the edge of the Five Kings Mountains. It's a complex cave system she has turned into a fortress to nurture her hatred and plan the ruin of Etran's Folly."
+  },
+  {
+    "source_file": "part_3:_into_vilree's_lair_part_1.md",
+    "question": "How can the PCs find Spite's Cradle?",
+    "answer": "The PCs can use the map from Hallod's Hideout and the directions from the Pen to locate Spite's Cradle. It is described as being nestled in a valley called \"Spite's Cradle\" far west of Etran's Folly in the foothills of the Five Kings Mountains."
+  },
+  {
+    "source_file": "part_3:_into_vilree's_lair_part_1.md",
+    "question": "Describe the defenses of Spite's Cradle at the gate (area 11).",
+    "answer": "Spite's Cradle is protected by a wooden palisade with a gigantic double door. The walls are 15 feet high with carved points, making them difficult to climb without being spotted. The gate is barred from the inside by three heavy wooden beams, each requiring a DC 15 Athletics check to move. The cliffs are steep, 30 feet high, requiring DC 18 Athletics checks to climb and DC 15 Acrobatics check to move across crumbling stone."
+  },
+  {
+    "source_file": "part_3:_into_vilree's_lair_part_1.md",
+    "question": "What is the role of the guards in the tower at Spite's Cradle?",
+    "answer": "The guards in the tower have a limited view outside the wall but a good view of the ground between the palisades. They perform Perception checks every few minutes for disturbances. PCs approaching from above must beat Graytusk's Perception DC 19 to remain unnoticed."
+  },
+  {
+    "source_file": "part_3:_into_vilree's_lair_part_1.md",
+    "question": "Describe the layout of the Guarded Yard (area 12).",
+    "answer": "The Guarded Yard is a well-trodden area beyond the palisade. It features a small wooden hut built against the southern rock wall, a squat stone fortress, a guard tower at the north end of the fortress, and a two-story dome at the south."
+  },
+  {
+    "source_file": "part_3:_into_vilree's_lair_part_1.md",
+    "question": "Who are the Orc Brutes and where are they typically found?",
+    "answer": "The Orc Brutes (Creature 0) are typically found in the Guarded Yard (area 12). During the day, there are usually two orcs relaxing or preparing a meal. At night, this number increases to four. If the alarm is raised, nine orcs (excluding Graytusk) will be present, ready for battle."
+  },
+  {
+    "source_file": "part_3:_into_vilree's_lair_part_1.md",
+    "question": "What is the significance of Lord Nar's Throne (area 13)?",
+    "answer": "Lord Nar's Throne is the lair of the orcs serving under Vilree's command, and is led by Lord Nar. It contains a stone throne, leather canvases depicting an orc head and a woman with alchemy equipment, and an opening into the cliff face."
+  }
+]
