@@ -1,0 +1,52 @@
+[
+  {
+    "source_file": "background_side_quests.md",
+    "question": "What is the 'Dereliction and Redemption' side quest about?",
+    "answer": "This quest involves Sir Lawren Krent, who is haunted by the ghost of his former comrade Talmore due to his cowardice during the fall of Lastwall. The PCs must help Krent confront the ghost and give Talmore's holy symbol a proper burial to put his spirit to rest."
+  },
+  {
+    "source_file": "background_side_quests.md",
+    "question": "How can the PCs resolve the 'Dereliction and Redemption' side quest without fighting the ghost?",
+    "answer": "The PCs can convince Krent to enter the dilapidated house where the ghost resides and apologize to the ghost of Talmore. If he does so, the ghost will fade away, allowing the PCs to bury the holy symbol in peace."
+  },
+  {
+    "source_file": "background_side_quests.md",
+    "question": "What rewards are given upon completing the 'Dereliction and Redemption' side quest?",
+    "answer": "Sir Lawren Krent offers two *minor healing potions*, a *potency crystal* talisman to the group, and a *+1 longsword* to the PC who he mistook for Talmore."
+  },
+  {
+    "source_file": "background_side_quests.md",
+    "question": "What is the 'Heir to Folly' side quest about?",
+    "answer": "This quest involves a PC with the Lesser Scion background who is revealed to be a distant relative of Mayor Targen Fulst and the town's founder, Etran Bolmere. The PC can explore the ruins of the Bolmere estate to uncover family history and potentially call upon a mysterious creature bound to the family."
+  },
+  {
+    "source_file": "background_side_quests.md",
+    "question": "What can be found within the Bolmere estate ruins in the 'Heir to Folly' side quest?",
+    "answer": "A copper lockbox containing an old, leather-bound book detailing the Bolmere family history and a tarnished silver amulet with the word \"Karvasalon\" inscribed on the back. The amulet can be used to summon a mysterious creature cloaked in shadows by casting a planar ally ritual while speaking the name Karvasalon."
+  },
+  {
+    "source_file": "background_side_quests.md",
+    "question": "What is the 'Last Delivery' side quest about?",
+    "answer": "This quest involves delivering sparring swords to Pari Hemsoth on behalf of the deceased Bort. The PCs must discreetly deliver the swords without Pari's overprotective mother, Elmora, finding out."
+  },
+  {
+    "source_file": "background_side_quests.md",
+    "question": "What is the consequence of failing the Stealth checks while approaching the Hemsoth farm?",
+    "answer": "Failure results in Elmora confronting the PCs and demanding they leave, as she doesn't want any adventurers talking to her daughter."
+  },
+  {
+    "source_file": "background_side_quests.md",
+    "question": "What is the 'New Faith' side quest about?",
+    "answer": "This quest involves establishing a new church in Etran's Folly after the previous one fell into ruin. The PCs can acquire the old church from Metmon and help him and his son, Edfur, clean it out. This can also lead to mentoring Edfur, a young dwarf who is curious about the PC's faith, into becoming a priest."
+  },
+  {
+    "source_file": "background_side_quests.md",
+    "question": "What benefits does Edfur provide in the 'New Faith' quest, and what opportunities does this create?",
+    "answer": "Edfur's help reduces the time required to repair the church. If a PC is trained in Religion, Edfur becomes curious and expresses a desire to become a priest, providing an opportunity for the PC to mentor him or send him for formal training."
+  },
+  {
+    "source_file": "background_side_quests.md",
+    "question": "How does the 'Last Delivery' quest enable a character to earn gold using their attack bonus?",
+    "answer": "After delivering the swords, Pari may ask a PC to help her learn to use them. If a PC agrees, they can spend downtime to train her and earn gold, using their attack bonus (if trained in martial weapons) in place of a Lore or Crafting skill modifier."
+  }
+]

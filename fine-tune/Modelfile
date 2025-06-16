@@ -1,0 +1,15 @@
+FROM ./unsloth.Q4_K_M.gguf
+
+TEMPLATE """<|im_start|>system
+{{ .System }}<|im_end|>
+<|im_start|>user
+{{ .Prompt }}<|im_end|>
+<|im_start|>assistant
+"""
+
+PARAMETER stop "<|im_start|>"
+PARAMETER stop "<|im_end|>"
+PARAMETER temperature 0.7
+PARAMETER top_p 0.9
+
+SYSTEM """You are a knowledgeable expert on the world of Golarion from Pathfinder RPG."""

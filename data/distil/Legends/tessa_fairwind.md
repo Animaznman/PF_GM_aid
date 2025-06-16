@@ -1,0 +1,43 @@
+# TESSA FAIRWIND
+
+# FAMILIAR FACES Tessa Fairwind appeared as a member of the Pirate Council in the Skull and Shackles Adventure Path. While she initially had no desire to take the title of Hurricane Queen, Legends assumes the likeliest candidates for the role—as played by the PCs—had no wish of it either, prompting Tessa to eventually claim it.
+
+# TESSA FAIRWIND ## HURRICANE QUEEN OF THE SHACKLES CN FEMALE HALF-ELF PIRATE Tessa Fairwind cuts a striking figure on the prow of her ship, its proud mast and pirate flag a challenge to everyone who sees it. She can hear the welcoming shouts from other captains, the roar of commerce—the bustle and chaos of Port Peril.
+
+This is her city, her seat of power. The Hurricane Queen has come home, triumphant over Cheliax yet again.
+
+# SCOURGE OF CHELIAX Tessa was born on the sea, the product of a brief affair between a human merchant and an elven priest of Calistria. She learned to walk on the pitching decks of her mother's ship, and by the time she could talk, she was helping the sailors tie knots. She was her mother's pride and despair, stealing a boat when she was only 8 years old. Her mother found her, unrepentant, in the hands of the guards and judged, correctly, that this was only the start of greater delinquency. She signed her daughter over to Captain **Karise** (N female human ship captain), a stern friend who plied dangerous routes through the High Seas with her crew.
+
+Under Karise's care, Tessa quickly became a competent sailor, but her wild streak never settled. At 15, she stole a Thuvian pleasure barge on a dare. Thuvian guards chased her for days before she pillaged and abandoned the barge. She escaped their grasp, but her fate was sealed by a price placed on her head. Within 3 years, her name was blazoned across the Inner Sea region, and she sailed through the arch of Aroden into the Arcadian Ocean to evade her pursuers.
+
+Tessa set her sights on Cheliax early on, harassing their shipping routes and playing merry havoc with their interests. She scored many victories, and the price on her head nearly quadrupled before she turned 20. She made her fortune off of Cheliax's woes.
+
+In the autumn of her twenty-third year, Tessa was caught in a trap laid by a Chelaxian captain who had been hunting her. Her ship was badly damaged, and she was knocked overboard. Chelaxian sailors scooped her up as she floated, stunned and badly wounded. She spent 2 years in a hard labor camp in the Menador Mountains before escaping.
+
+Tessa never showed much political drive in her early life, but her prowess and reputation as a pirate captain quickly elevated her to the Pirate Council. Very soon after, she claimed the port of Quent as her home base and was declared the town's Mistress. She worked tirelessly to root out the traitors to the previous Hurricane King, with little success. When he fell, she eventually (though somewhat reluctantly) took the title of Hurricane Queen with her strength and guile.
+
+Tessa rules from her town house in Port Peril, on Motaku Isle, venturing into the Shackles only when needed for official business. She isn't fond of the intrigues and endless paperwork she has found herself saddled with, but her generally affable nature and curiosity suit her new role well.
+
+# THE EYE OF THE STORM Tessa never deliberately sought the title of Hurricane Queen, as she preferred a carefree lifestyle, but she has found that power offers her a refuge from consequences that she didn't have before. This rush of freedom has made Tessa somewhat reckless, and while that recklessness allows bold successes like Tessa's recent raid on Cheliax, it has left more cautious pirates worried about the inevitable backlash. Some of the other pirate lords regard Tessa as a weak and irresponsible leader, someone unworthy of representing and guiding them. Others simply covet her position or are actively scheming against her in order to open the way for a Chelaxian invasion. For now, however, Tessa is too popular to challenge, and she's very skilled at finding ways to increase that popularity.
+
+Whatever Tessa's weaknesses, she is frightfully aware of the Chelaxian threat, and devotes many of her resources toward monitoring their movements. Tessa is quick to sniff out Chelaxian rats among the crews of the Free Captains, and Queen Abrogail's navy has lost many vessels in its attempts to capture Tessa's ship, _Luck of the Draw_. Rumors that the navy has recently seized the nautical chop shop Rickety's Squibs to help fashion a new warship capable of taking on _Luck of the Draw_ have merely earned scoffs from Tessa.
+
+Tessa is a generally friendly and easy-going woman, honoring her commitments and proving loyal to her allies. Although she seems careless, she is more calculating than she lets on, and she has a reputation of getting ruthless payback on anyone who crosses her. She is not above using her beauty and reputation—Tessa has had a string of lovers and partners since she became a captain, most lasting no more than a few days. She claims that a broken heart has taught her to love quickly and lightly.
+
+Some say she and Shimali Manux have a history, and that perhaps Shimali is the one who caused that broken heart, though such suggestions tend to quickly burn through Tessa's good humor. The Hurricane Queen's feelings on the Vidric captain do seem conflicted; at times, Tessa laughs at the name, claiming Manux has only luck to thank for her success. Other times, Tessa speaks of Shimali's exploits with admiration, comparing Shimali to some more well-known sailors and even to Tessa herself. Tessa's fickleness draws many questions from her other lieutenants, and the fact that the captains often have their confrontations interrupted by storms and other highly unlikely conveniences has only increased their suspicion.
+
+Another possible culprit is the Vidric councilor Avarneus, whom Tessa claims courted and then betrayed her. Tessa has offered rewards for the capture of Avarneus after the spy ruined more than a few of her carefully laid plans for the invasion of Vidrian; however, she is too impetuous and easily distracted to maintain the sort of subtle hunt that might actually catch Avarneus. Tessa appears content to take her time with dealing with the spy, and Avarneus's newer inventions always seem to eventually make their way to *Luck of the Draw*, as evidenced by the clockwork dragonfly and other innovations stashed in the captain's quarters.
+
+The most tempestuous of Tessa's relationships are those with the Firebrands, particularly the Sapphire Butterfly. In public, Tessa expresses her dislike of the Firebrands, but she has quietly assisted them on occasion. She has also, much to the delight of bards everywhere, had plenty of temporary alliances and assignations with certain Firebrands, which both offer her entertainment and boost her reputation. The Sapphire Butterfly and Tessa have had several encounters in the years since Ravounel's founding, usually when the vigilante is aboard one of the many Vidric ships she uses to traverse the Inner Sea. Each encounter has ended peacefully, however, with the most recent meeting ending with an exchanging of letters between the two. House Thrune's seal on each letter suggests an exchanging of state secrets, but Tessa was quick to hush the whispers aboard her ship when she returned. figure: The lower right portion of a ship with yellow and red hull, visible rigging, and large greenish sails. The image is cropped so only part of the ship and sails are visible.
+
+PEOPLE OF NOTE Abrogail Thrune II (page 8), Avarneus (page 22), Sapphire Butterfly (page 94), Shimali Manux (page 96)
+
+# NOTABLE FREE CAPTAINS The following Free Captains have drawn Tessa's attention or ire.
+
+Hurgrar, King of Waves (CE male dwarf pirate): The self-declared king of the Shackles has recently taken to stowing away on other ships and murdering the captains, simply for the sake of chaos. Inexia dis Galazario (LN female human Free Captain): This Chelaxian fugitive rose quickly among the ranks of the Helper's Dance, eventually leading a mutiny. She has since publicly challenged Tessa and sunk the ships of two of Tessa's allies.
+
+**Toba the Tempest (CN male tengu cleric):** The tengu captain has a long history with Tessa, serving as the jinx eater on the *Luck of the Draw* before securing his own ship. He still maintains a close friendship with Tessa.
+
+LEGENDS INTRODUCTION A–G H–M N–Z
+
+ENTWINED DESTINIES GLOSSARY AND INDEX

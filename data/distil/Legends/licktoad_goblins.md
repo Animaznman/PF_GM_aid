@@ -1,0 +1,41 @@
+# LICKTOAD GOBLINS
+
+# FAMILIAR FACES The exploits of the Licktoad goblins are detailed in five Free RPG Day adventures: *We Be Goblins!*, *We Be Goblins Too!*, *We Be Goblins Free! We B4 Goblins!*, and *We Be 5uper Goblins!* Legends assumes the four great goblin heroes—Chuffy, Mogmurch, Poog, and Reta—somehow all managed to survive their manic adventures, resulting in them arriving and residing on the Astral Plane for the foreseeable future.
+
+LICKTOAD GOBLINS
+
+GOBLIN ADVENTURING PARTY "Don't worry so much! I said I'd find your book and find it I will. Now you just head on over to Barberstone and have yourself a good soak; you'll feel much better for it, I'm sure." The wyrwood stood in the threshold to her office, holding the door open for a middle-aged half-elf. She watched as the visitor slowly made his way across the waiting room and gave a reassuring wave when he looked nervously back at her one last time. It was only when he had exited into the immense cavern beyond and the door had closed that she acknowledged her other guest. "All right, you, c'mon in. I've got a doozy for you."
+
+Silka—famed recovery specialist of the Astral Plane—gestured to a chair with her wooden right hand as she walked around to the far side of her desk and pulled a folder from the top drawer with her left. "That delightful bundle of nerves was Golbert, and it seems he's lost his picture book. Let's see..." She paused for a moment to consult the page before her. "*Faire Tales of Fey Lands*. A gift from his late mother, I believe. Lots of sentimental value, and so on. Anyway, it was taken from him shortly before he was unceremoniously dumped onto this plane along with the thieves. He's made himself a tidy bundle since he arrived here in Yulgamot selling some sort of alchemical trinket to the folks passing through, and he's going to pay me a hefty sum for his lost treasure. I think this one might require a little muscle, though, and that's where you come in.
+
+"Tell me," she said, sliding the folio across the desk as she steepled her hands, her head giving a mischievous quirk on her ball-jointed neck. "What do you know about goblins?"
+
+DOSSIER: LICKTOAD GOBLINS Current Whereabouts: Unknown; likely somewhere on Yulgamot Objective: Unknown
+
+Chuffy Lickwound NE MALE GOBLIN ROGUE Distinctive Features: Face covered in pustules Relationships: Stankrush (pet spider) Typical Behavior: Stealthy; likes to sneak up and stab things unless he can light them on fire, in which case–obviously–he does that first; likes to play pranks on others–the deadlier the better
+
+MOGMURCH NE MALE GOBLIN ALCHEMIST Distinctive Features: Butterfly-shaped birthmark on forehead (usually covered by skull-hat); reports describe a strong alchemical aroma (and flavor, though would not recommend testing); bouncy Other Relationships: Amfibier (pet toad); Rempty (mate—deceased) Typical Behavior: Throws bombs at things; frequently experiments with new explosives; creates new alchemical elixirs to test on himself and on Chuffy
+
+Poog of Zarongel NE MALE GOBLIN CLERIC Distinctive Features: Smallest of the four; usually caries pet toad on his head Other Relationships: Dogfinder (pet toad—deceased); Flybreath (pet toad—deceased); Nosquish (pet toad–alive); Squealy Nord (companion pig/dragon) Typical Behavior: Channels unholy magic from the goblin god Zarongel; unreasonably confident in combat; terrible at riding animals
+
+Reta Bigbad NE FEMALE GOBLIN FIGHTER Distinctive Features: Unusually large, wide head; wears stolen bridal veil Other Relationships: Spotol (pet toad) Typical Behavior: Hits things hard with a sword, a stick, or anything else close at hand; fights particularly viciously against dogs; very loud, usually shouting; easily bored
+
+# KNOWN HISTORY These four goblin troublemakers began life in the Licktoad tribe, in a small village, in a small swamp, in a small corner of Golarion, on the Material Plane. How they got from there to here is a tale of violence, destruction, and an uncanny amount of good fortune for the goblins themselves. Goblin history is hard to come by, writing being a terrible sin to them and all, but I've managed to piece together a little bit of it for you.
+
+Chuffy, Mogmurch, Poog, and Reta made a name for themselves at a young age by raiding a wedding, eating the cake, and stealing a piglet (more on the pig shortly). Once established as warriors for their tribe, they were free to cause all sorts of trouble. One particularly daring and destructive raid left a notorious goblin cannibal dead and the four returning to their tribe as conquering heroes with a load of fireworks. Alas, the explosive fun was not to last long for the Licktoads—the tribe was wiped out shortly afterward by adventurers from a nearby human settlement.
+
+Even when luck ran out for the tribe, though, it held strong for this destructive quartet, who managed to be away on a mission at the time. They quickly found a new home with a nearby tribe, the Birdcrunchers, who just so happened to be in want of some heroes to take care of a pesky ogre problem. They drove off the interloping monster and his fire-breathing pigs, and even managed to rescue their former tribe's prized mascot, a war-pig named Squealy Nord—you guessed it, the very one they stole as whelps. On their return they were crowned chieftains and settled in for the life of luxury they knew they deserved.
+
+This, too, was not to last. Chuffy, Mogmurch, Poog, and Reta were bored by life as chiefs—ordering raids is much less fun than participating in them, it seems. Thus, when their favorite pig disappeared into a mysterious magic bag, they jumped right in after him. They found themselves in a strange demiplane resembling the inside of a huge bag, accidentally created by and inhabited by the son of one of their early victims. After rescuing Squealy Nord—now alchemically altered into a large porcine dragon—they pierced the side of the bag and were dumped along with the rest of its contents onto the Astral Plane.
+
+As always seems to be the case, their luck was astoundingly good. Rather than get lost in the immeasurable and featureless expanse of the plane, they stumbled almost immediately onto our fair city. We know they were here for a while, at least, because they were chased out of the Preserve after a "misunderstanding" regarding the flammability and edibility of the lichen gardens. Rumor has it Barberstone Spa took the unusual step of completely draining and thoroughly scrubbing their big pool the other day as well, though they're being tight lipped about it, and I can't help but think that's related. Given the recent uptick in theft and vandalism in the area, as well as rumors of strange pirates attacking passersby, it seems likely they're still here. I suspect they're hiding out down in Underpeak, staring at that beautiful view of the Plane of Fire and plotting their next mischief. It's hard to know exactly what they're planning, but given their history it will probably involve the violent acquisition of something shiny, flammable, or both. It shouldn't be too hard to track them down, but be careful when you do; they're tougher than they look!
+
+Lick the toad and steal the cake, Crunch the bird and ruckus make, Kill the ogre, smash his head, We be goblins, you be dead!
+
+We big chiefs and we be bored, Off to find our Squealy Nord, Into Baglands, smash the place, Ride our dragon into space!
+
+This place boring, it so drab, There be nothing fun to stab, We have new prize to acquire, We make raid on Plane of Fire!
+
+**YULGAMOT** The city of Yulgamot hangs in the timeless expanse of the Astral Plane, settled on a rocky planetoid large enough to sustain a constant
+
+population. Also known as the Calendar Stone due to the fact that the timeless nature of the plane is suspended within the city environs, Yulgamot is a popular travel point for explorers who otherwise lack stable landmarks or layover points in the void of the Astral. While the upper side of Yulgamot faces a starry void and is host to strange gardens that grow in the violet light, the lower side of Yulgamot faces the Plane of Fire and is baked clean of most life. The view from that side is beyond spectacular, however—especially for creatures with a fondness for flame!

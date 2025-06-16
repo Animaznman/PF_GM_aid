@@ -1,0 +1,87 @@
+# SIHAR
+
+# OLD FRIENDS During her time outside Mzali, Sihar spent several years at the Magaambya Academy. There she studied under the storyteller Janatimo, while also making allies of her fellow students. She was happy to know there were Emerald Boughs already in Mzali monitoring things–these were later indispensable in getting the Bright Lions off the ground. Thanks to the connections she made with the Rain-Scribes, she was able to set up a communication network to find allies and resources outside the city.
+
+SHAR
+
+# LEADER OF THE BRIGHT LIONS LG FEMALE HUMAN FIGHTER Living in the city-state of Mzali is perfectly safe, as long as you follow every law, wish, and whim of the child god Walkena, who has ruled the city-state for over 100 years. If he finds you lacking, in either faith or loyalty, Walkena or one of his priests will waste no time in publicly and painfully executing you. For Walkena is a descendant of the deities of the Mzali—and close enough to a god in power that even those who don't believe in his rightful rule can do little to oppose him.
+
+Yet some in Mzali have said, "No more! This is not who the city is, this is not what the Old Sun Gods preached." They call themselves the Bright Lions, and they spend their time and resources organizing to fight against the tyranny that has overtaken their people. They speak of a time that Mzali was the center of a great empire, respected for its wealth and influence rather than for ruling with fear and cruelty. They say that one day things will be like that again, that one day they will overthrow Walkena, and that this day is coming.
+
+Leading the Bright Lions is Sihar, a tall and muscular woman in her mid-thirties, with the appearance of a warrior but the bearing of a scholar. Her face and body bear the scars of her years as a mercenary, her fingers calloused by both a sword and a brush pen. She wears her hair tight and high on her head, only letting it down when by herself or with her closest friends and companions. Unlike the reds and golds of many of the Bright Lions, Sihar usually dresses in blues and reds, with bright gold accents woven through her garments. Her style is practical, always ready to enter battle at a moment's notice, but prepared to talk politics or preach the word of the old gods if it might win a sympathetic ear—she is said to always carry a dagger and a book.
+
+# GROWING UP UNDER THE CHILD GOD Sihar grew up without a family. She doesn't know if they were executed by Walkena like so many others, or if they simply abandoned her as a child. She remembers growing up in a temple dedicated to Walkena, remembers priests teaching her how he was a holy descendant of the gods, and how his word was the law. They taught her to read and write by transcribing Walkena's holy word so that it could be spread across the whole Mwangi Expanse. Sihar remembers sneaking deeper into the temple with other orphans, finding statues, scripture, and paintings of the Old Sun Gods. As she learned more about them, she realized that their teachings were not the same as Walkena's—that his views on justice and punishment were warped, blasphemous corruptions of the Old Sun Gods' teachings.
+
+Sihar remembers when as a teen, her best friend, fellow orphan and childhood crush—a sweet happy girl that everyone knew as Mouse—sold Sihar out to the priests after Mouse herself was caught sneaking out late at night. She remembers running away before the priests could get to her, living on the streets, stealing and scavenging what she could to eat. She remembers Mouse being executed by Walkena. She remembers the awful tears she wept for her companion and betrayer.
+
+Sihar remembers when she chose her name, in honor of the Old Sun Gods, when she started using feminine pronouns and started to fully live as a woman. She remembers leaving the city, working as a mercenary and adventurer for close to two decades. When she had amassed enough money and allies, she made her way back to Mzali and established the Bright Lions, to spread the word of the Old Sun Gods and to one day overthrow Walkena.
+
+# BRIGHT LIONS The Bright Lions' members are numerous, but some integral players hold great importance both in the organization and to Sihar personally as well. Sihar's most trusted lieutenant, fiercest warrior, and rumored lover is **Sewell** (N female human rebel general), a large and muscular woman who always has a smile on her face
+
+and a lance at her side. While Sihar is the Bright Lions' leader, Sewell is second in command, leading most of the Bright Lions military attacks.
+
+The backbone of the Bright Lions' relationship with the people of Mzali is **Azeeko** (LG male human cook), an old, bearded man with a burly frame who runs a tavern called the Golden Mouse—one of the Bright Lions' headquarters, for those in the know. For all others, the tavern is simply a place to find a decent bed, a good drink, and a home-cooked meal, even for those who don't have enough coin.
+
+The eyes and ears of the Bright Lions outside of Mzali are coordinated by the halfling spy **Xor Beannich** (CG nonbinary halfling scout), who met Sihar while the future founder of the Bright Lions was working as a mercenary. With Walkena showing displeasure at the recently liberated nation of Vidrian, Xor has been attempting to gain a hearing with prominent Vidric officials such as Avarneus and Shimali Manux, both to offer a warning and in hopes of gaining allies in the fight against the child god. Xor also handles the subtle and dangerous work of keeping their fellow revolutionaries well-provisioned.
+
+The Bright Lions are always looking for brave souls to help them smuggle weapons and supplies into the city. Not only do their agents need to enter Mzali undetected, but once inside, they need to make sure the secret police don't suspect where these valuable stockpiles are kept. In particular, alchemical weapons are always in high demand by active Bright Lions.
+
+# RIGHTEOUS HERESY Sihar plans regularly scheduled attacks against Walkena, his many servants, and their religious infrastructure both in and outside Mzali. Inside the city, the Bright Lions work to disrupt daily operations and demonstrations of Walkena's power, such as interfering with public executions. The Bright Lions have gotten the procedure of their raids down to a science. Their constant duty is to defend the oppressed, which often involves daring rescues followed by close escapes, after which they must hide themselves and those they rescued either in one of their hidden bases of operation or somewhere outside the city. Equally vital to the organization is the task of convincing others whenever possible to join the cause. Walkena has forces outside the city as well to spread his rule across the Mwangi Expanse, and scattered bands of Bright Lions often follow to subtly sabotage supply lines and harry troops.
+
+Yet violence is not the only method that Sihar uses to undermine Walkena's rule. As a scholar and expert on the Old Sun Gods, Sihar hopes that spreading their word among the people of Mzali will remind citizens of the kinder deities that once watched over the city, and help foment discontent with Walkena's malicious rule. She also hopes to see her patrons become known in other lands and among other people, so that if the worst happens and the Bright Lions are wiped out, the Old Sun Gods will still be honored. During her time at the Magaambya, she unearthed detailed information and theories on where to find ancient texts and relics within the depths of Mzali's temples—but retrieving them is considered too dangerous and is not a top priority for the Bright Lions themselves to investigate. Those who can convince Sihar they are trustworthy enough to return any recovered holy items may get her to divulge the location of said treasures. For those who succeed, Sihar can offer not only gold, but something more valuable: her gratitude and favor.
+
+# OLD SUN GODS Although once mostly forgotten, the Old Sun Gods have slowly been brought back to the people of Mzali thanks to Sihar and the Bright Lions. The following entries include two elements introduced in _Pathfinder Lost Omens Gods & Magic_. Alternate domains are described on pages _7–8_ of _Gods & Magic_ and can be selected using the
+
+## PEOPLE OF NOTE Avarneus (page 22), Janatimo (page 60), Shimali Manux (page 96)
+
+# THE LION'S PRIDE **Azeeko:** The old cook can most often be found in the kitchen making food—bread in particular—which he distributes to the poor. This generosity has led to Azeeko having the ear of the lowest among the low, and he has used this inroad to gather information and spread word of the Bright Lions' achievements. At least for now, Walkena's enforcers have yet to come knocking.
+
+Sewell: A Mzali native who left the city with her family as a child, Sewell met Sihar when they were both working as mercenaries. Sihar explained her mission and her vision of a prosperous Mzali that didn't torture its own citizens, one guided by compassion and greatness, not cruelty. Sewell laughed at Sihar's goals, saying such a thing was impossible, but said she would join if Sihar beat her in an arm-wrestling contest. Sihar did, and since then Sewell has been completely dedicated to Sihar and her mission. Sihar relies on Sewell and trusts her above anyone else, even if Sewell is far quicker to jump to violence than the more prudent Sihar.
+
+**Xor Beninch:** Xor was the child of foreign merchants who had hired the mercenary company Sihar was a part of at the time, to serve as guards. During their journey they were constantly attacked by monstrous creatures and bandits. By the end of the trip, Xor's parents were done with all of the dangers of a traveling life, but Xor was hooked. They begged to stay behind and train under Sihar and some of the other mercenaries. When it was time for Sihar to go back to Mzali, with
+
+for Sihar to go back to Mzali, with plans of founding the Bright Lions, Xor was ready to help. But Mzali's fascistic policies against non-Mwangi peoples made it almost impossible for a halfling to enter, let alone live in, the city-state. Wanting to be part of the Bright Lions but not being able to operate safely in the city, Xor used their agility and quick thinking to become the group's spymaster, organizing and leading their allies outside Mzali. They are the first point of contact with the Bright Lions and Sihar herself.
+
+LEGENDS INTRODUCTION A–G H–M N–Z
+
+ENTWINED DESTINIES GLOSSARY AND INDEX
+
+## WALKENA, THE CHILD GOD Over a century ago, the city-state of Mzali was largely in disarray. Yet one day, a group of priests discovered the mummified body of Walkena in an old temple. The discovery attracted attention
+
+not only from pilgrims from every corner of the Mwangi Expanse but also from Sargavan colonists determined to conquer the city and plunder its riches. Before the Sargavan armies could reach Mzali, however, Walkena suddenly rose from the dead. The child-mummy brought down sunfire on the attackers, and then declared himself ruler of the city. The people of Mzali thought that they would finally live in a paradise, but the child god's short temper, unreasonable laws, and apparent desire to conquer his fellow Mwangi quickly proved that such a hope was not in Mzali's future.
+
+Expanded Domain Initiate feat from that book (*Gods & Magic* 8). Divine ability boosts are gained by selecting the raised by belief background (*Gods & Magic* 9).
+
+Chohar, the Sun God of Noon [LG] The Lion God of justice, loyalty, and work. He is most commonly depicted as a golden lion with a sun for a mane. Some priests of Walkena claim that the child god is a descendant of Chohar, because of their shared love of justice—yet Walkena's justice is vindictive and cruel, while Chohar's is one of duty. Edicts finish any and all tasks you accept, bring those who are cruel to justice, show pride in your home and your heritage
+
+Anathema break your word, be cruel to the innocent, rebuke someone due to their homeland Follower Alignments LG, LN, NG
+
+Devotee Benefits Divine Font *heal* Divine Ability Strength or Charisma Divine Skill Intimidation Favored Weapon starknife Domains cities, family, fire, sun Alternate Domains duty, toil (*Pathfinder Adventure Path #148* 63), vigil, zeal Cleric Spells 1st: *burning hands*, 3rd: *fireball*, 4th: *fire shield*
+
+Luhar, the Sun Goddess of Dusk [LN] The Lioness Goddess of death, dreams, and destiny. She is most commonly depicted as a lioness with the head of a human woman, dark skinned with bright eyes. Edicts learn about the night and prepare yourself to face its creatures and dangers, always make time for sleeping and dreams, ensure others never go to sleep scared Anathema stay up all night without any breaks for sleeping or dreaming, attack a person or creature while they sleep, leave a badly wounded opponent alive and suffering Follower Alignments LG, LN, LE
+
+Devotee Benefits Divine Font harm Divine Ability Dexterity or Wisdom Divine Skill Stealth Favored Weapon spiked chain Domains cities, darkness, dreams, sun Alternate Domains fate, soul, star, zeal Cleric Spells 1st: sleep, 3rd: invisibility sphere, 5th: shadow walk
+
+Tlehar, the Sun Goddess of Dawn [NG] The Lioness Goddess of iron, love, and rebirth. She is most commonly depicted as human but with the head of a lioness, her fur a dull gray and her eyes black as night. Edicts give yourself fully to everything you attempt, always maintain hope that tomorrow will be a better day, treasure every gift you are given by those who matter to you Anathema lose your motivation to your regrets, spread despair, treat a loved one poorly Follower Alignments LG, NG, CG
+
+Devotee Benefits Divine Font heal Divine Ability Intelligence or Charisma Divine Skill Crafting Favored Weapon morningstar Domains cities, healing, passion, sun Alternate Domains change, creation, vigil, zeal Cleric Spells 1st: soothe, 3rd: enthrall, 5th: dreaming potential
+
+**BRIGHT LION ARCHETYPE** You are one of the Bright Lions, part revolutionary warrior, part undercover spy.
+
+BRIGHT LION DEDICATION FEAT 2 UNCOMMON ARCHETYPE DEDICATION Prerequisites member of the Bright Lions, not a worshipper of Walkena, trained in Stealth; Access Bright Lion background (Lost Omens World Guide 95) You become trained in your choice of Deception or Diplomacy and in Mzali Lore; if you were already trained, you become an expert instead. You incorporate enough worship of Walkena in your daily life to avoid suspicion. You typically don't need to Lie or Impersonate to pass yourself off as a worshipper of Walkena. Against careful inspection, you gain a +4 circumstance bonus to Deception checks specifically to pass yourself off as a version of yourself faithful to Walkena.
+
+**Special** You can't select another dedication feat until you have gained two other feats from the Bright Lion archetype.
+
+WARDING LIGHT FEAT 4 ARCHETYPE Prerequisites Bright Lion Dedication You gain a tattoo that serves as a special ward to defend you against Walkena's forces. The tattoo allows you to cast the light cantrip as a divine innate spell at will. The cantrip is heightened to a spell level equal to half your level rounded up. If you die, the tattoo immediately casts gentle repose on your corpse, heightened to the same spell level.
+
+SUN'S FURY FEAT 6 ARCHETYPE Prerequisites Bright Lion Dedication The Old Sun Gods have granted you a gift in your fight against Walkena. You gain the sun's fury focus spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can regain using the Refocus activity to pray to the Old Sun Gods; if you already have a focus pool, increase the number of Focus Points in your focus pool by 1. Your Bright Lion focus spells are divine spells; when you gain this feat, if you aren't already, you become trained in divine spell attacks and spell DCs, using Charisma as your spellcasting ability score.
+
+ELUDE THE DIVINE FEAT 8 ARCHETYPE Prerequisites Bright Lion Dedication You are able to escape inquisitions involving divine magic, allowing you to blend in well in Mzali but also to avoid unwanted attention in other oppressive theocracies. You gain the Slippery Secrets skill feat, and its benefits also apply against divination effects that attempt to discern your deity. When using Slippery Secrets against a divine divination, you gain a +2 circumstance bonus, and on a critical success, the divination reveals false information appropriate to your false persona, rather than nothing.
+
+BRIGHT LION FOCUS SPELL SUN'S FURY FOCUS 3
+
+UNCOMMON EVOCATION FIRE GOOD Cast somatic, verbal Range touch; Targets 1 weapon without an unholy rune that is unattended or wielded by you or a willing ally
+
+Duration 1 minute The target weapon becomes wreathed in a glowing flame. The weapon deals an additional 1d4 fire and 1 good damage on a successful Strike. In addition, the flame causes the weapon to glow as bright as a torch. You can Dismiss the spell.
+
+# WALKENA'S SHADOW A Bright Lion's job is to blend in but be ready to damage Walkena's forces as much as possible at a moment's notice. While the Bright Lions are focused on overthrowing Walkena, he is not the enemy they face most often. **Themba Sufu** (LE male human rogue), the commander of Walkena's secret police, prowls the night searching for dissidents and insurrectionists–a description the Bright Lions fit in every aspect.

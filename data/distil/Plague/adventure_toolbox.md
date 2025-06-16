@@ -1,0 +1,3 @@
+# Adventure Toolbox
+
+Not even mentioned on most maps, the town of Etran's Folly has seen better days. The town's population has never fully recovered from a plague that struck almost 20 years ago, and many of the homes on the north side of town stand empty and abandoned. In spite of such hardships, the townsfolk carry on and are friendly to outsiders and travelers. Those who approach are sure to marvel at huge turnip fields surrounding the village, but should be wary of the turnip ale favored by the locals—it's quite strong and it's definitely an acquired taste.
