@@ -2,26 +2,41 @@
   {
     "source_file": "taargick.md",
     "question": "Who is Taargick?",
-    "answer": "Taargick is the most famous and storied of all dwarven rulers in the Inner Sea region. He united the dwarf clans, founded the kingdom of Tar Taargadth, oversaw the completion of the Quest for Sky, and designed many of the first Sky Citadels. He is considered the First High King of the Dwarves and King of Sky."
+    "answer": "Taargick is the most famous dwarven ruler in the Inner Sea region. He united the dwarf clans, founded the kingdom of Tar Taargadth, oversaw the completion of the Quest for Sky, and designed many of the first Sky Citadels."
   },
   {
     "source_file": "taargick.md",
-    "question": "What is the Bright Lion Archetype?",
-    "answer": "The Bright Lion archetype represents individuals who are part revolutionary warriors and part undercover spies. They fight against Walkena's forces while blending in with Walkena's worshippers."
+    "question": "What event marked Taargick's birth?",
+    "answer": "Taargick was born in the Darklands on the night the Starstone crashed into the surface world in -5293 AR."
   },
   {
     "source_file": "taargick.md",
-    "question": "What is the purpose of the Warding Light feat for Bright Lions?",
-    "answer": "The Warding Light feat grants a tattoo that serves as a ward against Walkena's forces. It allows the Bright Lion to cast the *light* cantrip and, upon death, automatically casts *gentle repose* on their corpse."
+    "question": "Explain the significance of the Battle of Basalt Grimm.",
+    "answer": "At the Battle of Basalt Grimm, the dwarves were ambushed by orcs, leading to many dwarven civilian deaths and the temporary abandonment of the Quest for Sky for vengeance. Taargick's mother, Hilgart, was killed during this battle."
   },
   {
     "source_file": "taargick.md",
-    "question": "What is Sun's Fury, and how does a Bright Lion acquire it?",
-    "answer": "Sun's Fury is a focus spell granted to Bright Lions by the Old Sun Gods to fight against Walkena. Bright Lions gain the Sun's Fury focus spell via the Sun's Fury feat. This feat also grants or increases their focus pool and grants training in divine spell attacks and spell DCs."
+    "question": "What were Sky Citadels, and what purpose did they serve?",
+    "answer": "Sky Citadels were massive fortresses designed by Taargick to help the dwarven kingdom survive on the surface. They served as fortresses, administrative centers, cities, academies, and final redoubts."
   },
   {
     "source_file": "taargick.md",
-    "question": "What does the Elude the Divine feat allow a Bright Lion to do?",
-    "answer": "The Elude the Divine feat grants the Slippery Secrets skill feat. It allows the Bright Lion to escape inquisitions involving divine magic and provides a bonus against divine divination effects that attempt to discern their deity, and allows the divination to reveal false information on a critical success."
+    "question": "How did Taargick ensure the Quest for Sky was completed?",
+    "answer": "After the dwarves abandoned the quest for vengeance, Taargick rallied support by leveraging his connections and advocating for the Quest. He challenged Hrungul Ironeye, a recalcitrant faction leader, to single combat and won, solidifying his leadership."
+  },
+  {
+    "source_file": "taargick.md",
+    "question": "What regret did Taargick express in his last papers found in Dongun Hold?",
+    "answer": "Taargick regretted not seeking a more peaceful solution to the war that drove the orcs from their homeland and wished for an orc king to whom he could apologize."
+  },
+  {
+    "source_file": "taargick.md",
+    "question": "How did Taargick disappear from the public eye at the end of his reign?",
+    "answer": "Taargick abdicated the throne, donned his armor, and went to find a place to die and be buried in obscurity, hoping to protect Koldukar from attacks."
+  },
+  {
+    "source_file": "taargick.md",
+    "question": "What is the significance of Koldukar and Dongun Hold?",
+    "answer": "Koldukar was the first Sky Citadel and the center of Tar Taargadth, where Taargick first saw the sky. Dongun Hold was the second Sky Citadel, built in alliance with Osirion as a far-flung outpost of Tar Taargadth."
   }
 ]

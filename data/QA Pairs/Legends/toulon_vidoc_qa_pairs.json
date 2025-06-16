@@ -2,21 +2,41 @@
   {
     "source_file": "toulon_vidoc.md",
     "question": "Who is Toulon Vidoc?",
-    "answer": "Toulon Vidoc is the leader (Lictor) of the Hellknight Order of the Scourge, a Hellknight order dedicated to apprehending criminals of every stripe. He is described as charming and capable, and adept at political maneuvering."
+    "answer": "Lictor Toulon Vidoc is the leader of the Hellknight Order of the Scourge, a capable Hellknight known for his political maneuvering and dedication to apprehending criminals."
   },
   {
     "source_file": "toulon_vidoc.md",
-    "question": "Why did Toulon Vidoc leave the dottari?",
-    "answer": "Vidoc left the dottari because two of his cases were shut down and ended in frustration. One involved Skinsaw cultists and Asmodean aristocrats, and the other involved pirates in the Shackles and the loss of his parents' fortune. He felt he couldn't pursue justice in these cases within the dottari."
+    "question": "What is the Order of the Scourge known for?",
+    "answer": "The Order of the Scourge is the oldest Hellknight order, dedicated to apprehending criminals of all types, even those with noble status. They are known for often being at odds with Cheliax's ruling houses."
   },
   {
     "source_file": "toulon_vidoc.md",
-    "question": "What is the Order of the Scourge?",
-    "answer": "The Order of the Scourge is the oldest Hellknight order. It focuses on apprehending criminals of all types and is often at odds with Cheliax's ruling houses because it investigates the misdeeds of the powerful."
+    "question": "Why did Vidoc leave the dottari?",
+    "answer": "Vidoc left the dottari after two frustrating cases: one involving Skinsaw cultists and Asmodean aristocrats, and another concerning the loss of his parents' fortune due to pirates in the Shackles. Both cases were shut down prematurely."
   },
   {
     "source_file": "toulon_vidoc.md",
-    "question": "What qualities helped Toulon Vidoc rise through the ranks of the Order of the Scourge?",
-    "answer": "Vidoc rapidly developed a reputation for precise thinking, dogged determination, and tremendous personal courage. His years navigating Egorian's politics also made him adept at manipulating power."
+    "question": "What are some of Vidoc's accomplishments as Lictor?",
+    "answer": "Vidoc has shaped the Hellknights under his command, captured the Bellflower Network's leader, and taken an interest in the disappearance of Absalom's primarch."
+  },
+  {
+    "source_file": "toulon_vidoc.md",
+    "question": "What is the current conflict Vidoc faces?",
+    "answer": "Vidoc is currently in a potential conflict with Queen Abrogail II of Cheliax due to the Order of the Scourge's investigation into her possible involvement in Cheliax's recent turmoil."
+  },
+  {
+    "source_file": "toulon_vidoc.md",
+    "question": "How did Vidoc rise so quickly in the Order of the Scourge?",
+    "answer": "Vidoc rose quickly due to his precise thinking, dogged determination, personal courage, and adeptness at manipulating the levers of power due to his experience navigating Egorian's politics."
+  },
+  {
+    "source_file": "toulon_vidoc.md",
+    "question": "What is Vidoc's connection to Egorian's dottari?",
+    "answer": "Vidoc used to be a dottari in Egorian, and many senior officers in Egorian's dottari owe their positions to him because he allowed them to take credit for his successes, leaving them indebted to him."
+  },
+  {
+    "source_file": "toulon_vidoc.md",
+    "question": "How does the Order of the Scourge ensure autonomy and protection for its investigators?",
+    "answer": "The Order of the Scourge cultivates grateful nobles throughout Chelaxian society, which provides a certain level of autonomy and protection for its investigators."
   }
 ]

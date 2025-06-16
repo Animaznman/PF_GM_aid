@@ -1,27 +1,52 @@
 [
   {
     "source_file": "irabeth_tirabade.md",
-    "question": "What are the four edicts that all alghollthu can recall?",
-    "answer": "The First Dictum is that life exists to be controlled. The Second Dictum is that to be an alghollthu is to control. The Third Dictum is that alghollthus are eternal as many and one. The Fourth and Final Dictum is that to overreach is to threaten the eternal."
+    "question": "What is Irabeth Tirabade known for?",
+    "answer": "Irabeth Tirabade is a half-orc paladin of Iomedae, a renowned heroine of the Fifth Mendevian Crusade, former knight of the Eagle Watch, and onetime ruler of Drezen. She played a significant role in closing the Worldwound."
   },
   {
     "source_file": "irabeth_tirabade.md",
-    "question": "Why is Olordarea in danger?",
-    "answer": "Olordarea is in danger of breaking the Fourth Dictum because its true identity has been discovered by a gnoll named Shimon-Je."
+    "question": "Who is Anevia Tirabade and what is her relationship to Irabeth?",
+    "answer": "Anevia Tirabade is Irabeth's wife. She is a human rogue who was raised as a man but has been living as a woman for years. Their love and support for each other have been a constant throughout their lives."
   },
   {
     "source_file": "irabeth_tirabade.md",
-    "question": "Who is Shimon-Je?",
-    "answer": "Shimon-Je is a NG female gnoll abolitionist who discovered the original Hashim's death and confirmed the ruse using a *true seeing* spell. Hashim wants her silenced."
+    "question": "Explain why Irabeth left Lastwall.",
+    "answer": "Irabeth left Lastwall because she experienced prejudice and discrimination due to her orcish heritage. The knights of Lastwall harbored antipathy toward anyone of orcish descent, preventing her from finding friendship or professional advancement."
   },
   {
     "source_file": "irabeth_tirabade.md",
-    "question": "Who is Irabeth Tirabade?",
-    "answer": "Irabeth Tirabade is a LG female half-orc paladin of Iomedae, a renowned heroine of the Worldwound, former knight of the Eagle Watch, and onetime ruler of Drezen. She is married to Anevia Tirabade."
+    "question": "What significant event caused Irabeth great grief and how did she cope with it?",
+    "answer": "The death of her parents in the Eagle Rock massacre caused Irabeth great grief. She coped with the loss through the love and support of Anevia, who kept her grounded during this difficult time."
   },
   {
     "source_file": "irabeth_tirabade.md",
-    "question": "Why did Irabeth leave Lastwall?",
-    "answer": "Irabeth left Lastwall because the knights there had an antipathy toward anyone of orcish descent, due to long and bitter wars against the orcs of Belkzen. She found neither friendship nor professional advancement due to her parentage."
+    "question": "How did Irabeth fund Anevia's transformation?",
+    "answer": "Irabeth sold her father's sword to fund the elixir that would change Anevia's physical form to match her identity."
+  },
+  {
+    "source_file": "irabeth_tirabade.md",
+    "question": "Describe Irabeth and Anevia's life after the closure of the Worldwound.",
+    "answer": "After the Worldwound's closure, Irabeth and Anevia retired to Irabeth's parents' farmstead, where they lived a peaceful life, tending to their fields and fostering orphaned children and youth in need of guidance."
+  },
+  {
+    "source_file": "irabeth_tirabade.md",
+    "question": "Why did Irabeth and Anevia return to Mendev and the lands of their old crusade?",
+    "answer": "They returned because Irabeth felt the call to support the Sarkorian tribes' efforts to reclaim their homeland from the demon-blighted wastes of the former Worldwound. She wanted to help without compromising their self-determination."
+  },
+  {
+    "source_file": "irabeth_tirabade.md",
+    "question": "How does Irabeth view her role in the Sarkoris Scar?",
+    "answer": "Irabeth views her role as protecting and supporting the Sarkorians' efforts to reclaim their homeland, without imposing the agenda of the southern crusaders. She prioritizes their self-determination."
+  },
+  {
+    "source_file": "irabeth_tirabade.md",
+    "question": "Who is Yurvak the Gut-Braider and what is his relationship to Irabeth?",
+    "answer": "Yurvak the Gut-Braider is a half-fiend alchemist and one of Irabeth's old enemies. He seeks revenge against her but is not strong enough to confront her directly. He plots to hurt her through indirect means, potentially by enlisting the aid of demons in the Sarkoris Scar."
+  },
+  {
+    "source_file": "irabeth_tirabade.md",
+    "question": "What is the origin of the rumors about Irabeth's ascension?",
+    "answer": "Rumors have persisted among surviving crusaders that Irabeth's role in closing the Worldwound served as her ascension, and that she now holds the same power as those great heroes."
   }
 ]

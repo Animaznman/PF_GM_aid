@@ -1,27 +1,52 @@
 [
   {
     "source_file": "licktoad_goblins.md",
-    "question": "What is the Licktoad Goblin's atomizer and how does it work?",
-    "answer": "Khismar developed an atomizer that distributes elixirs, oils, and potions as a fine spray or mist. It holds one consumable at a time and has 10 uses before requiring reagent replacement. Activating it via an Interact action allows you to spray the contents on yourself, an ally, or an unattended object, granting the target the consumable's effects. Another activation method allows you to fire the held consumable at a square within 30 feet, creating a cloud that affects the first valid target to enter."
+    "question": "What are the names of the four great goblin heroes from the Licktoad tribe?",
+    "answer": "The four great goblin heroes are Chuffy, Mogmurch, Poog, and Reta."
   },
   {
     "source_file": "licktoad_goblins.md",
-    "question": "What are the effects of Diluted Hype and what are its stages?",
-    "answer": "Diluted Hype is a synthetic adrenaline supplement that increases awareness and reaction time. Stage 1 grants quickened and an additional action to Step for 1 round; Stage 2 imposes stupefied 1 for 1 round; Stage 3 causes drained 1 and stupefied 1 for 1 round. The saving throw is DC 21 Fortitude with a maximum duration of 1 minute."
+    "question": "What are some of the distinctive features of Chuffy Lickwound?",
+    "answer": "Chuffy Lickwound has a face covered in pustules and a pet spider named Stankrush. He is stealthy and likes to stab things or set them on fire."
   },
   {
     "source_file": "licktoad_goblins.md",
-    "question": "How does Plasma Hype differ from regular Hype?",
-    "answer": "Plasma Hype is infused with Numerian fluids and alchemical reagents to improve on the original Hype formula. It has a higher price (400 gp vs 100 gp), a higher item level (12 vs 8), and a higher saving throw DC (30 vs 25). Its Stage 1 effect includes a +10-foot status bonus to speed and allows using the additional action to Step, Stride, Climb, or Swim."
+    "question": "What are some characteristics of Mogmurch?",
+    "answer": "Mogmurch is an alchemist with a butterfly-shaped birthmark on his forehead, a strong alchemical aroma, and a pet toad named Amfibier. He throws bombs, experiments with explosives, and tests elixirs on himself and Chuffy."
   },
   {
     "source_file": "licktoad_goblins.md",
-    "question": "What was the purpose of the Corpse Heart, and what side effect led to the creation of the deadbomb serum?",
-    "answer": "The Corpse Heart was intended as a container for storage within a zombie, designed to break on impact. A side effect where a fire ray caused a subject's \"flaming guts\" to damage nearby targets led to the development of the deadbomb serum, aimed at recreating this effect."
+    "question": "What is notable about Poog of Zarongel?",
+    "answer": "Poog is the smallest of the four goblins, a cleric of Zarongel, carries a pet toad (currently Nosquish) on his head, and has a companion pig/dragon named Squealy Nord. He channels unholy magic and is unreasonably confident in combat, but terrible at riding animals."
   },
   {
     "source_file": "licktoad_goblins.md",
-    "question": "Describe Chuffy Lickwound, Mogmurch, and Poog of Zarongel.",
-    "answer": "Chuffy Lickwound is a neutral evil goblin rogue with a face covered in pustules, a pet spider named Stankrush, and a penchant for stealth, stabbing, fire, and deadly pranks. Mogmurch is a neutral evil goblin alchemist with a butterfly-shaped birthmark on his forehead, a strong alchemical aroma, a pet toad named Amfibier, and a deceased mate named Rempty; he enjoys throwing bombs and experimenting with elixirs on himself and Chuffy. Poog of Zarongel is a neutral evil goblin cleric, the smallest of the four, who carries a pet toad (currently Nosquish) on his head, channels magic from Zarongel, is confident in combat, and terrible at riding animals. "
+    "question": "Describe Reta Bigbad.",
+    "answer": "Reta is a female goblin fighter with a large, wide head who wears a stolen bridal veil and has a pet toad named Spotol. She hits things hard, fights viciously against dogs, is very loud, and easily bored."
+  },
+  {
+    "source_file": "licktoad_goblins.md",
+    "question": "How did Chuffy, Mogmurch, Poog, and Reta end up on the Astral Plane?",
+    "answer": "After being bored as chieftains, they jumped into a mysterious magic bag after their pig, Squealy Nord. They found themselves in a demiplane, rescued Squealy Nord (now a dragon), pierced the bag, and were dumped onto the Astral Plane."
+  },
+  {
+    "source_file": "licktoad_goblins.md",
+    "question": "What is Yulgamot, and why is it important?",
+    "answer": "Yulgamot is a city on the Astral Plane, also known as the Calendar Stone. It's a popular travel point for explorers because it suspends the timeless nature of the plane, providing a stable landmark."
+  },
+  {
+    "source_file": "licktoad_goblins.md",
+    "question": "What are the goblins' likely plans while hiding out in Underpeak?",
+    "answer": "Given their history, they are likely plotting to violently acquire something shiny, flammable, or both."
+  },
+  {
+    "source_file": "licktoad_goblins.md",
+    "question": "Explain how the Licktoad goblins' luck played a role in their history.",
+    "answer": "The goblins consistently had good fortune. They survived their tribe's destruction because they were away on a mission, rescued Squealy Nord multiple times, and stumbled almost immediately onto Yulgamot on the Astral Plane."
+  },
+  {
+    "source_file": "licktoad_goblins.md",
+    "question": "What is Silka's job and why does she need help?",
+    "answer": "Silka is a recovery specialist on the Astral Plane. She needs help to recover a picture book stolen from Golbert by thieves who were dumped on the plane."
   }
 ]

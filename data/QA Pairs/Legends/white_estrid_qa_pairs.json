@@ -1,27 +1,42 @@
 [
   {
     "source_file": "white_estrid.md",
-    "question": "What are Ulthun's three main projects to prepare for the war against Tar-Baphon?",
-    "answer": "Ulthun is focused on three key projects: rescuing survivors near Three Pines Ford with the help of dryad sisters, reinforcing Aylunna Varvatos in Vellumis to reclaim territory, and searching for a powerful artifact in the ruins of Beldrin's Bluff."
+    "question": "Who is White Estrid?",
+    "answer": "White Estrid is the Linnorm King of the Ironbound Islands, a powerful Ulfen warrior with albinism who rules with ferocity and is respected and feared by her subjects."
   },
   {
     "source_file": "white_estrid.md",
-    "question": "How does Ulthun view his relationship with Wynsal Starborn, and what are his hopes for Wynsal's future role in Absalom?",
-    "answer": "Ulthun genuinely cares for Wynsal, viewing him as a steadfast friend. He also hopes his relationship with Wynsal will foster a long-term connection with Absalom's Grand Council. Ulthun wants Wynsal to remain the acting primarch or become the full primarch, even though Wynsal wants to appoint a successor."
+    "question": "How did Estrid become a Linnorm King?",
+    "answer": "Estrid tracked down and subdued a crag linnorm named Boiltongue, binding him to her service instead of killing him. She then returned to Halgrim to claim the title of Linnorm King."
   },
   {
     "source_file": "white_estrid.md",
-    "question": "What are Kalabrynne and Clarethe Iomedar doing in Lastwall's recruitment campaign, and how does Ulthun view their efforts?",
-    "answer": "Kalabrynne oversees recruit training in Vellumis, while Clarethe inspires action as a knight-reclaimant. Ulthun initially saw Clarethe's eagerness to attack as brash, but now recognizes the value of a prominent victory for morale."
+    "question": "What is Estrid's relationship with Boiltongue?",
+    "answer": "Estrid and Boiltongue have a complex relationship of mutual respect and resentment. Boiltongue is subservient to Estrid, but also bitter about losing his self-determination. Estrid admires Boiltongue's strength and values him as a strategic advantage."
   },
   {
     "source_file": "white_estrid.md",
-    "question": "Who is White Estrid and what are some key aspects of her rule as a Linnorm King?",
-    "answer": "White Estrid is the Linnorm King of the Ironbound Islands, notable for being an albino Ulfen woman ruling with ferocity. She encourages both military and agrarian pursuits, welcomes diverse settlers, and keeps the crag linnorm Boiltongue as her thrall and advisor."
+    "question": "What is Estrid's attitude towards those outside the Ulfen?",
+    "answer": "Estrid encourages groups outside of the Ulfen to settle in her lands, including orcs, half-orcs, and dwarves."
   },
   {
     "source_file": "white_estrid.md",
-    "question": "Explain how White Estrid became the Linnorm King.",
-    "answer": "Estrid gained fame for her daring raids and sailing skills. When a crag linnorm appeared, she sought it out. Instead of killing it, she bound the linnorm Boiltongue to her service and claimed the title of Linnorm King, returning with a weapon from earth spirits."
+    "question": "What is the biggest threat to Estrid's kingdom?",
+    "answer": "Estrid considers Runelord Belimarius the biggest threat due to his ambition and military success."
+  },
+  {
+    "source_file": "white_estrid.md",
+    "question": "How does Estrid feel about Thira Ash-Eyes?",
+    "answer": "Estrid is intrigued by Thira's rise to power and is seeking to renew the treaty between their kingdoms. However, Estrid is also wary of Thira's unstated challenge and is investigating her background."
+  },
+  {
+    "source_file": "white_estrid.md",
+    "question": "What is Estrid's strategy for dealing with Runelord Belimarius?",
+    "answer": "Estrid has doubled security and increased patrols, while also avoiding brash actions that Belimarius is attempting to provoke."
+  },
+  {
+    "source_file": "white_estrid.md",
+    "question": "What did Estrid do in 4704 AR that gave her a reputation?",
+    "answer": "Estrid led a fleet of longboats on a great raid on the port of Nisroch, broke through a blockade at the Arch of Aroden, and ferried the raided treasure directly into the harbor at Absalom."
   }
 ]

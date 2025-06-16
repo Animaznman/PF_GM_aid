@@ -1,27 +1,42 @@
 [
   {
     "source_file": "eutropia_stavian.md",
-    "question": "What did Nephaira discover about Choral the Conqueror?",
-    "answer": "Nephaira discovered documents suggesting that Choral the Conqueror, the first king of Brevoy, was not a human warlord as historians claimed, but was actually a red dragon."
-  },
-  {
-    "source_file": "eutropia_stavian.md",
-    "question": "Why did the fisherman leave with the documents despite Nephaira's offer to buy them?",
-    "answer": "The fisherman's face hardened when Nephaira said she didn't think the documents were valuable but offered to buy them for a fair price, suggesting he thought he could sell them for more himself."
-  },
-  {
-    "source_file": "eutropia_stavian.md",
     "question": "Who is Eutropia Stavian?",
-    "answer": "Eutropia Stavian is the Grand Princess of Taldor, the eldest daughter of the previous ruler, Grand Prince Stavian III. She became the first woman on the Taldan throne after a complex war."
+    "answer": "Eutropia Stavian is the Grand Princess of Taldor, a canny politician, dedicated Taldan patriot, and a moderate reformer. She is the first woman on the Taldan throne."
   },
   {
     "source_file": "eutropia_stavian.md",
-    "question": "What are some of the key events in Eutropia Stavian's life that shaped her into the ruler she is today?",
-    "answer": "Key events include the death and resurrection of her brother Carrius, her decade-long opposition to her father's rule, the Taldan War for the Crown, and being murdered and resurrected herself."
+    "question": "What is Eutropia's personality like?",
+    "answer": "Underneath her political persona, Eutropia is rather melancholy due to past struggles. However, she shows a more impish sense of humor when speaking about sport fencing or her catch-dog, Taldogis."
   },
   {
     "source_file": "eutropia_stavian.md",
-    "question": "What is Eutropia's political stance and personality?",
-    "answer": "Eutropia is a moderate reformer who won the throne by maneuvering between rival powers. Underneath her canny political exterior, she is rather melancholy due to the struggles she has faced. She has an impish sense of humor, particularly when discussing sport fencing."
+    "question": "What are Eutropia's political goals and methods?",
+    "answer": "Eutropia aims to put Taldor's financial house in order, root out corruption, and install loyal agents. She prefers using soft power and discreet groups of agents, earning her the nickname 'Queen of Spies'. She also aims to make Taldor the cultural capital of the Inner Sea region."
+  },
+  {
+    "source_file": "eutropia_stavian.md",
+    "question": "Who are some of Eutropia's allies?",
+    "answer": "Eutropia's allies include Ladies Martella Lotheed and Gloriana Morilla, and Dominicus Rell, the leader of the Lion Blades."
+  },
+  {
+    "source_file": "eutropia_stavian.md",
+    "question": "Who are some of Eutropia's potential enemies or concerns?",
+    "answer": "Potential enemies include members of Oppara, The Cult of the Twilight Child who worship Carrius, former allies of Maxillar Pythareus in the Ninth Army, and concerns related to foreign investments. Graffiti depicting a three-headed crow also poses a threat."
+  },
+  {
+    "source_file": "eutropia_stavian.md",
+    "question": "What is the succession situation in Taldor?",
+    "answer": "Eutropia is unmarried, making her younger brother Carrius II her heir. This has led to numerous individuals vying for his attention and a potential place in Taldor's succession."
+  },
+  {
+    "source_file": "eutropia_stavian.md",
+    "question": "What are Eutropia's foreign relations like?",
+    "answer": "Eutropia has sent emissaries of friendship to neighboring countries such as Andoran, Galt, and Kyonin. She is also negotiating a trade pact with Katapesh and supporting Lady Darchana in Absalom. Relations with Qadira are strained due to past exchanges of assassins."
+  },
+  {
+    "source_file": "eutropia_stavian.md",
+    "question": "What is the significance of Carrius II's resurrection?",
+    "answer": "Carrius II's resurrection is a major plot point that factors into Taldor's history. Initially, his death led to Eutropia becoming the heir, but his later resurrection, murder of Eutropia, and brief rule added to the complicated political landscape."
   }
 ]

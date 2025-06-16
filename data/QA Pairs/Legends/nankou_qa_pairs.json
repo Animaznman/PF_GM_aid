@@ -1,27 +1,42 @@
 [
   {
     "source_file": "nankou.md",
-    "question": "What is the significance of a lily quilt in the Bellflower Network's secret messaging system?",
-    "answer": "A lily quilt warns of an upcoming crossroads, which may be heavily traveled. The colors in the background pattern indicate the level of danger."
+    "question": "Who is Nankou?",
+    "answer": "Nankou is the Linnorm King of Icemark, a NG male human ranger who was born in the taiga of Icemark after his tribe was slaughtered by a linnorm."
   },
   {
     "source_file": "nankou.md",
-    "question": "How would you identify a safe house using the Bellflower Network's quilt system, and what is the proper exchange to initiate contact?",
-    "answer": "A safe house is indicated by a quilt bearing sunflowers. To initiate contact, knock on the door and ask for directions to the \"Turning Theater.\" Respond with \"Why, with all my buttons!\" in halfling when asked \"How would you perform?\""
+    "question": "How did Nankou become the Linnorm King of Icemark?",
+    "answer": "Nankou declared himself the Linnorm King of Icemark after he and his companion T'kamo slew a taiga linnorm. He decreed that he must ratify all trade agreements, making him the primary diplomat for the Varki people with the Ulfen."
   },
   {
     "source_file": "nankou.md",
-    "question": "Explain how a blue daisy quilt is used to signal information about the arrival of travelers.",
-    "answer": "A blue daisy quilt notifies allies that a tiller will be arriving soon with travelers. The number of flowers indicates the days of travel until arrival, and the state of bloom indicates how prepared the group is. A barely blooming daisy means the group needs aid."
+    "question": "What is Nankou's relationship with T'kamo?",
+    "answer": "T'kamo is a black bear companion to Nankou. Nankou found T'kamo as a newborn cub whose mother had been killed. They grew up together and are very close, complementing each other's skills in battle and other endeavors."
   },
   {
     "source_file": "nankou.md",
-    "question": "What are the different messages conveyed by a lotus quilt regarding safe passage over water?",
-    "answer": "A lotus quilt indicates safe passage over water. A white lotus means passage is available near dawn, pink and violet lotuses signify dusk or night passages, respectively. A fully bloomed lotus means safe passage, while a closed lotus means caution due to possible observation."
+    "question": "How does Nankou's title as Linnorm King improve relations between the Varki and the Ulfen?",
+    "answer": "Nankou's proven claim to the title of Linnorm King impressed the Ulfen, which smoothed relations between the two peoples and helped to prevent conflict."
   },
   {
     "source_file": "nankou.md",
-    "question": "Who is Nankou of Icemark and how did he become the Linnorm King?",
-    "answer": "Nankou is a Varki ranger who became the Linnorm King of Icemark after slaying the linnorm that killed his tribe. He uses this title to mediate between the Varki and Ulfen and ensure fair trade agreements."
+    "question": "What are some of Nankou's notable relationships with other monarchs?",
+    "answer": "Nankou has good relationships with White Estrid and Thira Ash-Eyes. He considers himself friendly with Thira Ash-Eyes, the successor to Sveinn Blood-Eagle. He has a less pleasant relationship with King Ingimundr the Unruly of Broken Bay, due to Ingimundr's encouragement of raiding."
+  },
+  {
+    "source_file": "nankou.md",
+    "question": "What are Nankou's motivations as the Linnorm King?",
+    "answer": "Nankou wants to maintain peace between the Varki and Ulfen people. He hunts deadly monsters to protect the ecosystems of his territory."
+  },
+  {
+    "source_file": "nankou.md",
+    "question": "What are Nankou's views on the title 'Linnorm King'?",
+    "answer": "Nankou considers the title 'Linnorm King' a bit silly, as no linnorm actually obeys him. However, he recognizes the power of the title in the eyes of others and uses it to promote peace and diplomacy with the Ulfen."
+  },
+  {
+    "source_file": "nankou.md",
+    "question": "How did Nankou and T'kamo lose their eyes?",
+    "answer": "Nankou lost an eye during the battle with the taiga linnorm that made him the Linnorm King. T'kamo also lost an eye, along with one fore-claw, in the same battle."
   }
 ]

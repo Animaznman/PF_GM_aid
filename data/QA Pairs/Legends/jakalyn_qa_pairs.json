@@ -2,26 +2,51 @@
   {
     "source_file": "jakalyn.md",
     "question": "Who is Jakalyn?",
-    "answer": "Jakalyn is the Blood Mistress of the Red Mantis assassins, ruling from the Crimson Citadel on Mediogalti Island."
+    "answer": "Jakalyn is the current Blood Mistress of the Red Mantis assassins. She has ruled for well over a century and is known for her unorthodox public persona."
   },
   {
     "source_file": "jakalyn.md",
-    "question": "How does Jakalyn differ from previous Blood Mistresses?",
-    "answer": "Unlike previous Blood Mistresses, Jakalyn maintains an unorthodox public persona, eschewing the mantis mask and openly involving herself in worldly affairs."
+    "question": "What is unusual about Jakalyn's public persona?",
+    "answer": "Unlike previous Blood Mistresses, Jakalyn eschews the mantis mask and doesn't hide her involvement in worldly affairs, causing concern among some Vernai."
   },
   {
     "source_file": "jakalyn.md",
-    "question": "What was the agreement between Jakalyn and Queen Abrogail Thrune of Cheliax?",
-    "answer": "Queen Abrogail hired Jakalyn to orchestrate assassinations outside of normal Chelaxian political channels, particularly against mercenary companies like the Order of the Scourge, in exchange for Jakalyn's freedom to carry out her work without interference. Jakalyn publicly announced the charter."
+    "question": "How does Jakalyn determine her prices for assassinations?",
+    "answer": "Jakalyn's prices vary widely, ranging from a few copper coins to over a hundred thousand gold, seemingly without a consistent pattern."
   },
   {
     "source_file": "jakalyn.md",
-    "question": "What is Jakalyn's approach when dealing with foes she cannot directly target, such as monarchs?",
-    "answer": "Jakalyn enlists the help of adventurers who are already opposed to her intended target, offering rewards like gold, magic, assassination services, clemencies, or access to Red Mantis training."
+    "question": "What is Jakalyn's relationship with Queen Abrogail Thrune of Cheliax?",
+    "answer": "Jakalyn has a complex relationship with Queen Abrogail. She publicly accepted a charter from Abrogail to orchestrate assassinations outside of normal Chelaxian channels, specifically against the mercenary company Order of the Scourge. Prior to this Jakalyn intervened to stop a previous assassination attempt on Kassi Aziril, a Rahadoumi healer, hired by Abrogail."
   },
   {
     "source_file": "jakalyn.md",
-    "question": "What surprising assassination request was Jakalyn recently approached with, and what was her response?",
-    "answer": "Jakalyn was approached to assassinate Tar-Baphon, the Whispering Tyrant. She imprisoned the anonymous messenger and publicly announced the request, later discovering the messenger came from Razmiran, leading to rumors of possible retaliation against Razmir."
+    "question": "What does Jakalyn offer to adventurers she seeks to employ?",
+    "answer": "Jakalyn offers gold, magic items, assassination services, clemencies (promises that no Red Mantis assassin will take a contract against a target or targets of the adventurers' choosing), access to secret trainings or techniques normally reserved for the assassins themselves as rewards to adventurers who aid her."
+  },
+  {
+    "source_file": "jakalyn.md",
+    "question": "What are some of the risks of learning Red Mantis abilities without Jakalyn's permission?",
+    "answer": "Those who learn Red Mantis abilities without Jakalyn's permission risk being cast out of the society and hunted down by their former allies."
+  },
+  {
+    "source_file": "jakalyn.md",
+    "question": "What was the unusual request made to Jakalyn and who was believed to be behind it?",
+    "answer": "Jakalyn received a request to assassinate Tar-Baphon, the Whispering Tyrant. After initial attempts at anonymity, the messenger was traced back to Razmiran, leading to speculation about Razmir's involvement and potential retaliation from Jakalyn."
+  },
+  {
+    "source_file": "jakalyn.md",
+    "question": "What is Achaekek's Grip and what does it do?",
+    "answer": "Achaekek's Grip is a rare archetype feat that allows the character to sense if a creature they have slain in the last year has been restored to life. It also grants the Achaekek's clutch focus spell."
+  },
+  {
+    "source_file": "jakalyn.md",
+    "question": "What is the purpose of the RUVARI, THE RUBY HALLS?",
+    "answer": "The uppermost levels of the Crimson Citadel's dungeons form a deadly maze of traps and terrors meant to provide protection to the lower levels and challenge lower-ranking assassins who seek to join the Vernai."
+  },
+  {
+    "source_file": "jakalyn.md",
+    "question": "What kind of knowledge is stored in the SARZARI, THE GRAND LIBRARY?",
+    "answer": "The Sarzari Library contains meticulous records of all contracts carried out by the assassins, along with an astounding array of rare, magical, and dangerous tomes."
   }
 ]

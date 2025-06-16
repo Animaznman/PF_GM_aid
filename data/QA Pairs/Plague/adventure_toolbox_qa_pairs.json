@@ -1,0 +1,32 @@
+[
+  {
+    "source_file": "adventure_toolbox.md",
+    "question": "What is the name of the town described in the text?",
+    "answer": "The town is called Etran's Folly."
+  },
+  {
+    "source_file": "adventure_toolbox.md",
+    "question": "What hardship has Etran's Folly faced in the past?",
+    "answer": "Etran's Folly suffered from a plague almost 20 years ago, from which the population has not fully recovered."
+  },
+  {
+    "source_file": "adventure_toolbox.md",
+    "question": "Describe the current state of the north side of Etran's Folly.",
+    "answer": "Many homes on the north side of town stand empty and abandoned."
+  },
+  {
+    "source_file": "adventure_toolbox.md",
+    "question": "How are the townsfolk of Etran's Folly described?",
+    "answer": "The townsfolk are described as friendly to outsiders and travelers."
+  },
+  {
+    "source_file": "adventure_toolbox.md",
+    "question": "What agricultural feature surrounds Etran's Folly?",
+    "answer": "Huge turnip fields surround the village."
+  },
+  {
+    "source_file": "adventure_toolbox.md",
+    "question": "What is a local beverage that visitors to Etran's Folly might encounter, and what should they know about it?",
+    "answer": "The local beverage is turnip ale. It is described as quite strong and an acquired taste."
+  }
+]

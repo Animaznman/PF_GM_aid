@@ -1,0 +1,47 @@
+[
+  {
+    "source_file": "ooze,_blood.md",
+    "question": "What is a blood ooze?",
+    "answer": "A mindless ooze made entirely from blood, seeking to increase its mass by consuming blood from the living."
+  },
+  {
+    "source_file": "ooze,_blood.md",
+    "question": "How does a blood ooze hide?",
+    "answer": "It hides within the body of its victims, bursting out to attack when another meal draws near."
+  },
+  {
+    "source_file": "ooze,_blood.md",
+    "question": "How is a blood ooze created?",
+    "answer": "By draining the blood of at least four Medium creatures and feeding it to a fifth creature along with reagents to prevent coagulation. The host dies as the ooze takes form."
+  },
+  {
+    "source_file": "ooze,_blood.md",
+    "question": "What is the Infuse Corpse ability?",
+    "answer": "A blood ooze can seep into a corpse's wounds, displacing its natural blood and burst out of the corpse as a free action."
+  },
+  {
+    "source_file": "ooze,_blood.md",
+    "question": "Explain the Clot reaction.",
+    "answer": "When damaged by a piercing or slashing attack, the blood ooze forms a clot around the wound, reducing the damage taken by 5 (to a minimum of 0)."
+  },
+  {
+    "source_file": "ooze,_blood.md",
+    "question": "How does Blood Pool work?",
+    "answer": "Whenever a creature adjacent to a blood ooze takes bleed damage, the blood ooze regains an amount of Hit Points equal to the damage dealt."
+  },
+  {
+    "source_file": "ooze,_blood.md",
+    "question": "Describe the Siphon Vitality ability.",
+    "answer": "Each living creature within 15 feet takes 3d6 slashing damage (DC 21 basic Fortitude save). The blood ooze regains an amount of Hit Points equal to half the damage Siphon Vitality dealt to the single creature that took the most damage."
+  },
+  {
+    "source_file": "ooze,_blood.md",
+    "question": "How can a blood ooze reproduce?",
+    "answer": "An existing blood ooze can reproduce by splitting itself in half, but only if it has grown large enough that splitting would create two normal-sized blood oozes."
+  },
+  {
+    "source_file": "ooze,_blood.md",
+    "question": "What variants of blood oozes exist?",
+    "answer": "Blood oozes made from creatures with different types of blood can gain other powers and abilities. Examples include dragon blood (energy resistance), troll blood (regeneration), and fiend blood (intelligence)."
+  }
+]

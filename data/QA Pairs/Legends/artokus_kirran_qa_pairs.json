@@ -1,27 +1,52 @@
 [
   {
     "source_file": "artokus_kirran.md",
-    "question": "What is Artokus Kirran known for?",
-    "answer": "Artokus Kirran is a Thuvian alchemist famous for discovering the sun orchid elixir, which grants eternal life. He provides this elixir to the leaders of Thuvia, who auction off vials to foreigners to enrich and defend the nation."
+    "question": "What is the sun orchid elixir, and who is allowed to use it in Thuvia?",
+    "answer": "The sun orchid elixir is an alchemical creation discovered by Artokus Kirran that grants eternal life. In Thuvia, only Artokus is permitted to partake of the elixir, while the rest is auctioned off."
   },
   {
     "source_file": "artokus_kirran.md",
-    "question": "Explain the relationship between Artokus Kirran and Tukalo.",
-    "answer": "Tukalo is Artokus Kirran's meerkat familiar. Tukalo often lectures Artokus on proprieties and handles some of the teaching duties for Artokus's alchemy students, as Artokus keeps a distance from them."
+    "question": "Why does Artokus sell the sun orchid elixir to foreigners?",
+    "answer": "Artokus sells the elixir to foreigners to generate wealth for Thuvia, which is used to enrich and defend the nation."
   },
   {
     "source_file": "artokus_kirran.md",
-    "question": "How does Artokus Kirran contribute to Thuvian society beyond the elixir?",
-    "answer": "Artokus keeps abreast of current events and uses the profits from the sun orchid elixir to finance projects that contribute to Thuvia's economic independence. He receives reports from city-states on the projects his elixir finances and corresponds with scholars and dignitaries, hoping to aid Thuvia's growth."
+    "question": "What are some of the challenges associated with the sun orchid elixir?",
+    "answer": "Challenges include attempts to steal it, difficulty in acquiring the necessary ingredients, and the rarity of sun orchid finds."
   },
   {
     "source_file": "artokus_kirran.md",
-    "question": "What are some of Artokus Kirran's alchemical discoveries besides the sun orchid elixir?",
-    "answer": "Besides the sun orchid elixir, Artokus Kirran is known for Artokus's Fire (an enhanced alchemist's fire), Sun Orchid Poultice (a healing paste), and Wish Alchemy (the ability to create alchemy infused with the power of wishes)."
+    "question": "What are Artokus's concerns regarding Thuvia's reliance on the sun orchid elixir?",
+    "answer": "Artokus is concerned that Thuvia's economy is overly dependent on the elixir. He hopes for the nation to achieve economic independence through other means and worries that if his work stops, the nation will fall to ruin."
   },
   {
     "source_file": "artokus_kirran.md",
-    "question": "How does Artokus Kirran manage the ingredients for his sun orchid elixir, and what challenges does he face?",
-    "answer": "Artokus employs servants to acquire living sun orchids, Thuvian oasis bee honey, and other ingredients from harsh deserts plagued by fiends, water lords, and bandits. He faces challenges in acquiring these ingredients, especially as sun orchid finds have become rarer over the decades. This scarcity worries many."
+    "question": "How does Artokus teach his alchemy students?",
+    "answer": "Artokus teaches his alchemy students indirectly through his meerkat familiar, Tukalo. He keeps his students at a distance."
+  },
+  {
+    "source_file": "artokus_kirran.md",
+    "question": "What are some of Artokus Kirran's other alchemical discoveries besides the sun orchid elixir?",
+    "answer": "Artokus has also developed Artokus's Fire, Sun Orchid Poultice, and Wish Alchemy."
+  },
+  {
+    "source_file": "artokus_kirran.md",
+    "question": "What is Artokus's Fire, and how does it enhance alchemist's fire?",
+    "answer": "Artokus's Fire is an additive that makes alchemist's fire burn hotter and longer, dealing persistent fire damage that is difficult to extinguish, even underwater."
+  },
+  {
+    "source_file": "artokus_kirran.md",
+    "question": "What is the Sun Orchid Poultice, and what effects does it have?",
+    "answer": "The Sun Orchid Poultice is a paste left over from the elixir creation process. It reduces clumsy, drained, and enfeebled conditions and grants a bonus to saves and temporary hit points."
+  },
+  {
+    "source_file": "artokus_kirran.md",
+    "question": "What is Wish Alchemy, and how does it work?",
+    "answer": "Wish Alchemy is a rare alchemist feat that allows Artokus to create a wish vial containing a common arcane spell of 8th level or lower that can target himself."
+  },
+  {
+    "source_file": "artokus_kirran.md",
+    "question": "Describe Artokus Kirran's relationship with Tukalo.",
+    "answer": "Tukalo is Artokus's familiar, a meerkat who acts as his teacher and advisor, often lecturing him on various subjects and assisting in his alchemical work."
   }
 ]

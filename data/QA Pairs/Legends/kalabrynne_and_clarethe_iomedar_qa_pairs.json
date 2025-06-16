@@ -2,26 +2,51 @@
   {
     "source_file": "kalabrynne_and_clarethe_iomedar.md",
     "question": "Who are Kalabrynne and Clarethe Iomedar?",
-    "answer": "Kalabrynne and Clarethe Iomedar are two highly respected knights of Lastwall, nicknamed the Lion of Iomedae and the Sunset Angel, respectively. While no knight holds formal rank above another, they serve as inspirations, particularly for women, aspiring towards chivalry and heroism."
+    "answer": "Kalabrynne, nicknamed the Lion of Iomedae, and Clarethe, nicknamed the Sunset Angel, are highly respected Knights of Lastwall. They serve as inspirations, especially to women, aspiring towards chivalry and heroism."
   },
   {
     "source_file": "kalabrynne_and_clarethe_iomedar.md",
-    "question": "What is Kalabrynne's role among the Knights of Lastwall?",
-    "answer": "Kalabrynne Iomedar serves as an advisor to the Knights of Lastwall. She is wise, an inspiring orator, a canny tactician, and an indefatigable warrior. She also leads outreach efforts and seeks alliances with other groups, like the Magaambya."
+    "question": "Why doesn't Lastwall have a single leader?",
+    "answer": "After the fall of Vigil, the Knights of Lastwall realized that electing a leader would expose a weakness to their enemies. They observed the fall of the Whispering Tyrant's empire after his imprisonment, showing the vulnerability of a system reliant on a single leader."
   },
   {
     "source_file": "kalabrynne_and_clarethe_iomedar.md",
-    "question": "How did Clarethe earn the title \"Sunset Angel?\"",
-    "answer": "Clarethe earned the title \"Sunset Angel\" after she single-handedly rode out at day's end to aid a band of knights ambushed on patrol. She prefers to strike when the setting sun paints the sky scarlet."
+    "question": "What is Kalabrynne's role within the Knights of Lastwall?",
+    "answer": "Kalabrynne Iomedar serves as an advisor to the Knights of Lastwall. She is a wise counselor, inspiring orator, canny tactician, and indefatigable warrior."
   },
   {
     "source_file": "kalabrynne_and_clarethe_iomedar.md",
-    "question": "What is unique about Clarethe's gender identity, and how does Kalabrynne support her?",
-    "answer": "Clarethe identifies as nonbinary and prefers feminine pronouns, but clarifies that she is neither female nor male. Kalabrynne, understanding the struggles of imposed gender, raised Clarethe without a specific gender identity, allowing her to discover herself."
+    "question": "How did Kalabrynne contribute to the rebuilding of the Knights of Lastwall after the fall of Vigil?",
+    "answer": "After surviving the Radiant Fire unleashed upon Vigil, Kalabrynne rallied survivors and led them to Vellumis. She organized the survivors into the Knights of Lastwall through impassioned speeches and insightful pleas."
   },
   {
     "source_file": "kalabrynne_and_clarethe_iomedar.md",
-    "question": "What is the Rescuer's Press feat and what does it do?",
-    "answer": "The Rescuer's Press is a rare archetype feat available to Lastwall Sentry dedications. It grants any shield wielded the shove trait. It allows movement to either side of the target after a shove, and can increase shove distance while in the Everstand Stance."
+    "question": "Describe Clarethe Iomedar's background and personality.",
+    "answer": "Clarethe is the nonbinary child of Kalabrynne and Gwyndria Iomedar. She is a Liberator known for her brashness, pugnacity, and fierce zeal for knighthood. Clarethe is known as the 'Sunset Angel' for her tendency to strike at day's end."
+  },
+  {
+    "source_file": "kalabrynne_and_clarethe_iomedar.md",
+    "question": "What is the Crimson Oath, and who initiated it?",
+    "answer": "The Crimson Oath is associated with the Crimson Reclaimers. Clarethe was the first knight to swear it and is the only one who knows the source of its power."
+  },
+  {
+    "source_file": "kalabrynne_and_clarethe_iomedar.md",
+    "question": "Explain the relationship between Kalabrynne and Clarethe Iomedar.",
+    "answer": "Kalabrynne and Clarethe are mother and child. They went through a schism due to Clarethe's desire to conquer the ruins of Vigil, but later made peace. They have a close, if sometimes teasing, relationship and represent the twin hearts of the Knights of Lastwall."
+  },
+  {
+    "source_file": "kalabrynne_and_clarethe_iomedar.md",
+    "question": "What do the 'Rescuer's Press' and 'Shall Not Falter, Shall Not Rout' feats represent?",
+    "answer": "These feats represent benefits of training from the Iomedars; Rescuer's Press from Kalabrynne, and Shall Not Falter, Shall Not Rout from Clarethe. They are granted to knights as they advance in their respective orders."
+  },
+  {
+    "source_file": "kalabrynne_and_clarethe_iomedar.md",
+    "question": "What is 'Vigil's Walls Rise Anew!' feat?",
+    "answer": "Vigil's Walls Rise Anew! is a rare archetype feat earned by the Knights Vigilant. During daily preparation, this feat allows the user to drill with allies and grant them a shield buff for protection."
+  },
+  {
+    "source_file": "kalabrynne_and_clarethe_iomedar.md",
+    "question": "What is the 'Shall Not Falter, Shall Not Rout' focus spell and how does it work?",
+    "answer": "It's a rare healing necromancy spell available to Knight Reclaimers. It allows the caster to heal damage dealt during strikes, up to half their maximum HP, by invoking the Crimson Oath."
   }
 ]

@@ -1,0 +1,52 @@
+[
+  {
+    "source_file": "rules_and_rewards.md",
+    "question": "What is the effect of the Alchemical Crossbow?",
+    "answer": "It allows you to load a lesser alchemical bomb (acid flask, alchemist's fire, bottled lightning, frost vial, or thunderstone) into the bracket. The next three attacks made with the crossbow deal 1d6 damage of the bomb's damage type in addition to the crossbow's normal damage, range is reduced to 30 feet."
+  },
+  {
+    "source_file": "rules_and_rewards.md",
+    "question": "What is the Energy Mutagen?",
+    "answer": "An alchemical mutagen that can be attuned to acid, cold, electricity, or fire. It grants resistance to the attuned energy type and adds damage of that type to melee weapon hits. It also gives weakness 5 to the other three energy types."
+  },
+  {
+    "source_file": "rules_and_rewards.md",
+    "question": "How can Noala assist a character with ranger training?",
+    "answer": "She can assist any character that is looking into selecting the ranger multiclass archetype. She can also retrain ranger feats and skill feats, reducing the training time to the minimum allowed if the feat being trained is level 5 or lower."
+  },
+  {
+    "source_file": "rules_and_rewards.md",
+    "question": "What special feats can Noala unlock for characters?",
+    "answer": "Relentless Stalker (a ranger feat) and Wilderness Spotter (a skill feat for those trained in Survival)."
+  },
+  {
+    "source_file": "rules_and_rewards.md",
+    "question": "What are the modifications to the fiery leopard's stats compared to a regular cat animal companion?",
+    "answer": "The fiery leopard has Immunities to fire, Weaknesses to cold 5, deals 1 fire damage with natural attacks, and has a fiery pelt that deals 1d4 fire damage to creatures grappled or attempting to grapple it. It also sheds dim light in a 10-foot radius, giving it a -2 circumstance penalty on Stealth checks made at night or in a dark environment."
+  },
+  {
+    "source_file": "rules_and_rewards.md",
+    "question": "What does the Ring of the Weary Traveler do?",
+    "answer": "It grants a +10-foot item bonus to overland Speed and allows the wearer to suppress the penalties from the fatigued condition for 10 minutes."
+  },
+  {
+    "source_file": "rules_and_rewards.md",
+    "question": "What benefit does Bort's Blessing provide?",
+    "answer": "The wearer of this ring gains the ability to understand, read, and speak one common language of their choice, selected each morning as part of their daily preparations. In addition, the wearer receives a +1 item bonus to Diplomacy checks to Make an Impression."
+  },
+  {
+    "source_file": "rules_and_rewards.md",
+    "question": "What are the effects of the Merchant's Guile ring?",
+    "answer": "It grants a +2 item bonus to Deception and Diplomacy checks involving haggling or bargaining. It also allows you to determine if an item is magical simply by handling it."
+  },
+  {
+    "source_file": "rules_and_rewards.md",
+    "question": "What cantrips does the Ring of Minor Arcana grant?",
+    "answer": "detect magic, mage hand, and prestidigitation."
+  },
+  {
+    "source_file": "rules_and_rewards.md",
+    "question": "What benefits does the Warrior's Training Ring provide?",
+    "answer": "While wearing this ring, you add your level to your attack rolls with all weapons with which you are untrained. The ring can be activated once per day when attacking with an untrained weapon to gain a circumstance bonus to the attack roll ( Expert grants a larger bonus)."
+  }
+]

@@ -1,27 +1,47 @@
 [
   {
     "source_file": "wynsal_starborn.md",
-    "question": "What are White Estrid's thoughts on Thira Ash-Eyes?",
-    "answer": "White Estrid is intrigued by Thira's rise to power, especially since Thira wasn't the expected successor. Estrid plans to renew the treaty between their kingdoms but is also wary of Thira's challenge in seeking a similar linnorm and emphasizing her strength in killing it. Estrid is investigating Thira's background through diplomatic means."
+    "question": "Who is Wynsal Starborn?",
+    "answer": "Acting Primarch of Absalom, LG male human fighter. He was appointed to the emergency position of siege lord during the Fiendflesh Siege and then declared acting primarch after Lord Gyr disappeared."
   },
   {
     "source_file": "wynsal_starborn.md",
-    "question": "How does Boiltongue feel about his relationship with Estrid?",
-    "answer": "Boiltongue exists in a balancing act of resentment and respect towards Estrid. He resents the loss of his self-determination but respects her strength. Over time, he has accepted his fate and tends toward respect, acting as a protector of Halgrim and affirming Estrid's victory over him in combat."
+    "question": "What is Wynsal Starborn's political situation?",
+    "answer": "Complex. He was appointed acting primarch during an emergency, and while he wants to cede the position, his popularity makes other political hopefuls see him as a threat, with rumors spreading about a potential military coup."
   },
   {
     "source_file": "wynsal_starborn.md",
-    "question": "According to a letter, what did Boiltongue do every year?",
-    "answer": "Boiltongue leaves Halgrim once every year, typically after the harvest, only to return some days later. He was found to be visiting his children and his mate in a hidden lair deep in the Stormspear Mountains."
+    "question": "Why did Wynsal write to Chun Hye Seung?",
+    "answer": "He writes to her both as a friend and for official business, sharing updates on various issues, seeking her cooperation, and providing guidance on leadership."
   },
   {
     "source_file": "wynsal_starborn.md",
-    "question": "What is Wynsal Starborn's current role and how does he feel about it?",
-    "answer": "Wynsal Starborn is the Acting Primarch of Absalom. He feels burdened by the weight of managing the city and doesn't crave the position but is driven by duty. He longs for Lord Gyr's return or finding a worthy successor."
+    "question": "What is Shimon-Je accused of?",
+    "answer": "Shimon-Je is accused of being a gnoll slaver and a fugitive, running from the law in Katapesh."
   },
   {
     "source_file": "wynsal_starborn.md",
-    "question": "What advice does Wynsal Starborn offer Chun Hye Seung in her new leadership role?",
-    "answer": "Wynsal Starborn advises Chun Hye Seung that leaders with nobility and a sense of purpose bring out the best in those they lead and that rule by example is superior to rule by force. He also tells her to stay away from Hodley Manor."
+    "question": "What is Wynsal's view on slavery?",
+    "answer": "Wynsal is strongly against slavery. He ordered the manumission of slaves in Absalom, believing it was essential to repelling the Fiendflesh Siege, and he is proud of the Grand Council's decision to outlaw slavery."
+  },
+  {
+    "source_file": "wynsal_starborn.md",
+    "question": "What support does Wynsal offer to Avarneus from Vidrian?",
+    "answer": "Wynsal offers diplomatic support, recognizing that Vidrian is building something empowering from the ruins of tyranny and considering it beneficial to keep Cheliax in check."
+  },
+  {
+    "source_file": "wynsal_starborn.md",
+    "question": "What are Wynsal's concerns about Lictor Toulon Vidoc?",
+    "answer": "Wynsal acknowledges Chun Hye Seung's concerns, conceding that Vidoc is being fed bad evidence, even suspecting Wynsal's involvement in Lord Gyr's disappearance."
+  },
+  {
+    "source_file": "wynsal_starborn.md",
+    "question": "What advice does Wynsal give to Chun Hye Seung regarding leadership?",
+    "answer": "He advises her to rule by example rather than force, as leaders with nobility bring out the best in those they lead. He also warns her to stay away from Hodley Manor."
+  },
+  {
+    "source_file": "wynsal_starborn.md",
+    "question": "How does Wynsal feel about Watcher-Lord Ulthun II?",
+    "answer": "Wynsal respects Ulthun II's resolve after the destruction of Lastwall and considers him a paragon of resolve. He even suggests that Ulthun would be a worthy primarch to face the Whispering Tyrant."
   }
 ]

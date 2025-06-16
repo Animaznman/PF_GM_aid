@@ -1,27 +1,47 @@
 [
   {
     "source_file": "introduction.md",
-    "question": "What is the main focus of 'Lost Omens: Legends'?",
-    "answer": "'Lost Omens: Legends' focuses on notable NPCs (non-player characters) within the Age of Lost Omens setting in Golarion, detailing their connections, motives, and roles in significant events."
+    "question": "What is the general purpose of _Lost Omens: Legends_?",
+    "answer": "To provide information about notable NPCs in the Age of Lost Omens setting, including their connections, motivations, and potential uses in campaigns, as well as related campaign elements and rules."
   },
   {
     "source_file": "introduction.md",
-    "question": "Explain why the relationships between NPCs are highlighted in the book.",
-    "answer": "The relationships between NPCs are highlighted to show that they don't exist in isolation. These connections, whether alliances or rivalries, enrich the setting and provide a framework for GMs to create more complex and engaging storylines."
+    "question": "Why is understanding notable NPCs important for GMs?",
+    "answer": "A solid knowledge of the motives, behaviors, and pasts of these influential characters adds greater depth to their game. These portraits can help a GM gain a better understanding of a corner of Golarion and formulate new plot hooks."
   },
   {
     "source_file": "introduction.md",
-    "question": "How can a GM utilize the information provided about NPCs in 'Lost Omens: Legends'?",
-    "answer": "A GM can use the NPC information to add depth to their game, understand the motives and behaviors of influential characters, formulate new plot hooks, and vividly sketch scenarios or places. The book provides insights into character interactions, such as those between linnorm kings and Baba Yaga, or the relationships among various organizations."
+    "question": "How can players use the information in _Lost Omens: Legends_?",
+    "answer": "Players can use the book to develop compelling backstories, explore new directions for their characters, gain access to rare rules elements (feats, spells, items), and suggest encounters or quests involving notable NPCs."
   },
   {
     "source_file": "introduction.md",
-    "question": "What are some major global events described in the text that NPCs from 'Lost Omens: Legends' may be involved in?",
-    "answer": "Some major global events mentioned are the Devastation of Geb and Nex, the General Manumission, the Ironfang Invasion, and the emergence of New Thassilon with the return of the runelords."
+    "question": "What are some of the major global events that NPCs in _Lost Omens: Legends_ have been involved in?",
+    "answer": "Some major global events include the Devastation of Geb and Nex, General Manumission, The Ironfang Invasion, the return of the Thassilonian Runelords, The Ravounel Rebellion, Revolution in Vidrian, and the War Against Tar-Baphon."
   },
   {
     "source_file": "introduction.md",
-    "question": "How can players benefit from reading 'Lost Omens: Legends'?",
-    "answer": "Players can benefit by gaining insights into Golarion's regions, philosophies, and relationships, finding potential allies or rivals, creating compelling backstories, exploring new character directions, and learning about rare elements for use in play."
+    "question": "Explain General Manumission and its impact.",
+    "answer": "Siege Lord Wynsal Starborn offered freedom to slaves who fought to defend Absalom, and later banned slavery entirely. This, along with other abolitionist efforts, provided an economic incentive for other nations to ban slavery, to the displeasure of slavers."
+  },
+  {
+    "source_file": "introduction.md",
+    "question": "What tangible elements might be included in NPC entries, and how can a GM use them?",
+    "answer": "Some NPC entries include tangible elements like messages, maps, or contract portions. The GM can provide these as handouts to players, representing in-world documents or artifacts related to the NPC, serving as springboards for further adventures."
+  },
+  {
+    "source_file": "introduction.md",
+    "question": "How does the book address potential spoilers for Pathfinder Adventure Paths?",
+    "answer": "The book acknowledges that the presence of certain NPCs and assumptions about Adventure Path outcomes might contain spoilers. Characters featuring prominently in Adventure Paths are accompanied by a \"Familiar Faces\" sidebar, indicating their previous appearances."
+  },
+  {
+    "source_file": "introduction.md",
+    "question": "What is the significance of the connections between NPCs in this book?",
+    "answer": "While NPCs are spread throughout the world, they often know each other as allies or enemies. These connections provide a framework for GMs to create interconnected storylines and a more believable world."
+  },
+  {
+    "source_file": "introduction.md",
+    "question": "Describe the Ironfang Invasion.",
+    "answer": "An army of hobgoblins and other monstrous peoples swept through a region near Lake Encarthan, partly for revenge. Nirmathas forged peace, but many are unhappy with the truce with their enemies."
   }
 ]

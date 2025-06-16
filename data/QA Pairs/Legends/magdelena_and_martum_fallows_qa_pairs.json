@@ -1,27 +1,47 @@
 [
   {
     "source_file": "magdelena_and_martum_fallows.md",
-    "question": "Who are Magdalena and Martum Fallows?",
-    "answer": "They are halfling twins who serve as the current Farmer, the head of the Bellflower Network, an abolitionist organization working to free halfling slaves in Cheliax."
+    "question": "Who are Magdelena and Martum Fallows?",
+    "answer": "They are halfling twins who serve as the current \"Farmer,\" the leader of the Bellflower Network, an abolitionist organization working to free halfling slaves in Cheliax."
   },
   {
     "source_file": "magdelena_and_martum_fallows.md",
-    "question": "Explain why the Bellflower Network's members rely on secrecy.",
-    "answer": "Secrecy is paramount because if the Farmer's identity is revealed, the network would collapse, and diplomatic relationships across Golarion would be damaged, as it would reveal nations that secretly support the Bellflowers."
+    "question": "What are some of the safe houses used by the Bellflower Network called, and what is an example of one?",
+    "answer": "Safe houses are called \"barns,\" and are managed by hosts called \"hands.\" One example is the Abandoned Parisa Estate near Whisperwood, with the codeword \"Firestorm.\""
   },
   {
     "source_file": "magdelena_and_martum_fallows.md",
-    "question": "How would you use a Swamp Lily Quilt to aid Bellflower operations?",
-    "answer": "A Swamp Lily Quilt could be used to create difficult terrain, slowing down pursuers or creating a temporary obstacle during an escape or ambush, making it easier for halflings to evade capture."
+    "question": "What is the purpose of the Bellflower quilts, and how are they used?",
+    "answer": "Bellflower quilts are used to deliver secret messages to Bellflower tillers and those they guide. They are hung from porches, windows, and clotheslines with specific designs to notify of important information."
+  },
+  {
+    "source_file": "magdelena_and_martum_fallows.md",
+    "question": "What does a quilt with a lily pattern signify in Bellflower communications?",
+    "answer": "A quilt with a lily pattern warns of an upcoming crossroads that may be heavily traveled. The colors of the background pattern indicate the level of danger."
+  },
+  {
+    "source_file": "magdelena_and_martum_fallows.md",
+    "question": "What is the significance of a sunflower quilt for the Bellflower Network?",
+    "answer": "A quilt bearing sunflowers indicates a safe house run by individuals sympathetic to the Bellflower's cause. The traveler can ask for directions to the \"Turning Theater\" and reply with the phrase \"Why, with all my buttons!\" to complete the exchange."
+  },
+  {
+    "source_file": "magdelena_and_martum_fallows.md",
+    "question": "Explain the use of daisy quilts within the Bellflower Network.",
+    "answer": "Most daisy quilts are decoys to hide the presence of actual signal quilts. However, a blue daisy quilt signifies that a tiller will be arriving soon with travelers, and the state of bloom indicates how prepared the group is."
+  },
+  {
+    "source_file": "magdelena_and_martum_fallows.md",
+    "question": "What does a quilt with a lotus pattern signify, and how does the flower's state indicate potential risks?",
+    "answer": "A quilt with a lotus signifies safe passage over water. The petals suggest preferred times for passage. A fully bloomed lotus announces safe passage, while a closed lotus indicates that travelers should be cautious."
+  },
+  {
+    "source_file": "magdelena_and_martum_fallows.md",
+    "question": "Describe the effects of the Applereed Mutagen.",
+    "answer": "The Applereed Mutagen lengthens your legs, increasing your size and providing a bonus to Athletics checks and Speed, but also imposes a penalty to AC and Reflex saves."
   },
   {
     "source_file": "magdelena_and_martum_fallows.md",
     "question": "What is Honeycent and what are its effects?",
-    "answer": "Honeycent is a rare alchemical inhaled poison that triggers vivid hallucinations, causing victims to believe they are being swarmed by ravenous biting insects. The hallucinations are so intense that victims damage themselves by scratching and clawing at the imaginary swarm. The poison inflicts slashing damage and can cause the stupefied and drained conditions."
-  },
-  {
-    "source_file": "magdelena_and_martum_fallows.md",
-    "question": "How do Magdalena and Martum Fallows differ in their current tactics and outlooks as Farmers?",
-    "answer": "Magdalena serves as the tactical mastermind within Cheliax, taking unnecessary risks and remaining hopeful for the end of halfling enslavement. Martum is the political agent securing funds and is more pragmatic, expecting to serve as Farmer indefinitely."
+    "answer": "Honeycent is an inhaled poison that triggers vivid hallucinations, causing victims to believe swarms of insects are biting them, leading them to inflict slashing damage upon themselves."
   }
 ]

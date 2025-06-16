@@ -1,27 +1,47 @@
 [
   {
     "source_file": "hashim_ibn_sayyid.md",
-    "question": "Who are the Pactmasters of Katapesh?",
+    "question": "What is Hashim ibn Sayyid's true identity after being replaced?",
+    "answer": "Hashim is replaced by Olordaera, a vidileth, which is a type of alghollthu (veiled master)."
+  },
+  {
+    "source_file": "hashim_ibn_sayyid.md",
+    "question": "What are the Pactmasters of Katapesh?",
     "answer": "The Pactmasters are enigmatic aliens known as witchwyrds who have been ruling Katapesh for centuries."
   },
   {
     "source_file": "hashim_ibn_sayyid.md",
-    "question": "What is Hashim ibn Sayyid's role in Katapesh and what happened to him?",
-    "answer": "Hashim ibn Sayyid was the Pactbroker of Katapesh, appointed to enforce the Pactmasters' decisions. He was murdered and replaced by Olordaera, a vidileth (veiled master/alghollthu)."
+    "question": "What is the First Dictum of the alghollthu?",
+    "answer": "The First Dictum is that life exists to be controlled."
   },
   {
     "source_file": "hashim_ibn_sayyid.md",
-    "question": "What are the alghollthus and what is their agenda?",
-    "answer": "The alghollthus are ancient aquatic beings also known as veiled masters. They desire control over other species and have multiple plans in motion to achieve this, believing themselves superior to all others, including deities. They were also the architects of Earthfall."
+    "question": "Who is Shimon-Je, and why is she a threat to Olordaera?",
+    "answer": "Shimon-Je is a gnoll abolitionist who discovered the original Hashim's death and the ruse. She is a threat because she knows Olordaera's true identity."
   },
   {
     "source_file": "hashim_ibn_sayyid.md",
-    "question": "What is Olordaera's plan and what risks does it involve?",
-    "answer": "Olordaera brokered a pact with the alchemist Kassi Aziril to promote anti-deific rhetoric. She also has agents tracking down Shimon-Je, a despised gnoll. Her plan risks exposing the alghollthu's influence, and if it fails, she will be expunged."
+    "question": "What actions has Hashim (Olordaera) taken to maintain power and influence in Katapesh?",
+    "answer": "Hashim has requested Wynsal Starborn's help to remove the Grey Corsairs while secretly funneling weapons to Queen Abrogail Thrune II of Cheliax. He has also contacted High King Anong Arunak for a trade agreement for firearms and is building a telepathic mesh repeater under Katapesh to expand his mental domination."
   },
   {
     "source_file": "hashim_ibn_sayyid.md",
-    "question": "How did Olordaera's fellow veiled masters react to her actions?",
-    "answer": "Yuildoroc questioned her pact with the alchemist Kassi Aziril, Uruluura expressed concern about a favor, and Thulgroon inquired about the gnoll Shimon-Je. The Mhalssthru warned Olordaera that if her plan fails, she will be expunged and that their greater influence must not be discovered."
+    "question": "What are the potential consequences if Olordaera's plan fails?",
+    "answer": "If Olordaera's plan fails and the alghollthus' greater influence is discovered, Olordaera will be expunged by the Mhalssthru."
+  },
+  {
+    "source_file": "hashim_ibn_sayyid.md",
+    "question": "How does Hashim's interaction with Kassi Aziril serve his agenda?",
+    "answer": "Hashim supports Kassi Aziril's anti-theistic beliefs to weaken the influence of the gods, hoping to gain more subjects willing to turn to the alghollthus. He also expects to collect on the debt he created by providing her a secret ingredient."
+  },
+  {
+    "source_file": "hashim_ibn_sayyid.md",
+    "question": "Explain the significance of the Fourth and Final Dictum of the alghollthu.",
+    "answer": "The Fourth Dictum, \"to overreach is to threaten the eternal,\" emphasizes the importance of maintaining secrecy and control. Breaking this dictum, as Olordaera risks, could expose the alghollthus and lead to their downfall."
+  },
+  {
+    "source_file": "hashim_ibn_sayyid.md",
+    "question": "What is the telepathic mesh repeater that Hashim is building, and what are its potential effects?",
+    "answer": "It is a mental focus being constructed under the streets of Katapesh. Once active, it would exponentially increase the range of Hashim's mental domination, allowing him to solidify his rule and potentially extend his influence beyond worlds."
   }
 ]

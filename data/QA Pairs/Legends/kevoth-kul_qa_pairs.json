@@ -2,26 +2,41 @@
   {
     "source_file": "kevoth-kul.md",
     "question": "Who is Kevoth-Kul?",
-    "answer": "Kevoth-Kul is the Black Sovereign of Numeria, a former warlord who united the Numerian clans. He became addicted to Numerian fluids under the influence of the Technic League, but eventually broke free and now rules from Starfall."
+    "answer": "Kevoth-Kul is the Black Sovereign of Numeria, a warlord who united the Numerian clans and declared Starfall his capital. He became addicted to Numerian fluids, which made him a puppet of the Technic League for over 20 years. He has since freed himself from the addiction and seeks to reassert his authority."
   },
   {
     "source_file": "kevoth-kul.md",
-    "question": "Explain Kevoth-Kul's relationship with the Technic League and how it changed.",
-    "answer": "Initially, Kevoth-Kul formed an alliance with the Technic League, who manipulated him using Numerian fluids to control Numeria. After the League's downfall and Ozmyn Zaidow's death, Kevoth-Kul broke free from his addiction and slaughtered the League members within his reach, now banning Numerian fluids and persecuting former members."
+    "question": "What is sovereign steel?",
+    "answer": "Sovereign steel is a unique alloy of cold iron and the skymetal noqual created by Kevoth-Kul. It provides protection from magical assault and is rare, making it difficult to acquire outside of Starfall."
   },
   {
     "source_file": "kevoth-kul.md",
-    "question": "How has Kevoth-Kul's personality and behavior changed since overcoming his addiction?",
-    "answer": "Since overcoming his addiction, Kevoth-Kul appears younger and is effectively immortal, but he still exhibits erratic behavior and suffers from mental consequences of his drug-induced visions. He is now focused on consolidating his power, dealing with rebellious clans, and potentially unifying all Kellid clans."
+    "question": "How did Kevoth-Kul change after breaking free from his addiction?",
+    "answer": "Kevoth-Kul physically appears younger and is effectively immortal (save for violence, poison, or disease). Mentally, he is occasionally erratic and haunted by visions from his drug-induced past. He banned Numerian fluids from his palace and seeks to undo the cruelty he inflicted during his addiction."
   },
   {
     "source_file": "kevoth-kul.md",
-    "question": "What are Kevoth-Kul's current short-term goals and what challenges does he face?",
-    "answer": "Kevoth-Kul's short-term goals include securing Chesed, convincing Lady Altouna of Hajoth Hakados to ally with him, and dealing with rebellious clans like the Ghost Wolves. Challenges include the tarnished image from his past behavior, enemies created from his revenge on the Technic League, and resistance to his unification plans."
+    "question": "What are Kevoth-Kul's current short-term goals?",
+    "answer": "Kevoth-Kul aims to shore up political losses by ensuring the city of Chesed remains under his control, convince Lady Altouna of Hajoth Hakados to ally with him, and bring rebellious clans in western Numeria to heel."
   },
   {
     "source_file": "kevoth-kul.md",
-    "question": "How does sovereign steel differ from other skymetals like noqual, and what is its significance?",
-    "answer": "Sovereign steel is an alloy of cold iron and noqual developed by Kevoth-Kul. Noqual typically exhibits magic-resistant properties, making magic weapons crafted from it difficult and expensive to create. Sovereign steel seems to avoid this trait, suggesting a specialized application or purpose, as seen in the Blade of the Black Sovereign."
+    "question": "What is Kevoth-Kul's relationship with Casandalee?",
+    "answer": "Kevoth-Kul is inspired by Casandalee, the risen android-turned-goddess. He sees her as a guiding figure for his reign and rededicated a chapel in his palace to her. He believes Numeria is destined for greatness, and Casandalee is proof of this."
+  },
+  {
+    "source_file": "kevoth-kul.md",
+    "question": "How does sovereign steel armor affect creatures with a weakness to cold iron?",
+    "answer": "A creature with weakness to cold iron that critically fails an unarmed attack against a creature in sovereign steel armor becomes sickened 1, and such a creature is sickened 1 as long as it wears sovereign steel armor."
+  },
+  {
+    "source_file": "kevoth-kul.md",
+    "question": "What is the significance of the gift Kevoth-Kul sent to Chancellor Irahai of Mendev?",
+    "answer": "Kevoth-Kul sent Irahai a scimitar made of sovereign steel, which could be interpreted as a marriage proposal, an offer of fealty, or an act of war, depending on Kellid clan traditions. His intentions remain unclear."
+  },
+  {
+    "source_file": "kevoth-kul.md",
+    "question": "What is Kevoth-Kul's armory like?",
+    "answer": "Kevoth-Kul has amassed technological wonders including the Blade of the Black Sovereign and various items made from sovereign steel. He values items that grant protection from magic."
   }
 ]

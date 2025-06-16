@@ -1,0 +1,47 @@
+[
+  {
+    "source_file": "deadly_flora.md",
+    "question": "What type of treasure can typically be found near deadly flora?",
+    "answer": "Items made from metal or stone, such as weapons, armor, and talismans, are typically found."
+  },
+  {
+    "source_file": "deadly_flora.md",
+    "question": "What environments do deadly flora thrive in?",
+    "answer": "Deadly flora can be found in any hot or temperate environment, provided they have light and moisture."
+  },
+  {
+    "source_file": "deadly_flora.md",
+    "question": "What are the weaknesses and resistances of a Bloodlash Bush?",
+    "answer": "A Bloodlash Bush has resistances to bludgeoning and piercing damage (5) and a weakness to fire (5)."
+  },
+  {
+    "source_file": "deadly_flora.md",
+    "question": "Explain the Blood Siphon ability of the Bloodlash Bush.",
+    "answer": "The Bloodlash Bush can siphon blood from a victim within 20 feet, dealing persistent bleed damage (basic Reflex DC 17). The bush then regains Hit Points equal to double the damage dealt."
+  },
+  {
+    "source_file": "deadly_flora.md",
+    "question": "How does the Weeping Wounds ability work for the Bloodlash Bush?",
+    "answer": "When a creature is hit with a vine attack from a bloodlash bush, it takes 1 persistent bleed damage (2 on a critical hit), cumulative to a maximum of 5 persistent bleed damage, but it can be stopped like any other persistent bleed damage."
+  },
+  {
+    "source_file": "deadly_flora.md",
+    "question": "How does the Light Hold ability of the vine lasher work?",
+    "answer": "A creature grabbed by a vine lasher causes its space and every adjacent square to become difficult terrain. If the creature moves, the vine lasher moves with it, keeping the grabbed creature within 10 feet. If two or more vine lashers grab the same target, the affected area becomes greater difficult terrain."
+  },
+  {
+    "source_file": "deadly_flora.md",
+    "question": "Describe the typical attack strategy of a vine lasher.",
+    "answer": "Vine lashers attack in groups to immobilize prey and slowly tear a creature to pieces."
+  },
+  {
+    "source_file": "deadly_flora.md",
+    "question": "What is unique about the soil a bloodlash bush seed needs?",
+    "answer": "The seeds of a bloodlash bush can only take root in soil that has been soaked in blood."
+  },
+  {
+    "source_file": "deadly_flora.md",
+    "question": "What is the difference between normal and greater difficult terrain when grabbed by vine lashers?",
+    "answer": "A creature grabbed by one vine lasher experiences its space and adjacent squares as difficult terrain, while a creature grabbed by two or more vine lashers experiences greater difficult terrain in those areas."
+  }
+]

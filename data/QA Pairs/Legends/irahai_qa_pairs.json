@@ -1,27 +1,47 @@
 [
   {
     "source_file": "irahai.md",
-    "question": "Who is Irahai?",
-    "answer": "Irahai is the Chancellor of Mendev, a NG female human politician. She grew up among soldiers and learned the importance of logistics, becoming a capable administrator. Queen Galfrey named her chancellor before ascending, entrusting the transition to a civilian structure to Irahai."
+    "question": "What are Irahai's goals for Mendev?",
+    "answer": "Irahai aims to rebuild Mendev's strength, honor the crusade's work, and uphold her duties with integrity. She also focuses on reapportioning crusader wealth to indigenous owners and establishing a stable civilian government."
   },
   {
     "source_file": "irahai.md",
-    "question": "What are some of the challenges Irahai faces as Chancellor of Mendev?",
-    "answer": "Irahai faces challenges such as reapportioning wealth held in trust by crusader lords to their rightful indigenous owners, identifying proper heirs after time and tumult, and navigating conflicts between Mendevian and Sarkorian rules of inheritance. She also struggles with her unfamiliarity with Sarkorian culture and has made missteps by relying on untrustworthy intermediaries."
+    "question": "What is the Mendevian Delegation?",
+    "answer": "The Mendevian Delegation is a group of officials established by Irahai to represent the interests of Mendev's citizens. They help establish, enact, and enforce new laws and regulations."
   },
   {
     "source_file": "irahai.md",
-    "question": "How does Irahai view Irabeth Tirabade, and what is their relationship?",
-    "answer": "Irahai greatly respects Irabeth Tirabade's heroism and is aware of the potential political value of Irabeth's return to the Sarkoris Scar. They are friends and former comrades. While Irahai strives not to meddle in Irabeth's decisions, she continually calculates their effect on her plans."
+    "question": "Explain why identifying proper heirs to crusader holdings is difficult for Irahai.",
+    "answer": "Identifying proper heirs is difficult due to the lack of surviving written records, intermarriage between inheritors and crusaders, the disqualifying effect of demonic corruptions, and conflicts between Mendevian and Sarkorian rules of inheritance."
   },
   {
     "source_file": "irahai.md",
-    "question": "What is Irahai's goal for Mendev?",
-    "answer": "Irahai views rebuilding Mendev's strength as crucial to honor the crusade's work and is determined to uphold her duties with integrity. She established the Mendevian Delegation to represent the interests of Mendev's citizens and aims to assemble the Sarkorian Council to advise on matters affecting the people of Sarkoris."
+    "question": "Who is Lokhallat the Wanderer, and how did he deceive Irahai?",
+    "answer": "Lokhallat the Wanderer is a Sarkorian shaman who deceived Irahai by advancing misleading claims on ancestral hunting grounds and Sarkorian valuables. He used testimonials from accomplices and built his frauds on kernels of truth."
   },
   {
     "source_file": "irahai.md",
-    "question": "Who is Artokus Kirran, and what is his relationship to Irahai?",
-    "answer": "Artokus Kirran is an alchemist from Thuvia. Irahai corresponded with him after Mendev twice won the bidding for the sun orchid elixir to rejuvenate Queen Galfrey. They began a regular exchange of letters, where Kirran provided practicality, insight, and information about phenomena in the Sarkoris Scar, as well as musings about Thuvia."
+    "question": "How would you describe the current economic state of Mendev under Irahai's leadership?",
+    "answer": "Mendev is currently a poor nation lacking basic infrastructure, exacerbated by the dispersal of crusaders and the loss of external support. This poverty creates significant challenges for Irahai and her government."
+  },
+  {
+    "source_file": "irahai.md",
+    "question": "What treasures appeared from the Lake of Mists and Veils, and what problems did they cause?",
+    "answer": "Chunks of treasure began washing up on the shores of the Lake of Mists and Veils, spurring conflicts between former crusaders, ordinary citizens, Sarkorian reclaimers, and the government. Attempts to pursue the treasure often resulted in disappearances."
+  },
+  {
+    "source_file": "irahai.md",
+    "question": "Who is Akkhara Snarltongue, and what issues does she cause for Mendev?",
+    "answer": "Akkhara Snarltongue is a corrupt crusader leading a band of mercenaries who act as bandits. They plague the lake folk and are difficult for local militias to handle, staining Mendev's reputation."
+  },
+  {
+    "source_file": "irahai.md",
+    "question": "What is the Sovereign Blade, and why is it a puzzle for Irahai?",
+    "answer": "The Sovereign Blade is a sword forged from a skymetal alloy sent as a gift by Kevoth-Kul. Its properties remain a mystery, as magical attempts to identify it produce varying results, making it difficult to understand its true nature and purpose."
+  },
+  {
+    "source_file": "irahai.md",
+    "question": "How does the Sovereign Blade differ in its magical properties each time it is identified?",
+    "answer": "The Sovereign Blade displays varying magical properties upon each attempt to identify them. While some abilities, like a pleasant humming tone when struck and one specific ability identified by each individual, remain consistent, the other identified properties always change."
   }
 ]

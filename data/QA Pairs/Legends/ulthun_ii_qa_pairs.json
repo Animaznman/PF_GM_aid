@@ -1,22 +1,42 @@
 [
   {
     "source_file": "ulthun_ii.md",
-    "question": "Who is Ulthun II?",
-    "answer": "Ulthun II is the last watcher-lord in exile from Lastwall. He is a male human paladin of Iomedae who fled Lastwall after it was destroyed by Tar-Baphon. He is now working to revitalize the Precipice Quarter in Absalom, providing shelter to refugees and preparing to reclaim his nation."
+    "question": "What caused the minor scandal when Ulthun arrived in Absalom?",
+    "answer": "Ulthun personally vouched for all of his goblin retainers, which was viewed as amusing by Absalom high society."
   },
   {
     "source_file": "ulthun_ii.md",
     "question": "Why did Ulthun flee Lastwall with goblins?",
-    "answer": "Ulthun was initially prepared to die fighting alongside his comrades when Lastwall fell. However, a group of goblins begged for his help to save their tribe from the undead. He realized that the goblins would die without his assistance and that many knights would be too prejudiced to help. This encounter reminded him that his greater duty was to his suffering people, regardless of their form, so he fled with them to safety."
+    "answer": "Ulthun realized the goblins needed his help to escape the undead, and he knew that many knights would be prejudiced against offering assistance. This reminded him of his duty to his suffering people, no matter their form."
   },
   {
     "source_file": "ulthun_ii.md",
-    "question": "What is Ulthun II doing in Absalom?",
-    "answer": "Ulthun is working to revitalize the Precipice Quarter, a neighborhood that was nearly destroyed by an earthquake. He is building a community for refugees grieving the loss of their homes and provides shelter to other displaced people. He is also gathering strength and allies in preparation for reclaiming Lastwall."
+    "question": "What is Ulthun doing to revitalize the Precipice Quarter?",
+    "answer": "Ulthun is working to build a community for refugees grieving the loss of their home, providing shelter and assistance to newcomers seeking to help the survivors of Lastwall."
   },
   {
     "source_file": "ulthun_ii.md",
-    "question": "What led to Ulthun II becoming Watcher-Lord of Lastwall at a young age?",
-    "answer": "Despite being only 19, the Precentors Martial of Vigil's War College elected him as the watcher-lord because his tours of service in Belkzen demonstrated his unparalleled commitment to the crusaders' virtues."
+    "question": "How does Ulthun view his relationship with Wynsal Starborn?",
+    "answer": "Ulthun genuinely cares for Wynsal, viewing him as a brother-in-arms and a steadfast friend. However, Ulthun also hopes that this relationship will pave the way for a long-term relationship with Absalom's Grand Council."
+  },
+  {
+    "source_file": "ulthun_ii.md",
+    "question": "What are the three projects that currently demand Ulthun's attention?",
+    "answer": "Ulthun wants to send agents to smuggle survivors out of Three Pines Ford and gain the dryad sisters as allies, bolster Aylunna Varvatos's forces in Vellumis to reclaim territory, and send a team to Beldrin's Bluff to seek an artifact of Beldrin."
+  },
+  {
+    "source_file": "ulthun_ii.md",
+    "question": "What is Kalabrynne's role in Lastwall's recruitment campaign?",
+    "answer": "Kalabrynne oversees the training of recruits at Vellumis, while working closely with her child, Clarethe."
+  },
+  {
+    "source_file": "ulthun_ii.md",
+    "question": "How does Clarethe's view of the war against Tar-Baphon differ from Ulthun's?",
+    "answer": "Clarethe is eager to take the offensive and reclaim Vigil, while Ulthun is more cautious about the threat Tar-Baphon poses and focuses on gathering resources and allies."
+  },
+  {
+    "source_file": "ulthun_ii.md",
+    "question": "What internal struggles does Ulthun face after the fall of Lastwall?",
+    "answer": "Ulthun deals with doubts and guilt, wondering if his own shortcomings led to the fall and questioning his faith in Iomedae's ideals."
   }
 ]

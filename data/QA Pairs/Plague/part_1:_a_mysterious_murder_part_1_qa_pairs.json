@@ -1,0 +1,37 @@
+[
+  {
+    "source_file": "part_1:_a_mysterious_murder_part_1.md",
+    "question": "What should be emphasized during the first fight with the wolves?",
+    "answer": "Emphasize the sights, sounds, and smells of the fight, such as the wolves' snarls, the smell of filthy hounds, the mud flying, fangs tearing wounds, and warhammers crunching bones. Also, play up critical hits and exaggerate failures to make it memorable."
+  },
+  {
+    "source_file": "part_1:_a_mysterious_murder_part_1.md",
+    "question": "What are the special abilities of the Caustic Wolf?",
+    "answer": "The Caustic Wolf has two special abilities: Acid Breath, which deals 3d6 acid damage in a 30-foot line, and Howl, which allows it to Demoralize enemies within 30 feet. Wolves within 100 feet can use a reaction to join the howl and expand its area."
+  },
+  {
+    "source_file": "part_1:_a_mysterious_murder_part_1.md",
+    "question": "What happens if a character is bitten by a Mangy Wolf?",
+    "answer": "If bitten by a Mangy Wolf, a character is sickened 1 for 1 minute unless they succeed at a DC 14 Fortitude save. They can spend an Interact action to scratch away the fleas and remove the condition."
+  },
+  {
+    "source_file": "part_1:_a_mysterious_murder_part_1.md",
+    "question": "Describe the plaguestone in Etran's Folly.",
+    "answer": "The plaguestone is a large, flat, cylindrical rock standing 2 feet high, with a hole in its center and a bowl-shaped depression off to one side. During the plague, the townsfolk left food for the sick in the bowl and coins in the center hole filled with vinegar."
+  },
+  {
+    "source_file": "part_1:_a_mysterious_murder_part_1.md",
+    "question": "What needs to happen to get the wagon moving again after the wolf attack?",
+    "answer": "At least two PCs must attempt a DC 15 Athletics check to get the wagon moving. If two or more PCs succeed, the wagon moves without incident. If fewer than two succeed, or if a PC critically fails, any PC that failed is fatigued."
+  },
+  {
+    "source_file": "part_1:_a_mysterious_murder_part_1.md",
+    "question": "What reward does Bort offer the PCs after the fight?",
+    "answer": "Bort offers to buy the PCs dinner in town later as a reward and promises to regale them with tales of his adventures."
+  },
+  {
+    "source_file": "part_1:_a_mysterious_murder_part_1.md",
+    "question": "What is the first location the caravan heads to upon arriving in Etran's Folly?",
+    "answer": "Upon arriving in Etran's Folly, the caravan heads for the Feedmill, which is the only inn and tavern in the small community."
+  }
+]

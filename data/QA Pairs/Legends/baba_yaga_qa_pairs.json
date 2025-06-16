@@ -1,27 +1,42 @@
 [
   {
     "source_file": "baba_yaga.md",
-    "question": "Who are some of Baba Yaga's notable descendants who have ruled Irrisen?",
-    "answer": "Jadwiga, Morgannan, Tashanna, Elvanna and Anastasia have all been queens of Irrisen, and descendants of Baba Yaga."
+    "question": "Who are some notable figures associated with Baba Yaga in Golarion?",
+    "answer": "Queen Anastasia of Irrisen, King Sveinn Blood-Eagle, Belimarius, Sorshen, Tar-Baphon, and Old-Mage Jatembe are all connected to Baba Yaga in various ways."
   },
   {
     "source_file": "baba_yaga.md",
-    "question": "What does Baba Yaga seek from the heroes and villains she encounters in Golarion?",
-    "answer": "Baba Yaga isn't looking for power, luxury, or to rule; she seeks out heroes and villains who entertain her with their wit, determination, and brazenness."
+    "question": "What does Baba Yaga seek from heroes and villains?",
+    "answer": "Baba Yaga seeks entertainment. She appreciates wit, determination, and brazenness, and enjoys observing those who reshape the world around them."
   },
   {
     "source_file": "baba_yaga.md",
-    "question": "How does Baba Yaga's role as a witch patron differ from typical patrons?",
-    "answer": "Unlike typical mysterious patrons, Baba Yaga might have a more direct connection, such as demanding a task be completed. Also, a witch with Baba Yaga as their patron can choose an inanimate object as a familiar."
+    "question": "How does Baba Yaga typically interact with those who seek her help?",
+    "answer": "Baba Yaga dislikes being asked for help and sets unreasonable prices or tests to discourage supplicants. However, if someone meets her conditions, she is honorable enough to fulfill her end of the bargain, though with some complaints."
   },
   {
     "source_file": "baba_yaga.md",
-    "question": "What is the 'spirit object' cantrip, and how does it relate to Baba Yaga?",
-    "answer": "The 'spirit object' cantrip is a rare hex that witches with Baba Yaga as a patron can learn. It allows them to briefly bring an object to life, giving it locomotion and the ability to attack."
+    "question": "What is the 'Spirit Object' cantrip?",
+    "answer": "The 'Spirit Object' cantrip, granted by Baba Yaga, allows a witch to briefly animate an unattended object, giving it locomotion to move to a specified location. With additional actions, the object can then attack a nearby creature."
   },
   {
     "source_file": "baba_yaga.md",
-    "question": "What is the 'Lesson of the Frozen Queen' and who can access it?",
-    "answer": "The 'Lesson of the Frozen Queen' is a rare major lesson that grants the glacial heart hex and allows a familiar to learn wall of ice. It is primarily accessible to witches with Baba Yaga as a patron, but can also be discovered by other witches who find her secret knowledge or magic in Irrisen or elsewhere."
+    "question": "What is the 'Glacial Heart' hex?",
+    "answer": "The 'Glacial Heart' hex is a rare evocation hex that deals cold damage to a target and can potentially slow or even encase the target in ice. It requires a Fortitude save from the target, with failure resulting in increasingly severe effects."
+  },
+  {
+    "source_file": "baba_yaga.md",
+    "question": "What is unique about a witch's familiar if Baba Yaga is their patron?",
+    "answer": "A witch with Baba Yaga as their patron can choose an inanimate object as a familiar. While it initially lacks movement, it can gain Speed familiar abilities to come to life and move, using the statistics of a normal familiar."
+  },
+  {
+    "source_file": "baba_yaga.md",
+    "question": "How is Queen Anastasia connected to Baba Yaga?",
+    "answer": "Queen Anastasia is Baba Yaga's granddaughter, resurrected and placed on the throne of Irrisen by Baba Yaga."
+  },
+  {
+    "source_file": "baba_yaga.md",
+    "question": "What is the 'Lesson of the Frozen Queen'?",
+    "answer": "The 'Lesson of the Frozen Queen' is a major lesson available to witches with Baba Yaga as a patron. It grants the _glacial heart_ hex and teaches your familiar _wall of ice_."
   }
 ]

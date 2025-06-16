@@ -1,27 +1,52 @@
 [
   {
     "source_file": "old-mage_jatembe.md",
-    "question": "Who are Kalabrynne Iomedar and Clarethe, and what is their goal?",
-    "answer": "Kalabrynne Iomedar and her child, Clarethe, are Knights of Lastwall who seek the ultimate defeat of Tar-Baphon."
+    "question": "Who is Old-Mage Jatembe?",
+    "answer": "Old-Mage Jatembe is a famous and influential figure from Golarion who rediscovered magic and helped the peoples of the Mwangi Expanse after Earthfall. He later disappeared without a trace."
   },
   {
     "source_file": "old-mage_jatembe.md",
-    "question": "What is Old-Mage Jatembe's goal in the Gravelands?",
-    "answer": "Old-Mage Jatembe prioritizes using the knowledge his people have accumulated to rehabilitate and right the Gravelands that Tar-Baphon created. He believes that ancient, tainted artifacts are the sources of the Gravelands' corruption and that removing or destroying them would end large portions of the corruption."
+    "question": "What did Jatembe do to gain access to the Greatest Understanding at Locked Mountain?",
+    "answer": "Jatembe sang to the hidden sun to reveal the door, then tricked Obsidian into becoming the key to unlock the door."
   },
   {
     "source_file": "old-mage_jatembe.md",
-    "question": "Why does Jatembe respect the Knights of Lastwall?",
-    "answer": "Jatembe has nothing but respect and admiration for all the Knights of Lastwall and those who have rallied to their banner because of their efforts."
+    "question": "What is the significance of the Ten Magic Warriors?",
+    "answer": "The Ten Magic Warriors were Jatembe's disciples who gave up their names to serve their people. They helped Jatembe build Nantambu and founded the Magaambya Academy, forming its five branches and gathering students from across the Mwangi Expanse."
   },
   {
     "source_file": "old-mage_jatembe.md",
-    "question": "What is Janatimo's secret lesson?",
-    "answer": "Janatimo has a special Uzunjati storytelling technique that he keeps to himself and his closest friends and students because it could be used to harm the innocent if it fell into the wrong hands."
+    "question": "Describe the Festival of Masks.",
+    "answer": "The Festival of Masks is a major celebration on the 13th of Desnus in most Mwangi cities, honoring Jatembe and his Ten Magic Warriors. The form of celebration varies depending on the people involved."
   },
   {
     "source_file": "old-mage_jatembe.md",
-    "question": "What did the Ten Magic Warriors do, and how are they honored?",
-    "answer": "The Ten Magic Warriors were Jatembe's disciples who wore animal masks with gold inlay, and their deeds earned them many titles. They helped Jatembe build Nantambu and founded the first library of the new Magaambya Academy. The 13th of Desnus is a major day of celebration in most Mwangi cities, serving to honor Jatembe and his Ten Magic Warriors."
+    "question": "What is the 'Wisdom of Jatembe'?",
+    "answer": "The 'Wisdom of Jatembe' refers to Jatembe's writings and knowledge, available to those who attend his school. It includes spells penned by Jatembe, as well as refinements and breakthroughs added by Magaambyan students over the centuries."
+  },
+  {
+    "source_file": "old-mage_jatembe.md",
+    "question": "Explain the spell 'All is One, One is All'.",
+    "answer": "This rare necromancy spell allows the caster to meld the matter and life force of up to 11 willing living allies into one, then sift them back out. The caster can switch the positions of targets and redistribute their Hit Points, with certain limitations."
+  },
+  {
+    "source_file": "old-mage_jatembe.md",
+    "question": "What does the spell 'Halcyon Infusion' do?",
+    "answer": "Halcyon Infusion is a rare divination spell that infuses magical energy into a willing creature, granting them the ability to cast a 1st, 2nd, 3rd, 4th, or 5th-level spell (depending on the target's level) once per day as an innate spell."
+  },
+  {
+    "source_file": "old-mage_jatembe.md",
+    "question": "How might the tale of Agohbindi the Splintering Child be relevant to the present day?",
+    "answer": "Rare Rain-Scribe records mention crackling or burning trees and 'splitting sickness', suggesting that Agohbindi might be reassembling and causing these phenomena."
+  },
+  {
+    "source_file": "old-mage_jatembe.md",
+    "question": "How did Black Heron contribute to the founding of the Shory Empire?",
+    "answer": "Black Heron united the Shory peoples and shared Jatembe's knowledge of aeromancy magic, leading to the empire of Shory."
+  },
+  {
+    "source_file": "old-mage_jatembe.md",
+    "question": "What is the role of Ieme and Kedari in preserving Jatembe's legacy?",
+    "answer": "Ieme and Kedari are performers who tell stories about Jatembe to audiences, with the aim of advancing within the Magaambya. They research and prepare performances to share the knowledge and legends surrounding Jatembe."
   }
 ]

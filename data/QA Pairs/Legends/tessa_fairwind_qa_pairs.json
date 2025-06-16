@@ -1,27 +1,47 @@
 [
   {
     "source_file": "tessa_fairwind.md",
-    "question": "What are Queen Telandia's current diplomatic efforts focused on?",
-    "answer": "Queen Telandia is primarily focused on forming alliances to combat the re-emergence of Tar-Baphon. She's reaching out to various countries and groups, starting with those local to Kyonin, such as Taldor, Andoran, and the Five Kings Mountains. She is also working to manage internal dissent regarding both opening Kyonin to outsiders and potentially reigniting conflict with Treerazer."
+    "question": "What title does Tessa Fairwind hold and where does she rule from?",
+    "answer": "Tessa Fairwind is the Hurricane Queen of the Shackles. She rules from her town house in Port Peril, on Motaku Isle."
   },
   {
     "source_file": "tessa_fairwind.md",
-    "question": "Why is Queen Telandia reluctant to engage in diplomatic talks with Razmiran and Galt?",
-    "answer": "Telandia is disgusted by the oppression in Razmiran and the heretical view of elves held by Razmir, effectively placing them at war. She is also hesitant due to the constant turmoil in Galt's government, preferring to wait and see if Citizen Camilia Drannoch can maintain leadership."
+    "question": "What is Tessa Fairwind's origin story and how did she become a skilled sailor?",
+    "answer": "Tessa was born at sea to a human merchant and an elven priest of Calistria. Her mother signed her over to Captain Karise, who taught her to be a competent sailor."
   },
   {
     "source_file": "tessa_fairwind.md",
-    "question": "What is Tessa Fairwind's background and how did she become the Hurricane Queen?",
-    "answer": "Tessa Fairwind is a half-elf pirate born at sea to a human merchant and an elven priest of Calistria. After becoming a notorious pirate and causing trouble for Cheliax, she was eventually captured and imprisoned before escaping and rising in the Pirate Council. She reluctantly took the title of Hurricane Queen after the previous one fell."
+    "question": "Why did Tessa initially not want the title of Hurricane Queen and what changed her mind?",
+    "answer": "Tessa preferred a carefree lifestyle and didn't seek the title. She eventually took it because the likely candidates, assumed to be the PCs, also didn't want it, and she saw it as a refuge from consequences."
   },
   {
     "source_file": "tessa_fairwind.md",
-    "question": "How has becoming Hurricane Queen impacted Tessa Fairwind?",
-    "answer": "While Tessa preferred a carefree life, the power of being Hurricane Queen has given her refuge from consequences. This has made her somewhat reckless, leading to successful raids like the one on Cheliax, but also causing concern among other pirate lords who view her as potentially weak and irresponsible."
+    "question": "What is Tessa Fairwind's relationship with Cheliax, and what are some consequences of this relationship?",
+    "answer": "Tessa is a scourge of Cheliax, harassing their shipping routes and interests. As a consequence, she has a high price on her head and was once captured and imprisoned in a Cheliaxian labor camp."
   },
   {
     "source_file": "tessa_fairwind.md",
-    "question": "How does Queen Telandia balance her need for alliances with the concerns of her elven subjects?",
-    "answer": "Queen Telandia balances her need for alliances by opening Kyonin to outsiders to gather allies against Tar-Baphon, while simultaneously hiring diplomats to placate her elven subjects who fear losing their nation to outsiders or want her to focus on other threats like Treerazer."
+    "question": "How is Tessa Fairwind perceived by other pirate lords, and what are some of the threats she faces as Hurricane Queen?",
+    "answer": "Some pirate lords see Tessa as weak and irresponsible, while others covet her position. She faces threats from Chelaxian invasion and internal scheming against her rule."
+  },
+  {
+    "source_file": "tessa_fairwind.md",
+    "question": "Describe Tessa Fairwind's general personality and reputation, and what are some of her notable relationships?",
+    "answer": "Tessa is generally friendly and easy-going, honoring commitments and loyal to allies, but she is also calculating and ruthless. She has a string of lovers and partners and conflicted feelings towards Shimali Manux and Avarneus. Her relationships with the Firebrands are tempestuous."
+  },
+  {
+    "source_file": "tessa_fairwind.md",
+    "question": "What are some notable characteristics about Tessa Fairwind's ship, _Luck of the Draw_?",
+    "answer": "_Luck of the Draw_ is a vessel that the Chelaxian navy has repeatedly failed to capture, and it is rumored that the navy is attempting to create a new warship to defeat it."
+  },
+  {
+    "source_file": "tessa_fairwind.md",
+    "question": "How would you describe Tessa Fairwind's relationships with Shimali Manux and Avarneus?",
+    "answer": "Tessa's feelings towards Shimali Manux are conflicted, ranging from dismissive to admiring. She seeks the capture of Avarneus for betraying her but appears content to let him be, even benefiting from his inventions."
+  },
+  {
+    "source_file": "tessa_fairwind.md",
+    "question": "How does Tessa Fairwind deal with the Chelaxian threat as Hurricane Queen?",
+    "answer": "Tessa is aware of the Chelaxian threat and devotes resources to monitoring their movements. She is quick to find Chelaxian spies among the Free Captains."
   }
 ]

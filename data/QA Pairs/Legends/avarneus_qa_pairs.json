@@ -1,32 +1,52 @@
 [
   {
     "source_file": "avarneus.md",
-    "question": "What are some uses of the Thuvian oasis bee?",
-    "answer": "Thuvian oasis bees make honey that luminesces, provides an excellent base for suspensions, and enhances every potion that utilizes it."
+    "question": "What is Avarneus's role in Vidrian's governing council?",
+    "answer": "Avarneus is a part of the governing council of Vidrian and continues to gather intelligence, even recruiting others for missions when necessary."
   },
   {
     "source_file": "avarneus.md",
-    "question": "What are some of the uses of the Sun Orchid?",
-    "answer": "A tea made from the dried labellum and sepals tastes of vanilla and clears the mind. The thick, waxy leaves slow bleeding and have antiseptic qualities. The light white fungus that nourishes their root system makes an excellent alchemical catalyst."
+    "question": "Why does Avarneus value relationships based on their political potential?",
+    "answer": "Avarneus measures the value of relationships by their political potential because they have learned to operate this way, and it has not yet been necessary for them to change."
   },
   {
     "source_file": "avarneus.md",
-    "question": "What led to Avarneus's arrest after the Vidrian revolution?",
-    "answer": "Avarneus was arrested as a perceived collaborator, due to their work embedding themself and other spies in Sargava's colonial government during the revolution."
+    "question": "What is Avarneus's opinion of Abrogail Thrune II?",
+    "answer": "Avarneus believes Abrogail Thrune II wants to reassert her rule, particularly over Vidrian, and sees her as cruel and conniving, requiring close and discreet monitoring."
   },
   {
     "source_file": "avarneus.md",
-    "question": "How does Avarneus measure the value of relationships?",
-    "answer": "Avarneus measures the value of relationships by their political potential, recognizing this as personally and professionally destructive in the long run but viewing it as how they have learned to operate."
+    "question": "Why did Avarneus have a memorial erected excluding certain heroes of the revolution?",
+    "answer": "Avarneus had a memorial erected excluding certain heroes, stating that those who are absent know why, implying they may have reasons for not being honored publicly."
   },
   {
     "source_file": "avarneus.md",
-    "question": "What is the Clockwork Recorder and how is it used?",
-    "answer": "The Clockwork Recorder (Item 6) is a small recording device, concealed in books or jewelry, that can record up to 1 hour of sound. It can be activated to record or playback immediately, or timed to start up to one month later."
+    "question": "How does Avarneus use the clockwork recorder?",
+    "answer": "Avarneus uses the clockwork recorder as a small recording device, typically concealed, to record up to 1 hour of sound, which can be played back later using any clockwork recorder."
   },
   {
     "source_file": "avarneus.md",
-    "question": "What are the effects of Lovers' Ink?",
-    "answer": "Lovers' Ink (Item 2) dries to a color similar to most parchments, hiding any message written with it. Another dose of lovers' ink and a specific agitation reveals the hidden message. A vial provides enough ink to fill 1 page worth of text."
+    "question": "What is the purpose of Avarneus's lover's ink?",
+    "answer": "Avarneus's version of lover's ink is used to write secret messages that are hidden until revealed by applying another dose of the ink and vigorously shaking, preventing casual interception."
+  },
+  {
+    "source_file": "avarneus.md",
+    "question": "How does Avarneus use the palm crossbow?",
+    "answer": "Avarneus uses the palm crossbow, disguised as a bracelet, to fire a single blowgun dart, providing a concealed weapon."
+  },
+  {
+    "source_file": "avarneus.md",
+    "question": "What are vestige lenses used for?",
+    "answer": "Vestige lenses are alchemical lenses used to detect the faint smoke trail from specially formulated sandalwood incense, allowing for discreet tracking of individuals."
+  },
+  {
+    "source_file": "avarneus.md",
+    "question": "What is Avarneus's opinion of Shimali Manux?",
+    "answer": "Avarneus sees Shimali Manux's idealism as something to be nurtured and cherished, and tries to keep an eye on the Firebrands and those they associate with for potential dissension on Shimali's behalf."
+  },
+  {
+    "source_file": "avarneus.md",
+    "question": "What is Avarneus's opinion of Toulon Vidoc?",
+    "answer": "Avarneus believes that Toulon Vidoc cannot understand that law is never applied equitably and would destroy Vidrian given the chance. Avarneus wants to avoid Vidoc."
   }
 ]
