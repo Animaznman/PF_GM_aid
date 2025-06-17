@@ -38,6 +38,9 @@ pip install ipywidgets
 
 ### 1. Clone and Build llama.cpp
 ```bash
+sudo apt update
+sudo apt install libcurl4-openssl-dev
+
 git clone https://github.com/ggml-org/llama.cpp
 cd llama.cpp
 cmake -B build
@@ -53,8 +56,8 @@ sudo cp build/bin/llama-quantize .
 
 ### Download Ollama Model and Modelfile
 ```bash
-scp -r ubuntu@104.171.202.44:/home/ubuntu/PF_GM_aid/fine-tune/ollama_model ./
-scp -r ubuntu@104.171.202.44:/home/ubuntu/PF_GM_aid/fine-tune/Modelfile ./
+scp -r ubuntu@104.171.202.18:/home/ubuntu/PF_GM_aid/fine-tune/ollama_model ./
+scp -r ubuntu@104.171.202.18:/home/ubuntu/PF_GM_aid/fine-tune/Modelfile ./
 ```
 
 ## Set up Ollama Locally
