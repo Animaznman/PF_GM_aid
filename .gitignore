@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 unsloth*
+chroma_db/
 
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
@@ -11,3 +12,4 @@ unsloth*
 outputs
 llama.cpp
 _unsloth*
+langchain_chunker.ipynb
