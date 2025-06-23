@@ -56,8 +56,8 @@ sudo cp build/bin/llama-quantize .
 
 ### Download Ollama Model and Modelfile
 ```bash
-scp -r ubuntu@104.171.202.18:/home/ubuntu/PF_GM_aid/fine-tune/ollama_model ./
-scp -r ubuntu@104.171.202.18:/home/ubuntu/PF_GM_aid/fine-tune/Modelfile ./
+scp -r ubuntu@167.234.210.45:/home/ubuntu/PF_GM_aid/fine-tune/ollama_model ./
+scp -r ubuntu@167.234.210.45:/home/ubuntu/PF_GM_aid/fine-tune/Modelfile ./
 ```
 
 ## Set up Ollama Locally
